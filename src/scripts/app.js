@@ -106,3 +106,22 @@ const bar = document.querySelector('.bar');
 const onScroll = () => bar.classList.toggle('is-scrolled', scrollY > 24);
 addEventListener('scroll', onScroll, { passive: true });
 onScroll();
+
+/* ---------- Visit statistics (GoatCounter, only if enabled) ---------- */
+// Counts which games people open, plus filter and language changes, as anonymous events.
+function track(path, title) {
+  if (window.goatcounter?.count) window.goatcounter.count({ path, title, event: true });
+}
+document.addEventListener('click', (e) => {
+  const game = e.target.closest('a[target="_blank"][href]');
+  if (game) {
+    const source = game.closest('[data-source]')?.dataset.source ?? 'game';
+    const name = game.querySelector('h3, strong')?.textContent?.trim() ?? game.href;
+    track(`juego/${source}/${name}`, name);
+    return;
+  }
+  const filter = e.target.closest('[data-set-filter]');
+  if (filter) track(`filtro/${filter.dataset.setFilter}`, 'Filtro');
+  const lang = e.target.closest('[data-set-lang]');
+  if (lang) track(`idioma/${lang.dataset.setLang}`, 'Idioma');
+});

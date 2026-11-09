@@ -8,14 +8,21 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "check-data": "node scripts/check-data.mjs"
+    "check-data": "node scripts/check-data.mjs",
+    "og-image": "node scripts/og-image.mjs"
   },
   "engines": {
     "node": ">=20"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.19",
     "@fontsource-variable/anybody": "^5.3.0",
     "@fontsource/atkinson-hyperlegible": "^5.3.0",
     "astro": "^7.4.8"
+  },
+  "devDependencies": {
+    "@fontsource/anybody": "^5.3.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "satori": "^0.63.2"
   }
 }

@@ -6,6 +6,7 @@ import '../styles/global.css';
 import GameCard from './GameCard.astro';
 import { getData, countBy } from '../lib/data.js';
 import { t as dict } from '../lib/i18n.js';
+import { GOATCOUNTER } from '../lib/site-config.js';
 
 const { lang } = Astro.props;
 const t = dict[lang];
@@ -40,6 +41,24 @@ const countText = (n) => `${n} ${t.games(n)}`;
     <link rel="alternate" hreflang="es" href={absolute('es')} />
     <link rel="alternate" hreflang="en" href={absolute('en')} />
     <link rel="alternate" hreflang="x-default" href={absolute('es')} />
+    <link rel="alternate" type="application/rss+xml" title={t.rss.title} href={withBase(lang === 'es' ? 'rss.xml' : 'en/rss.xml')} />
+
+    <!-- Preview when the link is shared (Open Graph + Twitter/X) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Indie Radar" />
+    <meta property="og:title" content={t.title} />
+    <meta property="og:description" content={t.description} />
+    <meta property="og:url" content={absolute(lang)} />
+    <meta property="og:image" content={new URL(withBase(`og-${lang}.png`), Astro.site).href} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content={t.ogAlt} />
+    <meta property="og:locale" content={lang === 'es' ? 'es_ES' : 'en_GB'} />
+    <meta property="og:locale:alternate" content={lang === 'es' ? 'en_GB' : 'es_ES'} />
+    <meta name="twitter:card" content="summary_large_image" />
+    {GOATCOUNTER && (
+      <script is:inline async data-goatcounter={`https://${GOATCOUNTER}.goatcounter.com/count`} src="https://gc.zgo.at/count.js"></script>
+    )}
     <script is:inline define:vars={{ lang, enHome: homeFor('en') }}>
       try {
         const f = localStorage.getItem('indie-radar-filter');
@@ -255,6 +274,10 @@ const countText = (n) => `${n} ${t.games(n)}`;
         <div>
           <h2>{t.foot.dataTitle}</h2>
           <p>{t.foot.data(site.updatedLabel)}</p>
+          <a class="foot__rss" href={withBase(lang === 'es' ? 'rss.xml' : 'en/rss.xml')}>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="19" r="2.2" /><path d="M3 10.5a10.5 10.5 0 0 1 10.5 10.5M3 3.5A17.5 17.5 0 0 1 20.5 21" /></svg>
+            {t.rss.follow}
+          </a>
         </div>
       </div>
     </footer>
