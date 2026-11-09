@@ -4,7 +4,9 @@
  *  - default: image + text, used in the carousel and the gems mosaic
  *  - compact: horizontal row, used in the upcoming timeline
  */
-const { game, variant = 'default', loading = 'lazy', tilt = 0 } = Astro.props;
+import { t as dict } from '../lib/i18n.js';
+const { game, lang = 'es', variant = 'default', loading = 'lazy', tilt = 0 } = Astro.props;
+const t = dict[lang];
 const sourceName = game.source === 'steam' ? 'Steam' : 'itch.io';
 ---
 <article
@@ -38,7 +40,7 @@ const sourceName = game.source === 'steam' ? 'Steam' : 'itch.io';
           </span>
         )}
         {variant === 'compact' && game.popularityRank && (
-          <span class="tag">Nº {game.popularityRank} en popularidad</span>
+          <span class="tag">{t.soon.popularity(game.popularityRank)}</span>
         )}
         {variant !== 'compact' && game.dateLabel && <span class="tag tag--date">{game.dateLabel}</span>}
       </div>

@@ -71,21 +71,37 @@ export async function fetchUpcomingIndies(limit = 60) {
   return parseRows(results_html).map((g, i) => ({ ...g, popularityRank: i + 1 }));
 }
 
-/** Detalles (desarrolladora, distribuidora, géneros, descripción). Usa caché para no repetir peticiones. */
-export async function fetchDetails(appid, cache) {
-  if (cache[appid]) return cache[appid];
-  const url = `https://store.steampowered.com/api/appdetails?appids=${appid}&cc=es&l=spanish`;
+async function appdetails(appid, lang) {
+  const url = `https://store.steampowered.com/api/appdetails?appids=${appid}&cc=es&l=${lang}`;
   const json = await fetchWithRetry(url, { as: 'json' });
-  const d = json?.[appid]?.success ? json[appid].data : null;
-  const details = d ? {
-    developers: d.developers ?? [],
-    publishers: (d.publishers ?? []).filter(Boolean),
-    genres: (d.genres ?? []).map((g) => g.description),
-    shortDescription: decodeEntities(d.short_description ?? ''),
-    headerImage: d.header_image,
-    type: d.type,
-  } : null;
-  cache[appid] = details;
   await sleep(1500);
-  return details;
+  return json?.[appid]?.success ? json[appid].data : null;
+}
+
+/**
+ * Detalles (desarrolladora, distribuidora, géneros, descripción en español e inglés).
+ * Usa caché para no repetir peticiones; las entradas antiguas sin inglés se completan.
+ * Si el juego no está traducido, Steam devuelve el texto original en ambos idiomas.
+ */
+export async function fetchDetails(appid, cache) {
+  const cached = cache[appid];
+  if (cached === null) return null;
+  if (cached && cached.shortDescriptionEn !== undefined) return cached;
+
+  if (!cached) {
+    const d = await appdetails(appid, 'spanish');
+    cache[appid] = d ? {
+      developers: d.developers ?? [],
+      publishers: (d.publishers ?? []).filter(Boolean),
+      genres: (d.genres ?? []).map((g) => g.description),
+      shortDescription: decodeEntities(d.short_description ?? ''),
+      headerImage: d.header_image,
+      type: d.type,
+    } : null;
+    if (!d) return null;
+  }
+
+  const en = await appdetails(appid, 'english');
+  cache[appid].shortDescriptionEn = en ? decodeEntities(en.short_description ?? '') : '';
+  return cache[appid];
 }

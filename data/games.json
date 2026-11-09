@@ -32,7 +32,8 @@
         "shortDescription": "This desktop incremental shooter pits you against swarms of mechanical bugs spawning from screen edges to destroy your PC core. Grab weapons and shoot to hold back bug waves. Earn gold each run to unlock a massive skill tree, upgrading weapons, damage, desktop pets, special abilities.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019170/a3bbd37c024d28e792d6e5378e3ec5155e7dda4f/header.jpg?t=1794196371",
         "type": "game",
-        "score": 0.9626
+        "score": 0.9626,
+        "shortDescriptionEn": "This desktop incremental shooter pits you against swarms of mechanical bugs spawning from screen edges to destroy your PC core. Grab weapons and shoot to hold back bug waves. Earn gold each run to unlock a massive skill tree, upgrading weapons, damage, desktop pets, special abilities."
       },
       {
         "id": "steam:5088960",
@@ -62,7 +63,8 @@
         "shortDescription": "Enséñale la escuela a Yu en una breve novela visual de terror psicológico con una historia inconexa como un sueño. Un juego retro experimental creado para un solo disquete de 3,5 pulgadas, ahora en Steam.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088960/5a5e001d5a7c7e8866137aed5d81ca22ad3c1b0d/header.jpg?t=1793980814",
         "type": "game",
-        "score": 0.9408
+        "score": 0.9408,
+        "shortDescriptionEn": "Let's show〈Yuu〉, the new student, around school. A short psycho-horror visual novel depicting a mysterious relationship with her, unfolding without context like a dream. The Steam version of an experimental retro game designed to fit on a single 3.5-inch floppy disk."
       },
       {
         "id": "steam:4555040",
@@ -92,7 +94,8 @@
         "shortDescription": "Sushiamo es un roguelike de construcción de mazos donde haces sushi para alcanzar puntuaciones absurdas. ¡Descubre ingredientes únicos, salsas, herramientas que cambian el juego y navega por el mapa para romper el juego con combos de locura!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555040/192bba964fd44411120b9a812eac0b4addf4952d/header.jpg?t=1793886345",
         "type": "game",
-        "score": 0.913
+        "score": 0.913,
+        "shortDescriptionEn": "Sushiamo is a roguelike deck-builder where you make sushi to reach absurd scores. Discover unique ingredients, sauces, game-changing tools, and navigate the map to break the game with insane combos!"
       },
       {
         "id": "steam:4960570",
@@ -122,7 +125,8 @@
         "shortDescription": "An idle cultivation game at the bottom of your desktop. While you work, your thief steals, sells fakes and auctions loot to ascend. When Heaven notices, can he still steal his way to the top?",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960570/1d3527c02e3f6a188036909a5b41d653a1ff8065/header.jpg?t=1793928648",
         "type": "game",
-        "score": 0.9082
+        "score": 0.9082,
+        "shortDescriptionEn": "An idle cultivation game at the bottom of your desktop. While you work, your thief steals, sells fakes and auctions loot to ascend. When Heaven notices, can he still steal his way to the top?"
       },
       {
         "id": "steam:4784510",
@@ -151,7 +155,8 @@
         "shortDescription": "Vive los últimos días del viejo Petro en una pequeña aldea hacia la que se aproxima un gigantesco leviatán. Un juego de terror existencial sobre lo inevitable, la soledad y un hombre que no tiene adónde ir ni ningún motivo para marcharse.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4784510/894c18fd776040fe43523995d4122af0a0298a76/header.jpg?t=1793981530",
         "type": "game",
-        "score": 0.8948
+        "score": 0.8948,
+        "shortDescriptionEn": "Live through the final days of an old man in a small village threatened by an approaching giant Leviathan. An existential horror game about inevitability, loneliness, and a man with nowhere to go and no reason to leave."
       },
       {
         "id": "steam:3299080",
@@ -181,7 +186,8 @@
         "shortDescription": "Empieza solo con una taquilla en la montaña. Retira nieve, corta leña, rompe el hielo de los tejados, todo a mano, todo en primera persona. Sirve bebidas, cocina, repara equipos de esquí y transforma un refugio abandonado en un complejo con hotel, restaurante, bar y tienda.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3299080/c4fd34d7322720bb4f5c04a78676a2db5d2495e4/header.jpg?t=1793881628",
         "type": "game",
-        "score": 0.8899
+        "score": 0.8899,
+        "shortDescriptionEn": "Start with nothing but a ticket booth in the mountains. Clear snow, chop wood, crack ice off rooftops, all by hand, all in first person. Serve drinks, cook meals, repair ski gear, and turn a rundown mountain stop into a full-blown resort with a hotel, restaurant, bar, and shop."
       },
       {
         "id": "steam:3325390",
@@ -210,7 +216,8 @@
         "shortDescription": "Planta cara a tus miedos de la infancia en este roguelike de dados con alma noventera. Una tirada de dado y toda tu build se dispara. Encadena combos rotísimos, lucha contra el brócoli y decora tu cuarto con reliquias nostálgicas.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3325390/38b20ceb907272fdb21efde985d146deadcc8daa/header.jpg?t=1793905859",
         "type": "game",
-        "score": 0.883
+        "score": 0.883,
+        "shortDescriptionEn": "Battle your childhood fears in a 90s-soaked dice roguelike. One die roll triggers your entire build. Chain wild combos, fight broccoli, and decorate your bedroom with nostalgic relics."
       },
       {
         "id": "steam:4880410",
@@ -240,7 +247,8 @@
         "shortDescription": "An idle-like alien colony simulator. Study an alien species and expand the colony to discover all their peculiar behaviours.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880410/dc3c21c98a996b698ab4d133e6711ea9b9e44c8e/header.jpg?t=1794199071",
         "type": "game",
-        "score": 0.8741
+        "score": 0.8741,
+        "shortDescriptionEn": "An idle-like alien colony simulator. Study an alien species and expand the colony to discover all their peculiar behaviours."
       },
       {
         "id": "steam:3810240",
@@ -270,7 +278,8 @@
         "shortDescription": "Alimenta y cría a tu pequeño monstruo. Obsérvalo crecer y devorar absolutamente todo lo que encuentra. In Full Bloom es un juego al estilo Katamari con mecánicas inspiradas en el Tamagotchi, protagonizado por una criatura con un hambre insaciable por el mundo que la rodea. Solo hay un camino.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810240/7bfe6c462fcff35858970757ab59cd4dfeb7eb98/header.jpg?t=1793962934",
         "type": "game",
-        "score": 0.8692
+        "score": 0.8692,
+        "shortDescriptionEn": "Feed and raise your little baby. Watch it grow and feed on every and anything. In Full Bloom is a Tamagotchi inspired Katamari-like about a creature with never-ending hunger for the world around it. There is only one way."
       },
       {
         "id": "steam:5157730",
@@ -300,7 +309,8 @@
         "shortDescription": "Snow of Penglai is a yuri-themed visual novel set in ancient China. Players will step into the shoes of Xuanhua, a puppet girl, and confront everything about the witch Zhu Hanchuan. This is a story of rebirth. A lotus rising, bleeding, blooming anew.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5157730/38444cc68d30ce233f05f2751c3cc9c70fcfd074/header.jpg?t=1794055791",
         "type": "game",
-        "score": 0.8654
+        "score": 0.8654,
+        "shortDescriptionEn": "Snow of Penglai is a yuri-themed visual novel set in ancient China. Players will step into the shoes of Xuanhua, a puppet girl, and confront everything about the witch Zhu Hanchuan. This is a story of rebirth. A lotus rising, bleeding, blooming anew."
       },
       {
         "id": "steam:5182840",
@@ -329,7 +339,8 @@
         "shortDescription": "En Way Too Many Eggs empiezas con una pequeña granja y acabas hasta arriba de huevos. Recógelos, cría gallinas, contrata ayudantes y rompe huevos gigantes. Un juego incremental con mejoras permanentes en el árbol de habilidades para que cada ronda vaya a más.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5182840/cdac880060e6a5a2e006fb50bb8d0e82e36a8be2/header.jpg?t=1794108775",
         "type": "game",
-        "score": 0.862
+        "score": 0.862,
+        "shortDescriptionEn": "Way Too Many Eggs is an incremental game about turning a tiny chicken farm into egg-filled chaos. Collect eggs, grow your flock, hire helpers, crack giant eggs and unlock permanent upgrades in the skill tree!"
       },
       {
         "id": "steam:2231090",
@@ -360,7 +371,8 @@
         "shortDescription": "Number Machine es un juego de automatización y fábricas de mundo abierto con mecánicas matemáticas. Diseña, construye y optimiza fábricas que ensamblan y entregan automáticamente complejas estructuras numéricas. Inspirado en Opus Magnum e Infinifactory.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231090/900ee83717b62bd90d0753793f70f4ed1301fb68/header.jpg?t=1793988040",
         "type": "game",
-        "score": 0.8569
+        "score": 0.8569,
+        "shortDescriptionEn": "Number Machine is an open-ended factory and automation game with math mechanics. Design, build, and optimize factories that automatically assemble and deliver complex numerical structures. Inspired by Opus Magnum and Infinifactory."
       },
       {
         "id": "steam:5296640",
@@ -390,7 +402,8 @@
         "shortDescription": "Sort Them Fish es un acogedor simulador de organización en el que devuelves 2538 peces a sus acuarios. Llena los tanques, desbloquea habilidades y transforma el caos de una tienda de acuariofilia en una preciosa colección bien ordenada.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5296640/720126607a23c42924869b2b5fe7ef7f8bdc7d4c/header.jpg?t=1793890876",
         "type": "game",
-        "score": 0.8454
+        "score": 0.8454,
+        "shortDescriptionEn": "Sort Them Fish is a cozy organizing simulator where you return 2538 fish to their proper aquariums in a cluttered aquatics store. Fill the tanks, learn abilities and turn the chaos into a beautifully organized fish collection."
       },
       {
         "id": "steam:4146650",
@@ -420,7 +433,8 @@
         "shortDescription": "Coge tu teclado y déjate llevar por el ritmo en MUPO. Este trepidante juego de ritmo combina destreza, creatividad y comunidad. Crea mapas, escala posiciones en las tablas de clasificación y define el futuro del juego. Y hay mucho más por venir: ¡no te lo pierdas! ¡Únete a la aventura MUPO!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4146650/45193bdaa94fe83ec00b0360b98b81610e7c3741/header.jpg?t=1793890754",
         "type": "game",
-        "score": 0.8406
+        "score": 0.8406,
+        "shortDescriptionEn": "Grab your keyboard and jump into the rhythm in MUPO. This fast-paced rhythm game is driven by skill, creativity, and community. Build maps, climb leaderboards, and shape the game’s future. And there’s so much more to come, stay tuned. Be part of the MUPO journey!"
       },
       {
         "id": "steam:3273260",
@@ -451,7 +465,8 @@
         "shortDescription": "¿Puede un coche de juguete convertirse en el héroe de un videojuego? Una noche, su dueño desapareció misteriosamente sin dejar rastro. Sola en la habitación silenciosa, este pequeño coche emprende un viaje tenebroso y conmovedor para encontrar al niño…",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3273260/e59ba200b5d934d884996d2985662b13fb821eec/header.jpg?t=1794228932",
         "type": "game",
-        "score": 0.8376
+        "score": 0.8376,
+        "shortDescriptionEn": "Can a toy car become the hero of a video game? One night, its owner mysteriously vanished without a trace. Left alone in the quiet room, this little car sets out on a spooky and mysterious journey - to find the boy..."
       },
       {
         "id": "steam:4593350",
@@ -480,7 +495,8 @@
         "shortDescription": "Dry Spring Monologue is a chapter-based visual novel game that follows Lu Zimo. The story includes adult themes such as overtime work, insomnia, and performance reviews, as well as terrifying elements like living spaghetti.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593350/7dd9aade9ae63118622a751a46e9b2ff40f74d90/header.jpg?t=1793861516",
         "type": "game",
-        "score": 0.8326
+        "score": 0.8326,
+        "shortDescriptionEn": "Dry Spring Monologue is a chapter-based visual novel game that follows Lu Zimo. The story includes adult themes such as overtime work, insomnia, and performance reviews, as well as terrifying elements like living spaghetti."
       },
       {
         "id": "steam:4873800",
@@ -510,7 +526,8 @@
         "shortDescription": "Resuelve puzles giratorios con adorables chicas gato. Una experiencia acogedora con progresión incremental suave. Charla con chicas gato. Mejora en los puzles de alguna manera. Toma decisiones cuestionables. Desbloquea cosas sorprendentemente útiles.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4873800/be4448c0bcaaa5979231eff0db9fd6de4b03cd22/header.jpg?t=1794154175",
         "type": "game",
-        "score": 0.8268
+        "score": 0.8268,
+        "shortDescriptionEn": "Solve rotating puzzles with cute cat girls. Cozy, soft-incremental gameplay. Chat With Cat Girls. Somehow Get Better at Puzzles. Make Questionable Choices. Unlock Surprisingly Useful Stuff."
       },
       {
         "id": "steam:3596560",
@@ -541,7 +558,8 @@
         "shortDescription": "Stack & Brew es un juego de gestión en el que preparas pociones y diriges tu propia tienda. Fabrica las pociones y objetos mágicos que pidan tus clientes, entrégalos a tiempo, gana dinero, sube de nivel, amplía tu negocio y enfréntate a jefes.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596560/5f53bd77f89b2d4e2ba139f153fc92c22aa597ee/header.jpg?t=1793809657",
         "type": "game",
-        "score": 0.8268
+        "score": 0.8268,
+        "shortDescriptionEn": "Stack & Brew is a management simulation game where you brew potions and run your own shop. Craft the potions and magical items your customers request, deliver them on time, collect your earnings, level up, expand your business, and take on bosses!"
       },
       {
         "id": "steam:5017810",
@@ -572,7 +590,8 @@
         "shortDescription": "El tesoro del dragón se ha descontrolado. Ponte cómodo, recoge montañas de oro moneda a moneda, llena cofre tras cofre y devuelve cada tesoro enterrado a su lugar en las estanterías. Mira cómo el caos se convierte en orden, pieza a pieza. Un juego cozy de ordenar. Hay gatos.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017810/2b8f9d1bc108b6514619839f6dda30b15a741206/header.jpg?t=1793894730",
         "type": "game",
-        "score": 0.8258
+        "score": 0.8258,
+        "shortDescriptionEn": "The dragon's hoard has gotten out of hand. Sit back, sweep up mountains of gold coin by coin, fill chest after chest, and give every buried treasure its rightful place on the shelves. Watch chaos turn into order, piece by piece. A cozy organizing game. There are cats."
       },
       {
         "id": "steam:5325220",
@@ -602,7 +621,8 @@
         "shortDescription": "Crea un avatar humano o animal que viva en tu escritorio. Vístelo, deja que te acompañe mientras trabajas o escuchas música y envíalo a la pantalla de un amigo con un saludo, un abrazo o un pequeño regalo. Gratis para siempre, para repartir cariño.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325220/6d3a4d370c7519894124f2d81e46d74745a4a22f/header.jpg?t=1794061963",
         "type": "game",
-        "score": 0.8241
+        "score": 0.8241,
+        "shortDescriptionEn": "Create a human or animal avatar that lives on your desktop. Dress them up, let them keep you company while you work or listen to music, use them as a VTube Avatar or send them to a friend’s screen with a wave, a hug or a little gift. Free to play forever to spread the warmth."
       },
       {
         "id": "steam:4338800",
@@ -637,7 +657,8 @@
         "shortDescription": "🎮 一款以修真世界为故事背景，挂机刷BOSS、逆天改命的Idle RPG。闯关升级、打BOSS爆神装、结婚生子、组队讨伐、PVP竞技……内容多到玩不过来，却只需挂机操作！",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338800/815845060be33c80ccdcfd1c756d9be87025b785/header.jpg?t=1793938841",
         "type": "game",
-        "score": 0.8238
+        "score": 0.8238,
+        "shortDescriptionEn": "🎮 一款以修真世界为故事背景，挂机刷BOSS、逆天改命的Idle RPG。闯关升级、打BOSS爆神装、结婚生子、组队讨伐、PVP竞技……内容多到玩不过来，却只需挂机操作！"
       },
       {
         "id": "steam:3591900",
@@ -668,7 +689,8 @@
         "shortDescription": "Chivalware es un frenético «roguelite» de acción y emparejar casillas. Pon a prueba tu coordinación y reflejos en tiempo real en un campo de batalla cuadriculado: esquiva ataques, empareja casillas para cargar las armas y ataca en el momento más oportuno.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3591900/4fcf6fea58cf1e969be944080df2c58489bad70c/header_alt_assets_3.jpg?t=1793955817",
         "type": "game",
-        "score": 0.8217
+        "score": 0.8217,
+        "shortDescriptionEn": "Chivalware is a frantic tile-matching action roguelite. Challenge your reflexes and coordination in real-time on a grid battlefield: evade attacks, match tiles to charge your weapons, and find the right opportunity to strike."
       },
       {
         "id": "steam:4633120",
@@ -698,7 +720,8 @@
         "shortDescription": "Un juego de carreras psicodélico donde no hay sitio para los límites ni los frenos. Compite en carreras de 30 segundos sobre un cilindro cósmico que no deja de girar y donde la muerte acecha en cada curva. Persigue récords mundiales, derrota a los fantasmas de otros pilotos y tráete hasta 7 amigos.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4633120/ddac3656d68a257db94b27cf282aa8f48ff0f347/header.jpg?t=1794045098",
         "type": "game",
-        "score": 0.8202
+        "score": 0.8202,
+        "shortDescriptionEn": "A psychedelic hyper-speed racer with no speed limit and no brakes. Dodge, graze, and boost around a rotating cosmic cylinder where runs last 30 seconds and death is instant. Chase world records, race ghost replays, or play with up to 7 friends."
       },
       {
         "id": "steam:5354780",
@@ -727,7 +750,8 @@
         "shortDescription": "PETAFAB: Bot Invasion is a single-player first-person shooter with fully destructible environments and large-scale physics simulation. Blast through massive swarms of AI-controlled bots and take down huge bosses. Collateral damage is just a bonus.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5354780/085111108b991320e4402eeea4ac03a57c82d100/header.jpg?t=1794044767",
         "type": "game",
-        "score": 0.8157
+        "score": 0.8157,
+        "shortDescriptionEn": "PETAFAB: Bot Invasion is a single-player first-person shooter with fully destructible environments and large-scale physics simulation. Blast through massive swarms of AI-controlled bots and take down huge bosses. Collateral damage is just a bonus."
       }
     ],
     "topMonth": [
@@ -760,7 +784,8 @@
         "shortDescription": "From making new friends — or enemies — to exploring this island for secrets, how will your story end? Play as Grian in this visual-novel RPG and encounter new, shocking twists that you wouldn’t expect!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5257930/9fa056affc5473003c0165cb28fa0232d4442898/header.jpg?t=1792633458",
         "type": "game",
-        "score": 0.9765
+        "score": 0.9765,
+        "shortDescriptionEn": "From making new friends — or enemies — to exploring this island for secrets, how will your story end? Play as Grian in this visual-novel RPG and encounter new, shocking twists that you wouldn’t expect!"
       },
       {
         "id": "steam:5190580",
@@ -790,7 +815,8 @@
         "shortDescription": "HELENA: Cloud District is an atmospheric first-person exploration game where you explore a decaying mega-structure to photograph strange plants and uncover fragments of melancholic memories.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190580/1f274f8282617700a1da4fd43b33d17e7fee7218/header.jpg?t=1793300989",
         "type": "game",
-        "score": 0.9692
+        "score": 0.9692,
+        "shortDescriptionEn": "HELENA: Cloud District is an atmospheric first-person exploration game where you explore a decaying mega-structure to photograph strange plants and uncover fragments of melancholic memories."
       },
       {
         "id": "steam:2725250",
@@ -824,7 +850,8 @@
         "shortDescription": "A 2D action-adventure where the story unfolds by tuning the stage with music. A play by Aleph and Liora, who have lost their memories. A beautiful yet eerie stage, and the secret of the forgotten theater await. Your choices will determine the play's ending — and their fates.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725250/29049beddb4ece7370fc561f5fa8fedd9e133c6b/header.jpg?t=1793851794",
         "type": "game",
-        "score": 0.9656
+        "score": 0.9656,
+        "shortDescriptionEn": "A 2D action-adventure where the story unfolds by tuning the stage with music. A play by Aleph and Liora, who have lost their memories. A beautiful yet eerie stage, and the secret of the forgotten theater await. Your choices will determine the play's ending — and their fates."
       },
       {
         "id": "steam:5019170",
@@ -853,7 +880,8 @@
         "shortDescription": "This desktop incremental shooter pits you against swarms of mechanical bugs spawning from screen edges to destroy your PC core. Grab weapons and shoot to hold back bug waves. Earn gold each run to unlock a massive skill tree, upgrading weapons, damage, desktop pets, special abilities.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5019170/a3bbd37c024d28e792d6e5378e3ec5155e7dda4f/header.jpg?t=1794196371",
         "type": "game",
-        "score": 0.9626
+        "score": 0.9626,
+        "shortDescriptionEn": "This desktop incremental shooter pits you against swarms of mechanical bugs spawning from screen edges to destroy your PC core. Grab weapons and shoot to hold back bug waves. Earn gold each run to unlock a massive skill tree, upgrading weapons, damage, desktop pets, special abilities."
       },
       {
         "id": "steam:5133900",
@@ -884,7 +912,8 @@
         "shortDescription": "Un satisfactorio juego incremental en primera persona sobre convertir criaturas adorables en latas. Mátalas, recoge sus cuerpos, enlátalas y véndelas. Gana dinero, mejora tus armas y máquinas, y produce cada vez más.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133900/19aa14ebe3720e02f7f8c720abbf9749cf36967f/header.jpg?t=1794160548",
         "type": "game",
-        "score": 0.9609
+        "score": 0.9609,
+        "shortDescriptionEn": "A juicy first-person incremental game about turning cute creatures into cans. Kill them, collect their bodies, can them, and sell them. Make money, upgrade your weapons and machines, and produce more and more."
       },
       {
         "id": "steam:5356470",
@@ -914,7 +943,8 @@
         "shortDescription": "Review with caution.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5356470/3e3dd7a994a836e1d4402e10821822658e4fba76/header.jpg?t=1793026232",
         "type": "game",
-        "score": 0.9507
+        "score": 0.9507,
+        "shortDescriptionEn": "Review with caution."
       },
       {
         "id": "steam:4644170",
@@ -943,7 +973,8 @@
         "shortDescription": "¡AIM × Gestión de tienda! Recolecta, procesa, fabrica y atiende a clientes, todo con tu puntería. ¡Si dejas escapar a un cliente, es Game Over! Domina el flick & tracking aim y sobrevive al caos. ¡Multijugador online!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644170/aee5561a8f39db7c4fb745d041c328e2388e9109/header.jpg?t=1792207263",
         "type": "game",
-        "score": 0.9493
+        "score": 0.9493,
+        "shortDescriptionEn": "A hyper-fast shopkeeping game where every task is performed with your aim! Keep performing at your best by thinking carefully about efficiency and task order. Three difficulty levels, from mouse beginners to seasoned experts! Online co-op and versus multiplayer supported."
       },
       {
         "id": "steam:4304900",
@@ -977,7 +1008,8 @@
         "shortDescription": "Big Dig is a short incremental narrative game about digging up artifacts to help Mayor Dog win the election! Recover artifacts, grow your museum, and upgrade your tools while building a highway across the Animal Republic!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304900/f70f4692753e297cd45617fed789c15ce5b1c4c6/header.jpg?t=1793689372",
         "type": "game",
-        "score": 0.9451
+        "score": 0.9451,
+        "shortDescriptionEn": "Big Dig is a short incremental narrative game about digging up artifacts to help Mayor Dog win the election! Recover artifacts, grow your museum, and upgrade your tools while building a highway across the Animal Republic!"
       },
       {
         "id": "steam:3901850",
@@ -1006,7 +1038,8 @@
         "shortDescription": "Tu escritorio se merece un pato. Vive en tu pantalla, se posa en tus ventanas y reacciona a ti. Consigue sombreros en compañía y luego intercámbialos, véndelos o presume de ellos.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3901850/4cf06512ce8b8ac7b9133f9038dc7b54b835e987/header.jpg?t=1793392232",
         "type": "game",
-        "score": 0.9445
+        "score": 0.9445,
+        "shortDescriptionEn": "Your desktop deserves a duck. It lives on your screen, perches on your windows, and reacts to you. Earn hats together, then trade, sell, or show them off."
       },
       {
         "id": "steam:5088960",
@@ -1036,7 +1069,8 @@
         "shortDescription": "Enséñale la escuela a Yu en una breve novela visual de terror psicológico con una historia inconexa como un sueño. Un juego retro experimental creado para un solo disquete de 3,5 pulgadas, ahora en Steam.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088960/5a5e001d5a7c7e8866137aed5d81ca22ad3c1b0d/header.jpg?t=1793980814",
         "type": "game",
-        "score": 0.9408
+        "score": 0.9408,
+        "shortDescriptionEn": "Let's show〈Yuu〉, the new student, around school. A short psycho-horror visual novel depicting a mysterious relationship with her, unfolding without context like a dream. The Steam version of an experimental retro game designed to fit on a single 3.5-inch floppy disk."
       }
     ],
     "hiddenGems": [
@@ -1068,7 +1102,8 @@
         "shortDescription": "¡Un juego incremental adorable y lleno de dopamina! Basta con pasar el cursor. Clava tenedores en fruta gigante para ganar oro, compra más tenedores y elige bendiciones que formen sinergias. ¡Machaca la fruta, conviértela en mermelada y gástala en habilidades poderosas!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5345040/c645c3bbc12d473bc96963aabe376e7016894166/header.jpg?t=1793880942",
         "type": "game",
-        "score": 0.9381
+        "score": 0.9381,
+        "shortDescriptionEn": "A cute incremental game packed with dopamine! Just hover. Stab forks into giant fruit for gold, buy more forks, and pick Boons that stack into big synergies. Smash the fruit into jam and spend it on powerful skills!"
       },
       {
         "id": "steam:4714010",
@@ -1099,7 +1134,8 @@
         "shortDescription": "GloveUp! is a singleplayer anime-themed female boxing game featuring realistic and physics-driven animations. Create and customize a roster of fighters, shape unique fighting styles through abilities, unlock outfits, level up and take on tougher opponents and challenges.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4714010/75ca4e6af63bd9e3b981247913966d7877cd2272/header.jpg?t=1793455041",
         "type": "game",
-        "score": 0.9321
+        "score": 0.9321,
+        "shortDescriptionEn": "GloveUp! is a singleplayer anime-themed female boxing game featuring realistic and physics-driven animations. Create and customize a roster of fighters, shape unique fighting styles through abilities, unlock outfits, level up and take on tougher opponents and challenges."
       },
       {
         "id": "steam:3318210",
@@ -1129,7 +1165,8 @@
         "shortDescription": "\"Real friends exist in the online world!\" The Doomed Otaku is a multi-ending adventure that follows a wandering 20-something otaku as they navigate both the real and cyber worlds, experiencing various events along the way.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3318210/ac8494bae41aaa185c7cbfcca3560d19b859d95d/header.jpg?t=1792441492",
         "type": "game",
-        "score": 0.9308
+        "score": 0.9308,
+        "shortDescriptionEn": "\"Real friends exist in the online world!\" The Doomed Otaku is a multi-ending adventure that follows a wandering 20-something otaku as they navigate both the real and cyber worlds, experiencing various events along the way."
       },
       {
         "id": "steam:5342930",
@@ -1159,7 +1196,8 @@
         "shortDescription": "The original Dementium II, restored by the team who made it. William Redmoor wakes with fresh staples in his skull inside an asylum for the criminally insane, where the walls peel back to reveal something worse. Fight, solve and survive the cult DS horror classic, now on PC.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5342930/d60f8d81a5883693cbc0cd54854340290b1451d4/header.jpg?t=1792528486",
         "type": "game",
-        "score": 0.9285
+        "score": 0.9285,
+        "shortDescriptionEn": "The original Dementium II, restored by the team who made it. William Redmoor wakes with fresh staples in his skull inside an asylum for the criminally insane, where the walls peel back to reveal something worse. Fight, solve and survive the cult DS horror classic, now on PC."
       },
       {
         "id": "steam:4207990",
@@ -1189,7 +1227,8 @@
         "shortDescription": "Forge and combine magical gems, build deadly defenses, and survive relentless waves in the Flash-era tower defense classics GemCraft, Chapter Zero, and Labyrinth. Now with up to 9x speed, new hotkeys, easier gem combining, and smoother performance.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207990/b9df2f8f2542c1d2d5679fdb3885d23e24f0c8b9/header.jpg?t=1792670139",
         "type": "game",
-        "score": 0.9235
+        "score": 0.9235,
+        "shortDescriptionEn": "Forge and combine magical gems, build deadly defenses, and survive relentless waves in the Flash-era tower defense classics GemCraft, Chapter Zero, and Labyrinth. Now with up to 9x speed, new hotkeys, easier gem combining, and smoother performance."
       },
       {
         "id": "steam:5134730",
@@ -1219,7 +1258,8 @@
         "shortDescription": "TAKE MY BOMB es un juego de fiesta en línea: pasa la bomba a un amigo a tiempo para sobrevivir. ¡En los últimos 10 segundos, solo quien lleva la bomba ve el contador! ¿Quién sobrevivirá a este duelo de nervios con una bomba imprevisible? Antes de jugar, recuerda algo: “¡Con tal de que no sea yo!”",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5134730/58babb5272a0a9f2c2bba7649700ae8da774b448/header.jpg?t=1793344483",
         "type": "game",
-        "score": 0.9213
+        "score": 0.9213,
+        "shortDescriptionEn": "TAKE MY BOMB is an online party game: pass the bomb to a friend in time to survive. In the final 10 seconds, only the bomb holder sees the timer! Who will last to the end in a battle of wits over a bomb that could blow anytime? Before you start, remember one thing: “As long as it’s not me!”"
       },
       {
         "id": "steam:3492120",
@@ -1250,7 +1290,8 @@
         "shortDescription": "Steal a face. Study a life. Survive the conversation.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3492120/2d1de35b4953a8fe26bbbe6d6f22b83f2e271549/header.jpg?t=1793425439",
         "type": "game",
-        "score": 0.9167
+        "score": 0.9167,
+        "shortDescriptionEn": "Steal a face. Study a life. Survive the conversation."
       },
       {
         "id": "steam:2551970",
@@ -1282,7 +1323,8 @@
         "shortDescription": "Vive el inicio de una gran aventura en Outcast Tales: The First Journey. Libra combates donde prima la estrategia, toma decisiones difíciles y escoge tus propias aventuras: ¡escribe la historia de tu grupo de marginados!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551970/header.jpg?t=1793983489",
         "type": "game",
-        "score": 0.9146
+        "score": 0.9146,
+        "shortDescriptionEn": "The game is not Free-to-Play, it's genuinely free. It's a challenging post-apocalyptic roguelite turn-based RPG about the psychological stresses of adventuring with complete idiots. Lead a crew of flawed heroes against the consequences of their own terrible decisions."
       },
       {
         "id": "steam:4555040",
@@ -1312,7 +1354,8 @@
         "shortDescription": "Sushiamo es un roguelike de construcción de mazos donde haces sushi para alcanzar puntuaciones absurdas. ¡Descubre ingredientes únicos, salsas, herramientas que cambian el juego y navega por el mapa para romper el juego con combos de locura!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555040/192bba964fd44411120b9a812eac0b4addf4952d/header.jpg?t=1793886345",
         "type": "game",
-        "score": 0.913
+        "score": 0.913,
+        "shortDescriptionEn": "Sushiamo is a roguelike deck-builder where you make sushi to reach absurd scores. Discover unique ingredients, sauces, game-changing tools, and navigate the map to break the game with insane combos!"
       },
       {
         "id": "steam:5111890",
@@ -1342,7 +1385,8 @@
         "shortDescription": "\"Weeping Souls\" is a visual novel game. The player takes on the role of the protagonist and chooses the right path to ensure the safety of themselves and their friends. The game features multiple endings, determined by your choices.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111890/47a94887784a9d4c85eecd78124ec5653fe1d6f1/header.jpg?t=1793780640",
         "type": "game",
-        "score": 0.913
+        "score": 0.913,
+        "shortDescriptionEn": "\"Weeping Souls\" is a visual novel game. The player takes on the role of the protagonist and chooses the right path to ensure the safety of themselves and their friends. The game features multiple endings, determined by your choices."
       },
       {
         "id": "steam:4652930",
@@ -1371,7 +1415,8 @@
         "shortDescription": "Knuckle Creek is a slapstick comedy brawler designed for friends, fun and light-hearted play sessions.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652930/2ab91f46f9dd1eac25b1f868d264e36945708bab/header.jpg?t=1793264778",
         "type": "game",
-        "score": 0.9103
+        "score": 0.9103,
+        "shortDescriptionEn": "Knuckle Creek is a slapstick comedy brawler designed for friends, fun and light-hearted play sessions."
       },
       {
         "id": "steam:4386400",
@@ -1401,7 +1446,8 @@
         "shortDescription": "¡Un emocionante y adorable plataformas lleno de parkour, puzles, momentos de acción y batallas contra jefes te espera! Recoge estrellas, desbloquea nuevas habilidades, descubre secretos, derrota a tus enemigos y supera cada desafío!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386400/659a2a4486f0fb0f7bb16dd41cc5dd097b3d1384/header.jpg?t=1793110019",
         "type": "game",
-        "score": 0.9103
+        "score": 0.9103,
+        "shortDescriptionEn": "An exciting and incredibly cute platformer full of parkour, puzzles, action-packed moments, and boss battles awaits you! Collect stars, unlock new abilities, discover secrets, defeat your enemies, and overcome every challenge!"
       }
     ],
     "upcoming": [
@@ -1436,7 +1482,8 @@
         "shortDescription": "【Village-Building Action RPG】Reincarnated into a ravaged world ruled by the Demon King. Gather resources, build your village, and swap hats to change classes! But when the Idol Demon King throws a live concert, a massive wave of hyped-up monsters stampedes straight toward your village!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/25cd77fbd2add6f77ec6e1b62429b416254d02c1/header.jpg?t=1792995452",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "【Village-Building Action RPG】Reincarnated into a ravaged world ruled by the Demon King. Gather resources, build your village, and swap hats to change classes! But when the Idol Demon King throws a live concert, a massive wave of hyped-up monsters stampedes straight toward your village!"
       },
       {
         "id": "steam:3687090",
@@ -1466,7 +1513,8 @@
         "shortDescription": "Dice Hoarder es un acogedor juego de organización en el que reabasteces una misteriosa tienda de dados. Ordena todos los dados de la tienda, combínalos para completar sets de siete dados de rol y descubre qué se esconde detrás de tu nuevo trabajo.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687090/af03fa8cadd860459554ac85a2e47c47190c9f90/header.jpg?t=1793219730",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Dice Hoarder is a cozy organizing game where you restock a mysterious dice shop. Sort every die in the shop, match them into complete seven-piece sets, and uncover what is hidden behind your new job."
       },
       {
         "id": "steam:5185750",
@@ -1496,7 +1544,8 @@
         "shortDescription": "Un simulador de construcción de ciudades centrado en el tráfico. Construye tu ciudad con herramientas de trazado de carreteras libremente, sin depender de cuadrículas. Resuelve los atascos de tráfico con rotondas, semáforos totalmente personalizables y grandes enlaces de autopistas.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185750/cba1f3195974a89cac41d5ae9c56e6bed1809b56/header.jpg?t=1793992298",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "A city builder focused on traffic. Build out your city with gridless road tools. Fix traffic jams with roundabouts, fully-customizable traffic lights, and sprawling highway interchanges. Keep traffic flowing as you expand to a vast metropolis."
       },
       {
         "id": "steam:4521650",
@@ -1529,7 +1578,8 @@
         "shortDescription": "Cultiva ingredientes frescos y lleva tu propio pequeño restaurante. Disfruta de un día tranquilo que va del campo a la mesa. Planifica un menú fresco para un día estupendo, mantén tu despensa bien surtida y haz felices a tus clientes. Gana tu propio dinero y construye tu pequeño mundo paso a paso.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4521650/d4cdc74914f969e7e027a4eba7522571d51b3109/header.jpg?t=1794198687",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Grow fresh ingredients and run your own little restaurant. Enjoy a peaceful day that stretches from the field to the table. Plan a fresh menu for a delightful day, keep your pantry full, and make your customers happy. Earn your own money and build your little world step by step."
       },
       {
         "id": "steam:5378110",
@@ -1560,7 +1610,8 @@
         "shortDescription": "Corta el pasto en primera persona arriba de un tractorcito destartalado, solo o en cooperativo online, hasta 6. Eres un viejo gruñón que fuma, toma cerveza barata y no le importa nada, pero deja franjas perfectas. Una vecina exigente, un campo de golf abandonado, una boda en una isla.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/9ac5251c1c2fd82c9b6fc5205e71dc94f65ec583/header.jpg?t=1793980608",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Mow lawns in first person on a beat-up riding mower, solo or online co-op up to 6 players. You're a grumpy old man who smokes, drinks cheap beer and doesn't care, but leaves perfect stripes. A picky neighbor, an abandoned golf course, an island wedding."
       },
       {
         "id": "steam:4661070",
@@ -1593,7 +1644,8 @@
         "shortDescription": "HANDS OVER es un juego de terror cooperativo para 5 jugadores donde pruebas inocentes se vuelven crueles desafíos de suerte y nervios. Farolea, sabotea a tus amigos, juega sucio y aguanta en la mesa más que nadie.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661070/1a0bee98f8e5b25723732c1d046711eefb6cb494/header.jpg?t=1793887712",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "HANDS OVER is a 5-player co-op horror game where harmless challenges become cruel tests of luck and nerve. Bluff, sabotage your friends, play dirty, and stay at the table longer than anyone else."
       },
       {
         "id": "steam:4304060",
@@ -1624,7 +1676,8 @@
         "shortDescription": "¡La última entrega de la saga de acción y puzles cooperativos «PICO PARK» llega junto a «Sonic the Hedgehog» de SEGA, en una colaboración alucinante! ¡Montones de partidas cooperativas en las que destaca lo mejor de «Sonic» y de «PICO PARK»! ¡De 2 a 8 jugadores en modo local y online!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4304060/193353d185ee1af3d51068346d9d1a32e81e8ec5/header.jpg?t=1792544482",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "The co-op action puzzle game series PICO PARK is back... and this time, we're teaming up with SEGA's legendary Sonic the Hedgehog! This collaboration is packed with co-op gameplay that combines the flair of Sonic with the puzzle teamwork fun of PICO PARK! Play locally or online with 2 to 8 players!"
       },
       {
         "id": "steam:5051090",
@@ -1654,7 +1707,8 @@
         "shortDescription": "Take a well-deserved break before searching for your next job! Spend time doing all the things you've always wanted to: cook delicious meals, relax, collect cute figurines, chat with friends, and enjoy life at your own pace. Work can wait a little longer... you've earned this vacation.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5051090/3cfb50537b0bf57ee89dc9a5ac4faafc62461ba9/header.jpg?t=1794112338",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Take a well-deserved break before searching for your next job! Spend time doing all the things you've always wanted to: cook delicious meals, relax, collect cute figurines, chat with friends, and enjoy life at your own pace. Work can wait a little longer... you've earned this vacation."
       },
       {
         "id": "steam:4672030",
@@ -1686,7 +1740,8 @@
         "shortDescription": "Un simulador de colonias en el que juegas como la mazmorra: su Amo, sus esbirros y las bestias de sus cuevas. Excava salas, monta y conecta trampas mortales y saquea tesoros en la superficie. Luego defiéndelos de los héroes que vienen a recuperarlos. Juega solo o con hasta 3 amigos en cooperativo.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672030/2a48de38188ea6095251866d65344f6429399f44/header.jpg?t=1793933634",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "A dungeon colony sim where you play the dungeon itself: its Boss, its minions and the beasts in its caves. Dig out halls, wire deadly traps, and raid the world above for treasure. Then hold your hoard against the heroes who come to take it back. Play alone or in 2–4 player co-op."
       },
       {
         "id": "steam:4528040",
@@ -1719,7 +1774,8 @@
         "shortDescription": "A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528040/11a329c17dd618cc32ac583ed50f94bae454d7cb/header.jpg?t=1793846600",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "A grounded open-world survival crafting game where you're stranded alone on Mars. Explore the red planet, extract resources, build a pressurized base, manage oxygen, power, and food, and construct the rocket that's your only way home."
       },
       {
         "id": "steam:4150720",
@@ -1751,7 +1807,8 @@
         "shortDescription": "Juega a una ruleta rusa de chupitos con una diablilla que siente por ti un amor de los que matan. Se trata de un juego de supervivencia donde o provocas que ella vomite su alma o será la tuya la que potes. Cuanto más bebas, más reglas podrás saltarte... te lo pasarás de muerte.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150720/7d4ab50bd6073a912094cb2b17d0617415e002d3/header.jpg?t=1792768849",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Face off in a Russian roulette drinking survival with a demon who'd kill for you—or kill you—where it's puke or be puked on for your soul. The more you drink, the more the rules break down, until it all spills into one hell of a night you'll never forget."
       },
       {
         "id": "steam:4463520",
@@ -1782,7 +1839,8 @@
         "shortDescription": "Acompaña a los Mumin en una aventura point-and-click preciosa y acogedora inspirada en la entrañable novela de Tove Jansson. Esta vez, Mumintrol, la Pequeña My y sus amigos necesitan tu ayuda para escapar de una gran inundación y encontrar la forma de regresar a su hogar: el Valle de los Mumin.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463520/c4e85af3552b33fc849be844e50efc50d751d9c3/header.jpg?t=1793358659",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Midsummer is right around the corner in Moominvalley, when a sudden flood sets the Moomins adrift! Join Tove Jansson’s beloved Moominfamily and friends on an adventure of mirth and mischief aboard a mysterious floating theatre."
       },
       {
         "id": "steam:4390080",
@@ -1813,7 +1871,8 @@
         "shortDescription": "¡Únete a una familia de osos y administra el apiario más dulce del mundo! Colecciona y descubre abejas únicas, llena frascos de miel, expande tu granja y mira cómo florece tu campo en este acogedor juego idle de gestión.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4390080/2d72fb041335f66b827b1ec3db8191c70aab4642/header.jpg?t=1793622391",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Join a family of bears and run the buzziest little honey farm! Collect and discover rare bees, bottle honey jars, expand your farm, and watch your flowery field bloom in this cozy idle management game."
       },
       {
         "id": "steam:5295330",
@@ -1844,7 +1903,8 @@
         "shortDescription": "Water TD es un tower defense donde el enemigo es una inundación. Cientos de miles de gotas corren hacia tu base, se amontonan contra tus torretas y se cuelan por cada hueco. Dispárale, quémala, electrocútala o hazla retroceder, y mejora tus defensas en un gran árbol de habilidades entre niveles.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295330/892421d4a87a720a313e036c1db4a67347c9597f/header.jpg?t=1794165627",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Water TD is a tower defense game where the enemy is a real flood. Hundreds of thousands of drops pour downhill toward your base, piling up, finding gaps and carving the terrain as they go. Shoot it, burn it, zap it, or blow it back. Just don't expect the ground to hold."
       },
       {
         "id": "steam:4493130",
@@ -1875,7 +1935,8 @@
         "shortDescription": "Crea tu imperio en la nieve: construye la acogedora estación de esquí de tus sueños en este juego de gestión. Adáptate al clima cambiante, traza pistas, coloca telesillas y construye alojamientos y bares de après-ski que mantendrán a miles de visitantes felices, calentitos y con la barriga llena.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4493130/0188d1a232e5ab2c906e136031e52da8486cbe77/header.jpg?t=1792696424",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "You're the Ski-E-O - build the cozy ski resort of your dreams in this management tycoon game. Adapt to ever-changing weather, paint trails, build lifts, and place the lodges and après bars that keep thousands of skiers warm, fed, and happy."
       },
       {
         "id": "steam:4780870",
@@ -1908,7 +1969,8 @@
         "shortDescription": "¡Trabaja, navega o juega a otros juegos mientras los huevos eclosionan en segundo plano! Colecciona más de 300 mascotas, desbloquea potentes mejoras y forma tu equipo de combate.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4780870/ac77e7a29944635d8e2dcb089f2fe4b9e54ecfef/header.jpg?t=1794080176",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Work, browse, or play other games while hatching eggs in the background! Collect 300+ pets, unlock powerful upgrades, and build your battle team."
       },
       {
         "id": "steam:4990840",
@@ -1939,7 +2001,8 @@
         "shortDescription": "¡Modela, pinta e intégrate en el entorno! FAKE ME es un juego del escondite multijugador donde creas tu camuflaje. Con herramientas 3D sencillas, diseña el objeto que imitarás. Modela también tu disfraz. ¡Escóndete de los Seekers o encuentra a todos los Fakers a tiempo!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990840/03ef494199385e3ca78da1fecd7563483c52877e/header.jpg?t=1793712981",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Model, paint, and blend in! FAKE ME is an online multiplayer hide-and-seek game where you create your own disguise. Use simple 3D modeling tools to build the object you’ll hide as. You can also create your own costume by modeling. Hide from the Seekers or find every Faker before time runs out!"
       },
       {
         "id": "steam:4921660",
@@ -1969,7 +2032,8 @@
         "shortDescription": "Rank 5 words from S to D to fit the prompt, then everyone guesses the star's ranking in this online party game for 2–10 players. Perfect matches get cheers, wild misses get laughs!",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4921660/15487b9cfaed2b7ff427ab56dfcd82b033f43638/header.jpg?t=1793760977",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Rank 5 words from S to D to fit the prompt, then everyone guesses the star's ranking in this online party game for 2–10 players. Perfect matches get cheers, wild misses get laughs!"
       },
       {
         "id": "steam:4253570",
@@ -2000,7 +2064,8 @@
         "shortDescription": "Restaura antigüedades limpiando las capas de polvo, óxido y el paso del tiempo. Reshine es una experiencia minimalista y relajante. Usa herramientas para ver cómo años de suciedad desaparecen ante tus ojos. Sin complicaciones, sin presión, solo la satisfacción de devolver vida a tesoros vintage.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/09f1d7876ba9b84e031efff07154f690851e9ce6/header_alt_assets_0.jpg?t=1793911859",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "Gently restore old objects by cleaning away layers of dust, rust, and time. Reshine is a minimalistic, relaxing experience: use a range of tools to watch years of grime disappear before your eyes. No management, no pressure - just you and the satisfaction of bringing vintage treasures back to life."
       },
       {
         "id": "steam:4599880",
@@ -2031,7 +2096,8 @@
         "shortDescription": "Una sim acogedora de gestión inmobiliaria donde restauras el edificio ruinoso que te dejó tu abuela. Encuentra inquilinos, cobra alquileres, mejóralo. Pero no se te ocurra poner a un elfo que hace solos de guitarra a medianoche al lado de un yeti filósofo. Pedidos sin fin y dulce caos te esperan.",
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4599880/154a69759795576b419025e5a831346724316ff8/header.jpg?t=1793820329",
         "type": "game",
-        "score": 0
+        "score": 0,
+        "shortDescriptionEn": "A cozy apartment management sim where you restore the ruined building your grandma left you. Find tenants, collect rent, upgrade the place. But don't make the mistake of having a midnight guitar-shredding elf and a philosophy-lecturing yeti as neighbors. Endless requests, sweet chaos await."
       }
     ]
   },

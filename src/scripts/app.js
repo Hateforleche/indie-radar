@@ -19,7 +19,7 @@ function syncFilterUI() {
   filterGroupBtns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.setFilter === f)));
   document.querySelectorAll('.count').forEach((el) => {
     const n = Number(el.dataset[`count${f[0].toUpperCase()}${f.slice(1)}`]);
-    el.textContent = `${n} ${n === 1 ? 'juego' : 'juegos'}`;
+    el.textContent = `${n} ${n === 1 ? el.dataset.one : el.dataset.many}`;
   });
   moveInk();
 }
@@ -40,6 +40,14 @@ filterBtns.forEach((b) => b.addEventListener('click', () => setFilter(b.dataset.
 syncFilterUI();
 addEventListener('resize', moveInk);
 document.fonts?.ready.then(moveInk);
+
+/* ---------- Language ---------- */
+document.querySelectorAll('[data-set-lang]').forEach((link) => {
+  link.addEventListener('click', (e) => {
+    try { localStorage.setItem('indie-radar-lang', link.dataset.setLang); } catch {}
+    if (location.hash) { e.preventDefault(); location.href = link.href + location.hash; }
+  });
+});
 
 /* ---------- Carousel ---------- */
 if (rail) {
