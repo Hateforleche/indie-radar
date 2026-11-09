@@ -61,17 +61,12 @@ function build(lang) {
   }
 
   /**
-   * Description in this page's language: Steam's own translation when it exists,
-   * otherwise the machine translation from scripts/translate.mjs, otherwise the original.
+   * Description in this page's language when the store offers it (Steam publishes
+   * both); otherwise the original text as its author wrote it (no machine translation).
    */
   function describe(g) {
-    const machine = lang === 'es' ? g.descriptionEs : g.descriptionEn;
-    const native = lang === 'en' ? g.shortDescriptionEn : null;
-    if (g.source === 'steam' && g.shortDescriptionEn && g.shortDescriptionEn !== g.shortDescription) {
-      return { description: lang === 'en' ? g.shortDescriptionEn : g.shortDescription, machineTranslated: false };
-    }
-    if (machine) return { description: machine, machineTranslated: g.machineTranslated === lang };
-    return { description: native || g.shortDescription || '', machineTranslated: false };
+    const text = lang === 'en' && g.source === 'steam' ? g.shortDescriptionEn || g.shortDescription : g.shortDescription;
+    return { description: text ?? '' };
   }
 
   function steamGame(g) {

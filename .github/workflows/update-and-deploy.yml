@@ -46,30 +46,8 @@ jobs:
           fi
           node scripts/check-data.mjs
 
-      # Traducción automática (LibreTranslate, gratis y sin cuenta) de las descripciones
-      # que no vienen en los dos idiomas. Solo se arranca si hay textos nuevos sin traducir.
-      - name: Comprobar descripciones sin traducir
-        id: pending
-        run: echo "count=$(node scripts/translate.mjs --pending)" >> "$GITHUB_OUTPUT"
-
-      - name: Arrancar LibreTranslate
-        if: steps.pending.outputs.count != '0'
-        continue-on-error: true
-        run: |
-          echo "Descripciones pendientes: ${{ steps.pending.outputs.count }}"
-          docker run -d --name libretranslate -p 5000:5000 -e LT_LOAD_ONLY=en,es libretranslate/libretranslate
-          for i in $(seq 1 60); do
-            if curl -sf http://localhost:5000/languages | grep -q '"es"'; then echo "Listo tras $((i * 10)) s"; exit 0; fi
-            sleep 10
-          done
-          echo "::warning::LibreTranslate no arrancó a tiempo; se mostrarán los textos originales."
-          docker logs --tail 30 libretranslate
-          exit 1
-
-      - name: Traducir descripciones
-        run: node scripts/translate.mjs
-
       - name: Guardar datos nuevos en el repositorio
+        if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
