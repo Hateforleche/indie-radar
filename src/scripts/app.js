@@ -42,10 +42,16 @@ addEventListener('resize', moveInk);
 document.fonts?.ready.then(moveInk);
 
 /* ---------- Language ---------- */
+// Slide the knob to the chosen language, then go to that page (keeping the section).
 document.querySelectorAll('[data-set-lang]').forEach((link) => {
   link.addEventListener('click', (e) => {
+    if (link.getAttribute('aria-current') === 'page') { e.preventDefault(); return; }
+    if (e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return; // new tab/window
     try { localStorage.setItem('indie-radar-lang', link.dataset.setLang); } catch {}
-    if (location.hash) { e.preventDefault(); location.href = link.href + location.hash; }
+    e.preventDefault();
+    link.closest('.lang').dataset.active = link.dataset.setLang;
+    const go = () => { location.href = link.href + location.hash; };
+    if (reduceMotion) go(); else setTimeout(go, 280);
   });
 });
 

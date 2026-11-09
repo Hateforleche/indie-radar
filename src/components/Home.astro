@@ -9,7 +9,6 @@ import { t as dict } from '../lib/i18n.js';
 
 const { lang } = Astro.props;
 const t = dict[lang];
-const other = lang === 'es' ? 'en' : 'es';
 const { site, sections, radarBlips } = getData(lang);
 
 const weekCount = countBy(sections.week);
@@ -70,14 +69,19 @@ const countText = (n) => `${n} ${t.games(n)}`;
         <a href="#gems">{t.gems.title}</a>
         <a href="#soon">{t.soon.title}</a>
       </nav>
-      <a
-        class="lang"
-        href={homeFor(other)}
-        hreflang={other}
-        lang={other}
-        title={t.langSwitch.title}
-        data-set-lang={other}
-      ><span class="lang__current" aria-hidden="true">{lang.toUpperCase()}</span><span class="lang__other"><span class="lang__long">{t.langSwitch.label}</span><span class="lang__short" aria-hidden="true">{t.langSwitch.short}</span></span></a>
+      <nav class="lang" aria-label={t.langSwitch.nav} data-active={lang}>
+        <span class="lang__knob" aria-hidden="true"></span>
+        {(['es', 'en']).map((l) => (
+          <a
+            href={homeFor(l)}
+            hreflang={l}
+            lang={l}
+            aria-current={l === lang ? 'page' : undefined}
+            aria-label={dict[l].langSwitch.name}
+            data-set-lang={l}
+          >{l.toUpperCase()}</a>
+        ))}
+      </nav>
       <div class="filter" role="group" aria-label={t.filterLabel}>
         <span class="filter__ink" aria-hidden="true"></span>
         <button type="button" data-set-filter="all">{t.all}</button>
