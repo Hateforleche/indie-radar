@@ -1,0 +1,252 @@
+---
+import '@fontsource-variable/anybody/standard.css';
+import '@fontsource/atkinson-hyperlegible/400.css';
+import '@fontsource/atkinson-hyperlegible/700.css';
+import '../styles/global.css';
+import GameCard from '../components/GameCard.astro';
+import { site, sections, radarBlips, countBy } from '../lib/data.js';
+
+const weekCount = countBy(sections.week);
+const gemsCount = countBy(sections.gems);
+const tilts = [-1.2, 0.8, -0.4, 1.4, -1.6, 0.5, 1, -0.8];
+const podiumOrder = [1, 0, 2];
+const variants = [
+  { key: 'all', list: sections.top.all },
+  { key: 'steam', list: sections.top.steam },
+  { key: 'itch', list: sections.top.itch },
+];
+const fmt = (n) => new Intl.NumberFormat('es-ES', { useGrouping: 'always' }).format(n ?? 0);
+const withBase = (file) => `${import.meta.env.BASE_URL.replace(/\/+$/, '')}/${file}`;
+const daysLabel = (d) => (d <= 0 ? 'hoy' : d === 1 ? 'mañana' : `en ${d} días`);
+---
+<!doctype html>
+<html lang="es" data-filter="all">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Indie Radar: juegos indie que merecen tu atención</title>
+    <meta name="description" content="Cada día rastreamos Steam e itch.io en busca de juegos de estudios pequeños: lanzamientos de la semana, lo mejor valorado del mes, joyas ocultas y lo que está por llegar." />
+    <meta name="theme-color" content="#E8EAE4" />
+    <link rel="icon" href={withBase('favicon.svg')} type="image/svg+xml" />
+    <script is:inline>
+      try {
+        const f = localStorage.getItem('indie-radar-filter');
+        if (f === 'steam' || f === 'itch') document.documentElement.dataset.filter = f;
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <svg class="grain" aria-hidden="true">
+      <filter id="grain-f"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" stitchTiles="stitch" /></filter>
+      <rect width="100%" height="100%" filter="url(#grain-f)" />
+    </svg>
+
+    <a class="skip" href="#semana">Saltar al contenido</a>
+
+    <header class="bar">
+      <a class="bar__brand" href="#top" aria-label="Indie Radar, volver arriba">
+        <span class="bar__dot" aria-hidden="true"></span>Indie Radar
+      </a>
+      <nav class="bar__nav" aria-label="Secciones">
+        <a href="#semana">Esta semana</a>
+        <a href="#mes">Lo mejor del mes</a>
+        <a href="#joyas">Joyas ocultas</a>
+        <a href="#pronto">Próximamente</a>
+      </nav>
+      <div class="filter" role="group" aria-label="Mostrar juegos de">
+        <span class="filter__ink" aria-hidden="true"></span>
+        <button type="button" data-set-filter="all">Todo</button>
+        <button type="button" data-set-filter="steam">Steam</button>
+        <button type="button" data-set-filter="itch">itch.io</button>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <h1 class="hero__mark" aria-label="Indie Radar">
+          <span class="riso" data-text="Indie" aria-hidden="true">Indie</span>
+          <span class="riso" data-text="Radar" aria-hidden="true">Radar</span>
+        </h1>
+
+        <div class="radar" aria-hidden="true">
+          <div class="radar__rings"></div>
+          <div class="radar__sweep"></div>
+          {radarBlips.map((b) => (
+            <span
+              class:list={['blip', `blip--${b.source}`]}
+              style={`--a:${b.angle}deg;--r:${b.radius}%;--d:${(((b.angle + 90) % 360) / 360 * 6).toFixed(2)}s`}
+            ><span class="blip__label">{b.name}</span></span>
+          ))}
+        </div>
+
+        <div class="hero__intro">
+          <p class="hero__lede">
+            Cada día rastreamos Steam e itch.io buscando juegos de estudios pequeños.
+            Sin grandes editoras, sin campañas millonarias: solo lo que la gente está jugando y valorando.
+          </p>
+          {site.steamIndies30d && (
+            <p class="hero__stat">
+              <strong>{fmt(site.steamIndies30d)}</strong>
+              <span>juegos indie salieron en Steam en los últimos 30 días. Aquí tienes los que destacan.</span>
+            </p>
+          )}
+          <p class="hero__updated">Actualizado el {site.updatedLabel}</p>
+        </div>
+      </section>
+
+      <!-- Esta semana -->
+      <section class="section" id="semana" aria-labelledby="h-semana">
+        <div class="section__head">
+          <h2 class="section__title" id="h-semana" data-reveal>Esta semana</h2>
+          <p class="section__note">
+            Lanzamientos de los últimos siete días.
+            <span class="count" data-count-all={weekCount.all} data-count-steam={weekCount.steam} data-count-itch={weekCount.itch}>{weekCount.all} juegos</span>
+          </p>
+          <div class="rail-ctrl">
+            <button type="button" class="rail-btn" data-rail="prev" aria-label="Anteriores">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7" /></svg>
+            </button>
+            <button type="button" class="rail-btn" data-rail="next" aria-label="Siguientes">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7" /></svg>
+            </button>
+          </div>
+        </div>
+        <div class="rail" tabindex="0" aria-label="Lanzamientos de la semana, desplázate en horizontal">
+          {sections.week.map((g, i) => <GameCard game={g} loading={i < 6 ? 'eager' : 'lazy'} />)}
+        </div>
+      </section>
+
+      <!-- Lo mejor del mes -->
+      <section class="section section--top" id="mes" aria-labelledby="h-mes">
+        <div class="section__head">
+          <h2 class="section__title" id="h-mes" data-reveal>Lo mejor del mes</h2>
+          <p class="section__note">
+            Ordenados por la confianza de sus reseñas, no solo por la nota: un 95 % con 500 opiniones pesa más que un 100 % con 4.
+          </p>
+        </div>
+
+        {variants.map(({ key, list }) => (
+          <div class="top" data-variant={key}>
+            <ol class="podium" data-reveal>
+              {podiumOrder.map((idx) => {
+                const g = list[idx];
+                if (!g) return null;
+                return (
+                  <li class:list={['podium__step', `podium__step--${idx + 1}`]} data-source={g.source}>
+                    <a href={g.url} target="_blank" rel="noopener" class="podium__link">
+                      <span class="podium__rank" aria-label={`Puesto ${idx + 1}`}>{idx + 1}</span>
+                      <figure class="podium__art">
+                        <img src={g.image} alt="" loading="lazy" decoding="async" />
+                      </figure>
+                      <div class="podium__text">
+                        <h3>{g.name}</h3>
+                        <p class="podium__maker">{g.maker}</p>
+                        {g.rating && (
+                          <p class="podium__rating">
+                            <strong>{g.rating.value}</strong> {g.rating.label.toLowerCase()}, {g.rating.detail}
+                          </p>
+                        )}
+                        <p class="podium__foot">
+                          {g.price && <span class="tag tag--price">{g.price.label}</span>}
+                          <span class="podium__src">{g.source === 'steam' ? 'Steam' : 'itch.io'}</span>
+                        </p>
+                      </div>
+                    </a>
+                  </li>
+                );
+              })}
+            </ol>
+
+            <ol class="ranks" start="4">
+              {list.slice(3).map((g, i) => (
+                <li class="ranks__row" data-source={g.source}>
+                  <a href={g.url} target="_blank" rel="noopener">
+                    <span class="ranks__n" aria-hidden="true">{i + 4}</span>
+                    <img src={g.image} alt="" loading="lazy" decoding="async" />
+                    <span class="ranks__name">
+                      <strong>{g.name}</strong>
+                      <span>{g.maker}</span>
+                    </span>
+                    {g.rating && (
+                      <span class="ranks__bar" style={`--p:${g.rating.pct}`}>
+                        <span>{g.rating.value}</span>
+                      </span>
+                    )}
+                    <span class="ranks__src">{g.source === 'steam' ? 'Steam' : 'itch.io'}</span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </div>
+        ))}
+      </section>
+
+      <!-- Joyas ocultas -->
+      <section class="section section--gems" id="joyas" aria-labelledby="h-joyas">
+        <div class="section__head">
+          <h2 class="section__title" id="h-joyas" data-reveal>Joyas ocultas</h2>
+          <p class="section__note">
+            En Steam, juegos muy bien valorados que aún tienen pocas reseñas; en itch.io, proyectos recientes que empiezan a sonar. Les falta público, no calidad.
+            <span class="count" data-count-all={gemsCount.all} data-count-steam={gemsCount.steam} data-count-itch={gemsCount.itch}>{gemsCount.all} juegos</span>
+          </p>
+        </div>
+        <div class="mosaic">
+          {sections.gems.map((g, i) => <GameCard game={g} tilt={tilts[i % tilts.length]} />)}
+        </div>
+      </section>
+
+      <!-- Próximamente -->
+      <section class="section section--soon" id="pronto" aria-labelledby="h-pronto">
+        <div class="section__head">
+          <h2 class="section__title" id="h-pronto" data-reveal>Próximamente</h2>
+          <p class="section__note">
+            Los {sections.upcomingCount} lanzamientos más esperados en Steam, por fecha de salida.
+          </p>
+        </div>
+        <p class="soon__itch-note">
+          itch.io no anuncia fechas de lanzamiento, así que esta sección solo incluye juegos de Steam.
+          <button type="button" data-set-filter="steam">Ver próximos de Steam</button>
+        </p>
+        <ol class="timeline">
+          {sections.upcoming.map((group) => (
+            <li class="timeline__day" data-reveal>
+              <div class="timeline__date">
+                <strong>{group.label}</strong>
+                {group.daysAway != null && <span>{daysLabel(group.daysAway)}</span>}
+              </div>
+              <div class="timeline__games">
+                {group.games.map((g) => <GameCard game={g} variant="compact" />)}
+              </div>
+            </li>
+          ))}
+        </ol>
+      </section>
+    </main>
+
+    <footer class="foot">
+      <div class="foot__mark" aria-hidden="true">Indie Radar</div>
+      <div class="foot__cols">
+        <div>
+          <h2>Cómo elegimos</h2>
+          <p>
+            Tomamos los juegos con la etiqueta Indie de Steam y los feeds públicos de itch.io, y descartamos
+            los publicados por grandes empresas. Las editoras independientes, como Devolver o Annapurna, se quedan.
+          </p>
+        </div>
+        <div>
+          <h2>Cómo ordenamos</h2>
+          <p>
+            Usamos el límite inferior de Wilson sobre las reseñas: favorece a los juegos que gustan mucho
+            y a muchas personas, en vez de premiar notas perfectas con dos opiniones.
+          </p>
+        </div>
+        <div>
+          <h2>Datos</h2>
+          <p>Steam e itch.io, actualizados el {site.updatedLabel}. Cada ficha enlaza a la tienda original.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="../scripts/app.js"></script>
+  </body>
+</html>

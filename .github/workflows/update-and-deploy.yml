@@ -1,0 +1,84 @@
+name: Actualizar datos y publicar
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # cada día a las 06:00 UTC (07:00/08:00 en España)
+  workflow_dispatch: # botón "Run workflow" en la pestaña Actions
+  push:
+    branches: [main]
+
+permissions:
+  contents: write # para guardar los datos nuevos en el repositorio
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      # En los push solo se reconstruye la web con los datos ya guardados.
+      - name: Descargar datos de Steam e itch.io
+        id: fetch
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: npm run fetch-data
+
+      - name: Validar datos (si fallan, se publican los del día anterior)
+        if: github.event_name != 'push'
+        run: |
+          if [ "${{ steps.fetch.outcome }}" != "success" ] || ! node scripts/check-data.mjs; then
+            echo "::warning::La descarga falló o los datos son sospechosos; se mantienen los datos anteriores."
+            git checkout -- data/games.json
+          fi
+          node scripts/check-data.mjs
+
+      - name: Guardar datos nuevos en el repositorio
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Sin cambios en los datos."
+          else
+            git commit -m "Datos del $(date -u +%F)"
+            git push
+          fi
+
+      - name: Configurar GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Generar la web
+        run: npm run build
+        env:
+          SITE_URL: ${{ steps.pages.outputs.origin }}
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
