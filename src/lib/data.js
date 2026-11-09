@@ -60,9 +60,22 @@ function build(lang) {
     return { label: p, free: false, discount: discount || 0 };
   }
 
+  /**
+   * Description in this page's language: Steam's own translation when it exists,
+   * otherwise the machine translation from scripts/translate.mjs, otherwise the original.
+   */
+  function describe(g) {
+    const machine = lang === 'es' ? g.descriptionEs : g.descriptionEn;
+    const native = lang === 'en' ? g.shortDescriptionEn : null;
+    if (g.source === 'steam' && g.shortDescriptionEn && g.shortDescriptionEn !== g.shortDescription) {
+      return { description: lang === 'en' ? g.shortDescriptionEn : g.shortDescription, machineTranslated: false };
+    }
+    if (machine) return { description: machine, machineTranslated: g.machineTranslated === lang };
+    return { description: native || g.shortDescription || '', machineTranslated: false };
+  }
+
   function steamGame(g) {
     const date = parseDate(g.releaseDate);
-    const description = lang === 'en' ? g.shortDescriptionEn || g.shortDescription : g.shortDescription;
     return {
       id: g.id,
       source: 'steam',
@@ -83,7 +96,7 @@ function build(lang) {
           }
         : null,
       maker: (g.developers ?? []).join(', '),
-      description: description ?? '',
+      ...describe(g),
       score: g.score ?? 0,
       popularityRank: g.popularityRank ?? null,
     };
@@ -111,8 +124,7 @@ function build(lang) {
           }
         : null,
       maker: g.developer ?? g.author ?? '',
-      // Written by the author on itch.io, usually in English; not translated.
-      description: g.shortDescription ?? '',
+      ...describe(g),
       score: g.rating ? wilson(g.rating / 5, g.ratingCount ?? 0) : 0,
       popularityRank: null,
     };

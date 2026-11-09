@@ -24,7 +24,7 @@ const sourceName = game.source === 'steam' ? 'Steam' : 'itch.io';
       <h3 class="card__title">{game.name}</h3>
       {game.maker && <p class="card__maker">{game.maker}</p>}
       {variant !== 'compact' && game.description && (
-        <p class="card__desc">{game.description}</p>
+        <p class="card__desc" title={game.machineTranslated ? t.machineTranslated : undefined}>{game.description}</p>
       )}
       <div class="card__meta">
         {game.price && (
