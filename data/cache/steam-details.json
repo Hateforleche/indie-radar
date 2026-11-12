@@ -17,6 +17,23 @@
     "type": "game",
     "shortDescriptionEn": "Number Machine is an open-ended factory and automation game with math mechanics. Design, build, and optimize factories that automatically assemble and deliver complex numerical structures. Inspired by Opus Magnum and Infinifactory."
   },
+  "2483700": {
+    "developers": [
+      "IndirectShine"
+    ],
+    "publishers": [
+      "Astrolabe Games"
+    ],
+    "genres": [
+      "Indie",
+      "Estrategia",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "HARMA es un juego de construcción de mazos roguelike de alta dificultad que combina una historia dura con una experiencia de juego extremadamente desafiante. Los demonios están destruyendo este mundo. Lucha contra los males del mundo en un destino irracional. Y demuestra que estuviste aquí.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/16ef2cf7570d03f263f6df2b2e3ea01c199a0566/header.jpg?t=1793780638",
+    "type": "game",
+    "shortDescriptionEn": "HARMA is a retro dark fantasy roguelike deckbuilding game featuring a story-driven campaign. Uncover the truth behind the fallen knights, the burning kingdom, and your missing father. Harness the power of mighty artifacts to defeat demons and save a world on the brink of destruction."
+  },
   "2551970": {
     "developers": [
       "Hardlane Studio"
@@ -92,6 +109,21 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725250/29049beddb4ece7370fc561f5fa8fedd9e133c6b/header.jpg?t=1793851794",
     "type": "game",
     "shortDescriptionEn": "A 2D action-adventure where the story unfolds by tuning the stage with music. A play by Aleph and Liora, who have lost their memories. A beautiful yet eerie stage, and the secret of the forgotten theater await. Your choices will determine the play's ending — and their fates."
+  },
+  "2742720": {
+    "developers": [
+      "Nova-box"
+    ],
+    "publishers": [
+      "Nova-box"
+    ],
+    "genres": [
+      "Indie"
+    ],
+    "shortDescription": "Siguiendo los pasos de una madre a la que nunca conoció, Lena intenta triunfar como bailarina en la ciudad. Atrapada en una disputa entre compañías de danza, lidiando con el amor, el desamor y los retos de la juventud, también debe batallar con la voz en su cabeza que comenta todo lo que hace.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742720/13deec50f0602e7b93499503505d7fe6e3cb197c/header.jpg?t=1794420301",
+    "type": "game",
+    "shortDescriptionEn": "Lena wants to step into the limelight, but the voice in her head has other plans. Between artistic ambitions, romance, family mysteries and the call of the occult, the ways toward your destiny are multiple and tortuous. Lena, Magdalena ou Madeleine… Who will you be when the curtain falls?"
   },
   "2847780": {
     "developers": [
@@ -179,6 +211,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218570/03a5efdc08ce01b4067a4aed0f0601e5de22790b/header.jpg?t=1794234525",
     "type": "game",
     "shortDescriptionEn": "The Tanuki Festival is just a month away, and the shrine is in disrepair. Follow Pon, a well meaning, if a bit lazy Tanuki with a part-time job at the Post Office, as he works to restore the shrine before summer ends. Deliver packages, make friends, and get the shrine ready for the big festival!"
+  },
+  "3224600": {
+    "developers": [
+      "HO! Games"
+    ],
+    "publishers": [
+      "HO! Games",
+      "Outersloth"
+    ],
+    "genres": [
+      "Aventura",
+      "Indie"
+    ],
+    "shortDescription": "Am I Nima es un juego de terror psicológico en el que tendrás que convencer a tu madre de que eres su hija de verdad. Junta palabras en tu cerebro para expresarlas y lograr que ella confíe en ti.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ec4c212665296bd88ee2cb506455d6b1ceeb2c30/header.jpg?t=1793672035",
+    "type": "game",
+    "shortDescriptionEn": "Am I Nima is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you."
   },
   "3273260": {
     "developers": [
@@ -443,6 +492,25 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917850/9577e00a9d38400e0e6472ff04b31280817f7624/header.jpg?t=1794174807",
     "type": "game",
     "shortDescriptionEn": "A realistic referee simulator! Show cards, use VAR, control matches, and rise through your referee career!"
+  },
+  "3957770": {
+    "developers": [
+      "Misket Games"
+    ],
+    "publishers": [
+      "PlayWay S.A."
+    ],
+    "genres": [
+      "Acción",
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Un juego de cocina cooperativo donde los pequeños errores desatan el caos rápidamente. Ve de compras, cocina en tu food truck y conduce por la ciudad para entregar los pedidos a tiempo.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957770/9a2e6d620004d21cc94c7778f180a0b4885367d4/header.jpg?t=1793608570",
+    "type": "game",
+    "shortDescriptionEn": "A co-op cooking game where small mistakes quickly turn into chaos. Go shopping, cook in your food truck, and drive through the city to deliver orders on time."
   },
   "4088360": {
     "developers": [
@@ -797,6 +865,26 @@
     "type": "game",
     "shortDescriptionEn": "Build and manage a spiritual market inspired by Japan, welcome wandering spirits, produce and sell resources, and grow your space through memories and a cozy atmosphere."
   },
+  "4574820": {
+    "developers": [
+      "Kuzzi"
+    ],
+    "publishers": [
+      "KuzziGames"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Rol",
+      "Simuladores",
+      "Estrategia",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Eres un garabato defectuoso arrojado a la basura. Lucha contra bocetos rivales, absorbe sus poderes y cábrate camino hacia la venganza. Mira cómo los números suben sin parar en este idle battler de segundo monitor. Cada partida es única gracias a su enorme árbol de habilidades.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4574820/cc995e3d9f7822223dec45a53bd5f4f6342caabb/header.jpg?t=1794405560",
+    "type": "game",
+    "shortDescriptionEn": "Climb out of the trash and fight your way back to the artist who rejected you. Defeat sketches, steal their strengths, and begin a months-long incremental journey through an ever-growing web of stats, upgrades, prestige layers, automation, and absurd numbers. Easy to start, hard to master."
+  },
   "4593350": {
     "developers": [
       "疯情一种工作室"
@@ -969,6 +1057,24 @@
     "type": "game",
     "shortDescriptionEn": "Sheepscape is a cozy, focused sheep-farming sim. Send your dog to round up the flock, shear them in a hands-on minigame, then sell the wool and breed a finer flock season after season. It's the whole craft of shepherding: from your first muddy field to the open highlands."
   },
+  "4767430": {
+    "developers": [
+      "RainbowGame"
+    ],
+    "publishers": [
+      "RainbowGame"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Rol",
+      "Simuladores"
+    ],
+    "shortDescription": "Se acerca el verano y consigues un trabajo de fotógrafo en el campus. Te acompañan Liu Shilin, cariñosa; Li Feier, fría pero cálida por dentro; Xia Wei, modelo traviesa; y Le Tong, amiga de la infancia. Juntos preparan las fotos de graduación. Con ellas empieza tu verano de emociones…",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4767430/6871de4b3365ebe2ee6de7b8c1b6b9de6cae62ff/header_spanish.jpg?t=1794471710",
+    "type": "game",
+    "shortDescriptionEn": "Summer nears. A campus photo job brings you to caring beauty Liu Shilin, aloof yet warm artist Li Feier, mischievous model Xia Wei, and childhood friend Le Tong. Together, you plan graduation shoots, each lending your talents, as your own summer romance with four unique girls quietly begins."
+  },
   "4780870": {
     "developers": [
       "Samharia Studios"
@@ -1003,6 +1109,42 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4784510/894c18fd776040fe43523995d4122af0a0298a76/header.jpg?t=1793981530",
     "type": "game",
     "shortDescriptionEn": "Live through the final days of an old man in a small village threatened by an approaching giant Leviathan. An existential horror game about inevitability, loneliness, and a man with nowhere to go and no reason to leave."
+  },
+  "4832970": {
+    "developers": [
+      "kohlgames"
+    ],
+    "publishers": [
+      "Loerting Games"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "What the Buck?! es un juego incremental muy satisfactorio sobre destruir dinero. Tritura fajos de billetes, provoca reacciones en cadena por toda la mesa, haz prestigio para conseguir mejoras permanentes y automatiza tu destrucción de dinero. Tu progreso de la demo pasa al juego completo.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832970/ed62607b2b309bfd36bf34e5bd765558bea73307/header.jpg?t=1794261182",
+    "type": "game",
+    "shortDescriptionEn": "What the Buck?! is a satisfying incremental game about destroying money. Shred stacks of cash, set off chain reactions across the table, prestige for permanent upgrades and automate your money destruction. Your demo progress carries over to the full game."
+  },
+  "4852570": {
+    "developers": [
+      "Lianes8 Studio"
+    ],
+    "publishers": [
+      "Lianes8 Studio",
+      "TrueColor Games"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Un incremental acogedor con un pixel art precioso y una bandada de palomas monísimas. Apunta a un parque lleno de gente, trae las monedas a casa y gástalas en mejoras. Cada paloma tiene su propio superpoder. Vuela, recoge, mejora.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852570/bb466754208c98e0f08abed6f5c411680124ccd9/header.jpg?t=1794239228",
+    "type": "game",
+    "shortDescriptionEn": "A cozy incremental with beautiful pixel art and a flock of adorable pigeons. Aim at a busy park, bring the coins home and spend them on upgrades. Every pigeon gets its own superpower. Swoop, collect, upgrade."
   },
   "4863540": {
     "developers": [
@@ -1054,6 +1196,24 @@
     "type": "game",
     "shortDescriptionEn": "An idle-like alien colony simulator. Study an alien species and expand the colony to discover all their peculiar behaviours."
   },
+  "4901860": {
+    "developers": [
+      "Critics Arcade"
+    ],
+    "publishers": [
+      "Critics Arcade"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "Un incremental arcade en el que tú eres el tornado. Arrasa campos, coches y edificios, cobra por los destrozos y gástatelo en mejoras entre partidas. Conviértete en fuego, inundación, hielo o vacío. Haz pedazos la Tierra, llévate tu tormenta a un mundo alienígena y cría vacas en una granja propia.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901860/38d55f0d696054ba88ef7d6c1235bc9e9ffca3af/header.jpg?t=1794488619",
+    "type": "game",
+    "shortDescriptionEn": "An arcade incremental where you ARE the tornado. Suck up cows, flatten cities, and spend the cash on upgrades between runs. Become fire, flood, winter or void. Start with a blade of grass. Tear Earth apart, then take your storm to an alien world. Raise cows on a farm of your own."
+  },
   "4921660": {
     "developers": [
       "bookbook"
@@ -1086,6 +1246,24 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960570/1d3527c02e3f6a188036909a5b41d653a1ff8065/header.jpg?t=1793928648",
     "type": "game",
     "shortDescriptionEn": "An idle cultivation game at the bottom of your desktop. While you work, your thief steals, sells fakes and auctions loot to ascend. When Heaven notices, can he still steal his way to the top?"
+  },
+  "4986050": {
+    "developers": [
+      "Network & Cyber Security Simulator"
+    ],
+    "publishers": [
+      "Network & Cyber Security Simulator"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Estrategia",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Tired of boring network diagrams? Network & Cyber Security Simulator takes networking and cybersecurity into an interactive first-person (FPS) simulation game! Learn by doing, configure realistic CLI terminals from scratch, solve technical puzzles, and become the digital architect!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986050/bd5bc5d279084e9829cfa44c9b5b873b1c13011e/header.jpg?t=1794328988",
+    "type": "game",
+    "shortDescriptionEn": "Tired of boring network diagrams? Network & Cyber Security Simulator takes networking and cybersecurity into an interactive first-person (FPS) simulation game! Learn by doing, configure realistic CLI terminals from scratch, solve technical puzzles, and become the digital architect!"
   },
   "4990840": {
     "developers": [
@@ -1206,6 +1384,23 @@
     "type": "game",
     "shortDescriptionEn": "Here Comes the Horde is an incremental auto-battler where your vast armies defend your castle against hordes of undead enemies. Survive the attacks, unlock new units, obtain powerful abilities, and fill the screen with thousands of troops."
   },
+  "5084410": {
+    "developers": [
+      "Zunaman"
+    ],
+    "publishers": [
+      "Studio F"
+    ],
+    "genres": [
+      "Acción",
+      "Indie",
+      "Estrategia"
+    ],
+    "shortDescription": "Journey TD es un roguelite de defensa de torres donde tus torres son el laberinto. Elige tus elementos y escoge entre 168 torres. Combina potenciadores, equipo, runas y tres árboles de talentos en builds letales. Cada semana, reta a otros jugadores con el mismo seed por liderar la clasificación.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084410/b5567935bb8e6ef6049c3e1b3c6f6dea8a6ade3b/header.jpg?t=1794449170",
+    "type": "game",
+    "shortDescriptionEn": "Journey TD is a roguelite tower defense where your towers are the maze. Pick your elements and draft from 168 towers. Combine power-ups, gear, runes and three skill trees into deadly builds. Every week, battle other players on the same seed to top the leaderboard."
+  },
   "5086460": {
     "developers": [
       "DarkNest Games"
@@ -1240,6 +1435,24 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088960/5a5e001d5a7c7e8866137aed5d81ca22ad3c1b0d/header.jpg?t=1793980814",
     "type": "game",
     "shortDescriptionEn": "Let's show〈Yuu〉, the new student, around school. A short psycho-horror visual novel depicting a mysterious relationship with her, unfolding without context like a dream. The Steam version of an experimental retro game designed to fit on a single 3.5-inch floppy disk."
+  },
+  "5110520": {
+    "developers": [
+      "Ludorea games"
+    ],
+    "publishers": [
+      "Ludorea games"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Indie",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "2040. Despiertas en una ciudad invadida por otro mundo. Puedes excavar el terreno sin límites. Apilando bloques puedes construir casas, castillos y fortalezas. Las chicas monstruo que encuentres en las tierras salvajes se convertirán en tus compañeras si las capturas. Lucharán y vivirán a tu lado para sostener tu reino.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5110520/fe134a4580ff12cbfdb0570e8f5507af98b8cfee/header.jpg?t=1793180401",
+    "type": "game",
+    "shortDescriptionEn": "2040. You wake in a city half-swallowed by another world. Dig anywhere, build anything - a shack, a castle, a fortress. Capture the monster girls roaming the wastes and they fight, work and live beside you. Every seventh night a horde comes. Raise walls, set traps and survive until dawn."
   },
   "5111890": {
     "developers": [
@@ -1359,6 +1572,23 @@
     "type": "game",
     "shortDescriptionEn": "HELENA: Cloud District is an atmospheric first-person exploration game where you explore a decaying mega-structure to photograph strange plants and uncover fragments of melancholic memories."
   },
+  "5256610": {
+    "developers": [
+      "Tycoon Games"
+    ],
+    "publishers": [
+      "Tycoon Games"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "Construye un imperio empresarial por todo Estados Unidos. Crea empresas, abre y mejora activos. Expándete por distintos sectores, domina mercados, controla una parte cada vez mayor de la economía y acumula una fortuna de billones de dólares.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5256610/9d511a6b3c4966b386acb291bc9a7805ceab94a7/header.jpg?t=1793099886",
+    "type": "game",
+    "shortDescriptionEn": "Build a business empire across the United States. Create companies, open and upgrade assets. Expand across industries, dominate markets, control a growing share of the economy, and build a trillion-dollar fortune."
+  },
   "5257930": {
     "developers": [
       "Kazehita"
@@ -1427,6 +1657,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5296640/720126607a23c42924869b2b5fe7ef7f8bdc7d4c/header.jpg?t=1793890876",
     "type": "game",
     "shortDescriptionEn": "Sort Them Fish is a cozy organizing simulator where you return 2538 fish to their proper aquariums in a cluttered aquatics store. Fill the tanks, learn abilities and turn the chaos into a beautifully organized fish collection."
+  },
+  "5318580": {
+    "developers": [
+      "sfvsoft"
+    ],
+    "publishers": [
+      "sfvsoft"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "\"Jyoka\" es un juego de estrategia y construcción del siglo XVI en Japón. Desarrolla tu territorio con más de 190 instalaciones y otorga arrozales a tus vasallos. Conéctate y defiéndete de bandidos o daimyos. ¡Asedia más de 70 castillos reales y unifica el país!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318580/5c5b9c30dec06d49f81a289d9873d41bdb12285c/header.jpg?t=1794119389",
+    "type": "game",
+    "shortDescriptionEn": "\"Jyoka\" is a 16th-century Japanese castle town builder. Develop your territory with 190+ facilities and grant rice fields to retainers to secure loyalty. Defend against bandits and daimyos. Once stable, launch epic sieges against 70+ real-inspired castles to unify Japan!"
   },
   "5325220": {
     "developers": [
@@ -1528,5 +1775,56 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/9ac5251c1c2fd82c9b6fc5205e71dc94f65ec583/header.jpg?t=1793980608",
     "type": "game",
     "shortDescriptionEn": "Mow lawns in first person on a beat-up riding mower, solo or online co-op up to 6 players. You're a grumpy old man who smokes, drinks cheap beer and doesn't care, but leaves perfect stripes. A picky neighbor, an abandoned golf course, an island wedding."
+  },
+  "5420970": {
+    "developers": [
+      "Myra Games"
+    ],
+    "publishers": [
+      "Myra Games"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "¡Fotografía! ¡Recorta! ¡Pega! Un juego de fiesta online: haz fotos por un colorido mundo 3D, recórtalas y pega los recortes para construir lo que pide la ronda. Después, vota y adivina quién ha hecho cada obra. No hace falta saber dibujar.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5420970/762f964aa5985e398d4dad1f0150a95e423994b4/header.jpg?t=1794409221",
+    "type": "game",
+    "shortDescriptionEn": "Snap it. Snip it. Stick it. An online party game: take photos in a colorful 3D world, cut them up and stick the pieces together to make what the round asks for. Then vote and guess who made what. No drawing skills needed."
+  },
+  "5472080": {
+    "developers": [
+      "ImSoTiredStudio"
+    ],
+    "publishers": [
+      "LightTriadGames"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "SHRED A BILLION es un juego incremental en primera persona sobre una montaña de dinero. ¡Coge billetes con las manos, recógelos con un cubo, sube de nivel y échale mil millones de dólares a la trituradora! ¡Solo quedan 3.929.120.202 billetes!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/c7008fc401199cb78bfa366a33cb4c029e922e02/header.jpg?t=1793736074",
+    "type": "game",
+    "shortDescriptionEn": "SHRED A BILLION is a first-person incremental game about a mountain of money! Grab bills by hand, scoop them with a bucket, level up and feed a billion dollars to the shredder. Only 3,929,120,202 bills left to go!"
+  },
+  "5527800": {
+    "developers": [
+      "Unruled Games"
+    ],
+    "publishers": [
+      "Unruled Games"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, sell the ore, and buy guns for your ship that fire while you dig.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/1f9ccfcf491164a2e58024b6bac5dc06a154ba74/header.jpg?t=1794419408",
+    "type": "game",
+    "shortDescriptionEn": "An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, sell the ore, and buy guns for your ship that fire while you dig."
   }
 }
