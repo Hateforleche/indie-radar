@@ -1384,6 +1384,23 @@
     "type": "game",
     "shortDescriptionEn": "An idle-like alien colony simulator. Study an alien species and expand the colony to discover all their peculiar behaviours."
   },
+  "4891550": {
+    "developers": [
+      "Mewliks"
+    ],
+    "publishers": [
+      "Mewliks"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Indie"
+    ],
+    "shortDescription": "Escapa de la mansión antes de que te reclame. Un cooperativo de terror para 1–5 jugadores.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891550/468bf69fd8d106dce51613e7641df9e31bee0dfc/header.jpg?t=1793289030",
+    "type": "game",
+    "shortDescriptionEn": "Escape the mansion before it claims you. A 1–5 player co-op horror."
+  },
   "4901860": {
     "developers": [
       "Critics Arcade"
@@ -1761,6 +1778,23 @@
     "type": "game",
     "shortDescriptionEn": "Snow of Penglai is a yuri-themed visual novel set in ancient China. Players will step into the shoes of Xuanhua, a puppet girl, and confront everything about the witch Zhu Hanchuan. This is a story of rebirth. A lotus rising, bleeding, blooming anew."
   },
+  "5168960": {
+    "developers": [
+      "Studio Miley"
+    ],
+    "publishers": [
+      "Studio Miley"
+    ],
+    "genres": [
+      "Indie",
+      "Estrategia",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Un juego de estrategia medieval en el que una corona rival asedia tu ciudad. Dirige a tus tropas en las murallas y en el campo, y entre rondas enciende almenaras para elegir qué aliados acudirán en tu ayuda. Ganes o pierdas, cada batalla te da renombre para fortalecer Aldmark.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5168960/3204b0253ad985918908a74608e34d817d63d563/header.jpg?t=1794250927",
+    "type": "game",
+    "shortDescriptionEn": "A medieval siege-defence strategy game where a rival crown comes for your city. Command your troops on the walls and in the field, and between rounds light beacons to choose which allies will march to your aid. Win or lose, every battle earns renown to make Aldmark stronger."
+  },
   "5182840": {
     "developers": [
       "Luvineva Games"
@@ -1861,6 +1895,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1794167289",
     "type": "game",
     "shortDescriptionEn": "A first-person potato peeling game. You have a knife. You have a bucket. You have a mountain of potatoes. Peel them with real physics. Cut thin, waste nothing. Buy better tools. Finish the pile."
+  },
+  "5275590": {
+    "developers": [
+      "Skyturns"
+    ],
+    "publishers": [
+      "Skyturns"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Use incredible physics to create roads by pushing dirt, felling trees, moving rocks, hauling gravel. Dig a pit for resources, build a race track for the dirt bike! Get paid and buy more machines. Multiplayer for up to four players",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5275590/d94a07a1f6798bd0dfda188926617b9156889f25/header.jpg?t=1794604809",
+    "type": "game",
+    "shortDescriptionEn": "Use incredible physics to create roads by pushing dirt, felling trees, moving rocks, hauling gravel. Dig a pit for resources, build a race track for the dirt bike! Get paid and buy more machines. Multiplayer for up to four players"
   },
   "5295330": {
     "developers": [
@@ -2116,6 +2167,42 @@
     "type": "game",
     "shortDescriptionEn": "Your store. Your robot. Your code. Code Market is a relaxed management game where you don't click to sell — you program. A robot works in your supermarket, and it does exactly what your Java or C# code tells it: walk to a rack, pick up tomatoes, take a customer's order, pack the bag."
   },
+  "5458210": {
+    "developers": [
+      "Pattez Games"
+    ],
+    "publishers": [
+      "Pattez Games"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "Un juego cooperativo de construcción online para 1–8 jugadores. Fabricad ladrillos, construid una enorme pirámide y automatizad la producción. Reunid a vuestros amigos, contratad ayudantes y encontrad formas cada vez más disparatadas de llevar los ladrillos hasta arriba.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458210/e8525d1cf30149534fbc6b2ee780a2dddc2f328b/header.jpg?t=1794589252",
+    "type": "game",
+    "shortDescriptionEn": "A chaotic online co-op building game for 1–8 players. Make bricks, build a giant pyramid and turn a small operation into a massive automated production line. Work together, hire help and find increasingly ridiculous ways to get those bricks to the top."
+  },
+  "5460910": {
+    "developers": [
+      "Lyngo Games"
+    ],
+    "publishers": [
+      "Lyngo Games"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "Comedia aérea cooperativa para 1-4 jugadores. Dirige con tus amigos una minúscula aerolínea isleña, mantén en el aire un avión que se cae a trozos, repáralo en pleno vuelo y ten contenta a una cabina llena de pasajeros. O, al menos, con vida.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5460910/4e159bfcfbb59cd9cd86d1d1b7a2ed2a85713e1b/header.jpg?t=1794732448",
+    "type": "game",
+    "shortDescriptionEn": "A 1-4 player co-op airline comedy. Run a tiny island airline with your friends, keep a falling-apart plane in the air, fix it mid-flight and keep a full cabin of passengers happy. Or at least alive."
+  },
   "5472080": {
     "developers": [
       "ImSoTiredStudio"
@@ -2132,6 +2219,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/c7008fc401199cb78bfa366a33cb4c029e922e02/header.jpg?t=1793736074",
     "type": "game",
     "shortDescriptionEn": "SHRED A BILLION is a first-person incremental game about a mountain of money! Grab bills by hand, scoop them with a bucket, level up and feed a billion dollars to the shredder. Only 3,929,120,202 bills left to go!"
+  },
+  "5482350": {
+    "developers": [
+      "Grandmaster Cirno"
+    ],
+    "publishers": [
+      "Grandmaster Cirno"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Estrategia"
+    ],
+    "shortDescription": "Become Rinnosuke, owner of the Kourindou curio shop, and play chess with the Gensokyo regulars who drop by. Your guests laugh, panic and grumble as the game turns. Learn the rules in a 9-chapter story, then sharpen your play with puzzles and lessons.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5482350/c469685199e7f85810473c49243630ef988e02b4/header.jpg?t=1794557890",
+    "type": "game",
+    "shortDescriptionEn": "Become Rinnosuke, owner of the Kourindou curio shop, and play chess with the Gensokyo regulars who drop by. Your guests laugh, panic and grumble as the game turns. Learn the rules in a 9-chapter story, then sharpen your play with puzzles and lessons."
   },
   "5527800": {
     "developers": [
