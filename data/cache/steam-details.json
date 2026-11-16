@@ -400,6 +400,27 @@
     "type": "game",
     "shortDescriptionEn": "Welcome to WendyQuest - a well-done 2D adventure RPG from Wendy’s packed with crispy combat, handcrafted pixel art, and fresh, never frozen puzzles. Play as redheaded warrior Wendy & battle evil mech-monsters to save a culinary kingdom in peril."
   },
+  "3412560": {
+    "developers": [
+      "zsKnight"
+    ],
+    "publishers": [
+      "zsKnight"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Casual",
+      "Indie",
+      "Carreras",
+      "Rol",
+      "Estrategia"
+    ],
+    "shortDescription": "Created by zsKnight of ZSNES is this really neat retro game collection containing a fun shuffler story mode and a challenging arcade mode. Features 52 different 8bit style games which includes local competitive multiplayer and various different game modes to play and enjoy.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3412560/header.jpg?t=1794781191",
+    "type": "game",
+    "shortDescriptionEn": "Created by zsKnight of ZSNES is this really neat retro game collection containing a fun shuffler story mode and a challenging arcade mode. Features 52 different 8bit style games which includes local competitive multiplayer and various different game modes to play and enjoy."
+  },
   "3492120": {
     "developers": [
       "Geoffroy Monde"
@@ -505,6 +526,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687090/af03fa8cadd860459554ac85a2e47c47190c9f90/header.jpg?t=1793219730",
     "type": "game",
     "shortDescriptionEn": "Dice Hoarder is a cozy organizing game where you restock a mysterious dice shop. Sort every die in the shop, match them into complete seven-piece sets, and uncover what is hidden behind your new job."
+  },
+  "3699850": {
+    "developers": [
+      "Games People Play"
+    ],
+    "publishers": [
+      "Games People Play",
+      "Vsoo Games"
+    ],
+    "genres": [
+      "Indie",
+      "Estrategia"
+    ],
+    "shortDescription": "Has perdido tu alma en una partida de póker con el Diablo. Ahora, en las profundidades del Infierno, solo te queda luchar por recuperar la libertad. Te enfrentarás a una gran variedad de enemigos monstruosos en duelos de póker casi imposibles. Por suerte, haces trampas.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3699850/cb83990ef1a4ffd7e360d2b00a3d5fe7b39f0227/header.jpg?t=1794686807",
+    "type": "game",
+    "shortDescriptionEn": "You lost your soul in a poker game against the Devil. Now, trapped in the infernal depths, your only hope is to fight your way back to freedom. You’ll face a diverse gallery of monstrous foes in nearly impossible poker battles - but luckily, you’re a cheater."
   },
   "3721530": {
     "developers": [
@@ -681,6 +719,25 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150720/7d4ab50bd6073a912094cb2b17d0617415e002d3/header.jpg?t=1792768849",
     "type": "game",
     "shortDescriptionEn": "Face off in a Russian roulette drinking survival with a demon who'd kill for you—or kill you—where it's puke or be puked on for your soul. The more you drink, the more the rules break down, until it all spills into one hell of a night you'll never forget."
+  },
+  "4188070": {
+    "developers": [
+      "猫咪猫猫人",
+      "Mosscat"
+    ],
+    "publishers": [
+      "头猫兔工作室"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "Start your desktop bakery! Begin with one cookie and a table. Decorate, cook, hire staff, and learn recipes. Serve lively bunny customers, meet quirky characters, and unlock their unique stories and dishes!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4188070/1cc79944ec4748ba80c4e68db2da50433061e7f5/header.jpg?t=1794564014",
+    "type": "game",
+    "shortDescriptionEn": "Start your desktop bakery! Begin with one cookie and a table. Decorate, cook, hire staff, and learn recipes. Serve lively bunny customers, meet quirky characters, and unlock their unique stories and dishes!"
   },
   "4207990": {
     "developers": [
@@ -1189,6 +1246,23 @@
     "type": "game",
     "shortDescriptionEn": "A dungeon colony sim where you play the dungeon itself: its Boss, its minions and the beasts in its caves. Dig out halls, wire deadly traps, and raid the world above for treasure. Then hold your hoard against the heroes who come to take it back. Play alone or in 2–4 player co-op."
   },
+  "4707700": {
+    "developers": [
+      "Code Horizon"
+    ],
+    "publishers": [
+      "Code Horizon",
+      "PlayWay S.A."
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "Gold Mining Simulator: Definitive Edition es la versión definitiva del juego e incluye todas las expansiones publicadas anteriormente, además de nuevo contenido, mejoras de jugabilidad y visuales, y numerosas mejoras de calidad de vida para ofrecer la experiencia de minería de oro más completa.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707700/e25d301bd345da1734990375d2669e9f34f438fb/header.jpg?t=1794825201",
+    "type": "game",
+    "shortDescriptionEn": "Gold Mining Simulator: Definitive Edition is the ultimate version of the game, featuring all previously released expansions plus new content, gameplay enhancements, visual improvements, and numerous quality of life upgrades for the most complete gold mining experience."
+  },
   "4714010": {
     "developers": [
       "TurtlePunch Studios"
@@ -1451,6 +1525,24 @@
     "type": "game",
     "shortDescriptionEn": "Rank 5 words from S to D to fit the prompt, then everyone guesses the star's ranking in this online party game for 2–10 players. Perfect matches get cheers, wild misses get laughs!"
   },
+  "4946440": {
+    "developers": [
+      "Tevark"
+    ],
+    "publishers": [
+      "Tevark"
+    ],
+    "genres": [
+      "Acción",
+      "Indie",
+      "Simuladores",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "A physics sandbox about Murray, who didn't let a witch merge onto the highway. She sent him to The Granule, and something already lives there. You. Burn, freeze, shock, slice, and mend him. None of it is scripted, and the room is not all there is.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4946440/d4fb44826f084a1a23fa3dd08cb4c46c18583daa/header.jpg?t=1794255272",
+    "type": "game",
+    "shortDescriptionEn": "A physics sandbox about Murray, who didn't let a witch merge onto the highway. She sent him to The Granule, and something already lives there. You. Burn, freeze, shock, slice, and mend him. None of it is scripted, and the room is not all there is."
+  },
   "4960570": {
     "developers": [
       "Lighthouse Game Studio"
@@ -1710,6 +1802,22 @@
     "type": "game",
     "shortDescriptionEn": "\"Weeping Souls\" is a visual novel game. The player takes on the role of the protagonist and chooses the right path to ensure the safety of themselves and their friends. The game features multiple endings, determined by your choices."
   },
+  "5111980": {
+    "developers": [
+      "Umigame Studios"
+    ],
+    "publishers": [
+      "Umigame Studios"
+    ],
+    "genres": [
+      "Aventura",
+      "Indie"
+    ],
+    "shortDescription": "Yuki lleva una vida corriente, cargando con sus deudas, unos pocos amigos y poemas que no comparte con nadie. Hasta que llega alguien más a clase. Porque hay presencias a las que no te puedes resistir. Solo puedes rendirte.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111980/9b50671f1bce9058ae9c6642522fdf48c5fa8dc3/header.jpg?t=1794512745",
+    "type": "game",
+    "shortDescriptionEn": "Yuki leads an ordinary life, weighed down by debt, surrounded by a few friends, and consumed by poems shared with no one. Until the arrival of a transfer student. Because some presences cannot be resisted. Only surrender is possible."
+  },
   "5133900": {
     "developers": [
       "LuisDev"
@@ -1827,6 +1935,24 @@
     "type": "game",
     "shortDescriptionEn": "A city builder focused on traffic. Build out your city with gridless road tools. Fix traffic jams with roundabouts, fully-customizable traffic lights, and sprawling highway interchanges. Keep traffic flowing as you expand to a vast metropolis."
   },
+  "5190490": {
+    "developers": [
+      "Confused Quark"
+    ],
+    "publishers": [
+      "Confused Quark"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "One More Floor es un breve juego incremental. Baja en ascensor a las minas, da en el blanco para multiplicar tus monedas en cada planta y cobra antes de morir. Desbloquea nuevas minas, colecciona gemas raras y compra mejoras de prestigio permanentes.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190490/78193c9a3da9038c8f76a1c05834782148b2b5f1/header.jpg?t=1794339532",
+    "type": "game",
+    "shortDescriptionEn": "One More Floor is a short incremental game. Ride an elevator into the mines, hit the targets to multiply your coins each floor, and cash out before you die. Unlock new mines, collect rare gems, and buy permanent prestige upgrades."
+  },
   "5190580": {
     "developers": [
       "Helena : Cloud District"
@@ -1843,6 +1969,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190580/1f274f8282617700a1da4fd43b33d17e7fee7218/header.jpg?t=1793300989",
     "type": "game",
     "shortDescriptionEn": "HELENA: Cloud District is an atmospheric first-person exploration game where you explore a decaying mega-structure to photograph strange plants and uncover fragments of melancholic memories."
+  },
+  "5196330": {
+    "developers": [
+      "Catchy"
+    ],
+    "publishers": [
+      "Catchy"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "Diseña el chip que impulsa la IA. Empieza con una sola puerta lógica y construye un ordenador: conecta circuitos, convierte tus diseños en chips reutilizables, programa pequeños kernels y amplía tu arquitectura hasta crear una GPU funcional.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196330/ed45431af68043229060b5328738f834e020cbff/header.jpg?t=1794825358",
+    "type": "game",
+    "shortDescriptionEn": "Design the chip that powers AI. Start with a single logic gate and build a computer: wire circuits, cast designs into reusable chips, program tiny kernels, and scale your architecture into a working GPU."
   },
   "5256610": {
     "developers": [
@@ -2148,6 +2291,24 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5427110/6ae17d67a62ca84579558904b4feda3d26ae5c49/header.jpg?t=1794403611",
     "type": "game",
     "shortDescriptionEn": "Lost Bitcoin is a digging and automation game set in a gigantic junkyard. Collect scrap, burn it for coins, buy upgrades and build a factory that works for you. Crack crates and safes, and check every USB stick to find your lost Bitcoin wallet."
+  },
+  "5450430": {
+    "developers": [
+      "Doublewide Supercomputer"
+    ],
+    "publishers": [
+      "Doublewide Supercomputer"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Free to Play"
+    ],
+    "shortDescription": "El yate es un bote roto. El timón, un tapacubos. Los peces, ya ni hablemos.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5450430/5752132545a4cdbdd6a45e5a31b13a4a9ea754f9/header.jpg?t=1794801922",
+    "type": "game",
+    "shortDescriptionEn": "A free fishing game made by one guy who has been making fishing games since 2008. Catch 100+ weird fish for the fridge door, work your way up from an Oak Branch to the Necro-pole, win the weekly derbies, beat real players 1v1, and tune the deck radio: 4 stations, DJs and 160+ original songs."
   },
   "5451260": {
     "developers": [
