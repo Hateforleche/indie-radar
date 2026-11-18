@@ -719,6 +719,22 @@
     "type": "game",
     "shortDescriptionEn": "Search the ashes of an abandoned Latin American town and uncover 400 years of secrets. An epic non-linear mystery where you travel back in time and untangle the history of a community cursed by generations of supernatural forces."
   },
+  "4102120": {
+    "developers": [
+      "CLEARRAVE"
+    ],
+    "publishers": [
+      "CLEARRAVE"
+    ],
+    "genres": [
+      "Aventura",
+      "Indie"
+    ],
+    "shortDescription": "Resequence: The Orchard is an occult-horror adventure game in which school counselor Saito approaches an inexplicable phenomena through his counseling sessions with students.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4102120/d500b99d60682473a125ddda4818a748ae204e09/header.jpg?t=1794365633",
+    "type": "game",
+    "shortDescriptionEn": "Resequence: The Orchard is an occult-horror adventure game in which school counselor Saito approaches an inexplicable phenomena through his counseling sessions with students."
+  },
   "4146650": {
     "developers": [
       "Finley Studios"
@@ -856,6 +872,21 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255640/b4810a75544eaed45a6d9487e52caf78ffd2e7a4/header.jpg?t=1794573697",
     "type": "game",
     "shortDescriptionEn": "Celebrate love with Ellie and Lucien in MyDear.exe. A short and cute game that takes place in the folders of an old PC. In the shoes of Ellie, play the game offered by Lucien after a long life together. Humor, memories and love are on the menu of this short ~2 hours experience."
+  },
+  "4268590": {
+    "developers": [
+      "One Bit Bean"
+    ],
+    "publishers": [
+      "One Bit Bean"
+    ],
+    "genres": [
+      "Estrategia"
+    ],
+    "shortDescription": "Func Key is a word-spelling roguelike deckbuilder where your keyboard is your class: six boards, six different ways to play. Spell words, build your board, and bend the rules with mods, all to the soothing thock of the mechanical keyboard.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268590/623ee45274d676f93a4587db44323f2f78de41ce/header.jpg?t=1794848457",
+    "type": "game",
+    "shortDescriptionEn": "Func Key is a word-spelling roguelike deckbuilder where your keyboard is your class: six boards, six different ways to play. Spell words, build your board, and bend the rules with mods, all to the soothing thock of the mechanical keyboard."
   },
   "4301730": {
     "developers": [
@@ -1000,6 +1031,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4390080/2d72fb041335f66b827b1ec3db8191c70aab4642/header.jpg?t=1793622391",
     "type": "game",
     "shortDescriptionEn": "Join a family of bears and run the buzziest little honey farm! Collect and discover rare bees, bottle honey jars, expand your farm, and watch your flowery field bloom in this cozy idle management game."
+  },
+  "4397220": {
+    "developers": [
+      "Gallop Forever Games"
+    ],
+    "publishers": [
+      "Gallop Forever Games"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "Un acogedor rancho de caballos que vive en tu escritorio mientras trabajas, o en pantalla completa cuando no. Cría caballos únicos, haz que galopen juntos, compite por monedas, contrata ayudantes y haz crecer tu rancho.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4397220/c25665f9ecf8934489cbc44f9ed46b3f407c8369/header.jpg?t=1794859406",
+    "type": "game",
+    "shortDescriptionEn": "A cozy horse ranch that lives on your desktop while you work, or in full screen when you don't. Breed one-of-a-kind horses, send them running together, race for coins, hire ranch helpers and grow your ranch."
   },
   "4450600": {
     "developers": [
@@ -1333,6 +1381,24 @@
     "type": "game",
     "shortDescriptionEn": "A dungeon colony sim where you play the dungeon itself: its Boss, its minions and the beasts in its caves. Dig out halls, wire deadly traps, and raid the world above for treasure. Then hold your hoard against the heroes who come to take it back. Play alone or in 2–4 player co-op."
   },
+  "4704000": {
+    "developers": [
+      "stre1itzia",
+      "Andryash"
+    ],
+    "publishers": [
+      "Polden Publishing"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "Shark Mart es un simulador cooperativo loco sobre tiburones infiltrados disfrazados de delfines amigables. Gestiona la tienda, limpia ballenas y secuestra peces desprevenidos para cocinar deliciosos platos. ¡Pero cuidado! La Policía de los Peces quiere descubrir vuestro secreto dentado...",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704000/df451cd0eb747cd5cefe6e84c9ad1b98d1ef02ac/header.jpg?t=1794936423",
+    "type": "game",
+    "shortDescriptionEn": "Shark Mart is a crazy co-op simulator about sharks undercover disguised as friendly dolphins. Run the shop, and scrub whales to secretly kidnap unsuspecting fish and cook up tasty delicacies! But beware - the Fish Police are out to expose your toothy secret..."
+  },
   "4707700": {
     "developers": [
       "Code Horizon"
@@ -1437,6 +1503,40 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4784510/894c18fd776040fe43523995d4122af0a0298a76/header.jpg?t=1793981530",
     "type": "game",
     "shortDescriptionEn": "Live through the final days of an old man in a small village threatened by an approaching giant Leviathan. An existential horror game about inevitability, loneliness, and a man with nowhere to go and no reason to leave."
+  },
+  "4786650": {
+    "developers": [
+      "Fire Altar Entertainment"
+    ],
+    "publishers": [
+      "Fire Altar Entertainment"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "What happens when historical and fictional icons find an arsenal of crazy weapons? TOTAL CHAOS! Build a team with legends from fiction or history, discover unexpected builds and synergies, take on solo challenges or beat your friends in PvP battles in this absurd and hilarious auto-battler.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4786650/75408f3b27c7dd968b4d255ab5797d8977bb5a09/header.jpg?t=1794849111",
+    "type": "game",
+    "shortDescriptionEn": "What happens when historical and fictional icons find an arsenal of crazy weapons? TOTAL CHAOS! Build a team with legends from fiction or history, discover unexpected builds and synergies, take on solo challenges or beat your friends in PvP battles in this absurd and hilarious auto-battler."
+  },
+  "4802530": {
+    "developers": [
+      "CyanSorcery"
+    ],
+    "publishers": [
+      "CyanSorcery"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Fill out puzzles to reveal images, and complete your stamp collection in this casual nonogram game!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802530/a12a03009214eaa45fca4f96439ae1604f61c51d/header.jpg?t=1794516989",
+    "type": "game",
+    "shortDescriptionEn": "Fill out puzzles to reveal images, and complete your stamp collection in this casual nonogram game!"
   },
   "4832970": {
     "developers": [
@@ -1611,6 +1711,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4921660/15487b9cfaed2b7ff427ab56dfcd82b033f43638/header.jpg?t=1793760977",
     "type": "game",
     "shortDescriptionEn": "Rank 5 words from S to D to fit the prompt, then everyone guesses the star's ranking in this online party game for 2–10 players. Perfect matches get cheers, wild misses get laughs!"
+  },
+  "4933500": {
+    "developers": [
+      "PMF Top Joy Games"
+    ],
+    "publishers": [
+      "PMF Top Joy Games"
+    ],
+    "genres": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "shortDescription": "Me and You es un juego de puzles cooperativo inspirado en el aclamado “Baba Is You”. Crea, cambia y rompe las reglas de cada nivel para resolverlo juntos.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933500/31fbf2a60a4bacd4061e64c06ff3cd6b108a4ba8/header.jpg?t=1794994082",
+    "type": "game",
+    "shortDescriptionEn": "Me and You is a co-op puzzle game inspired by the acclaimed “Baba Is You”. Create, change and break the rules of each level to solve it together."
   },
   "4946440": {
     "developers": [
@@ -1923,6 +2040,26 @@
     "type": "game",
     "shortDescriptionEn": "\"Weeping Souls\" is a visual novel game. The player takes on the role of the protagonist and chooses the right path to ensure the safety of themselves and their friends. The game features multiple endings, determined by your choices."
   },
+  "5111930": {
+    "developers": [
+      "KriszTeam",
+      "Nora Blaha"
+    ],
+    "publishers": [
+      "KriszTeam",
+      "Nora Blaha"
+    ],
+    "genres": [
+      "Acción",
+      "Indie",
+      "Carreras",
+      "Deportes"
+    ],
+    "shortDescription": "¡No dejes que tu colega te mate! :)) Rally cooperativo caótico con hasta 8 jugadores en 4 coches. Esquiva animales, limpia el barro y confía en tu copiloto. Pinta tu coche, abróchate el cinturón e intentad que vuestra amistad llegue a la meta.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111930/5fb8ebe09e59bae6687c402ce82df904c9c2e7ec/header.jpg?t=1794565838",
+    "type": "game",
+    "shortDescriptionEn": "Don't let your buddy kill you! :)) 2-player co-op panic asymmetrical game. Team up with up to 8 players in 4 cars for chaotic co-op rallying. Dodge wildlife, wipe mud off the windshield, and trust your navigator’s directions. Paint your car, buckle up, and try to keep the friendship on the road."
+  },
   "5111980": {
     "developers": [
       "Umigame Studios"
@@ -1938,6 +2075,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5111980/9b50671f1bce9058ae9c6642522fdf48c5fa8dc3/header.jpg?t=1794512745",
     "type": "game",
     "shortDescriptionEn": "Yuki leads an ordinary life, weighed down by debt, surrounded by a few friends, and consumed by poems shared with no one. Until the arrival of a transfer student. Because some presences cannot be resisted. Only surrender is possible."
+  },
+  "5127260": {
+    "developers": [
+      "Cattrall Games"
+    ],
+    "publishers": [
+      "Cattrall Games"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "Juego isométrico de ciudad medieval. Convierte un señorío de pocas chozas en villa de mercado. Una casa mejora si su familia tiene comida, agua y los servicios que necesita. Haz acopio antes del invierno, cuando nada crece. Luego llegan asaltantes a quemar la villa: levanta torres para frenarlos.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5127260/62355b7eb54d93c9751f5f3aa27e30d0cb972bf4/header.jpg?t=1794414949",
+    "type": "game",
+    "shortDescriptionEn": "An isometric medieval city builder. Grow one manor from a few hovels into a market town. Houses upgrade when the families in them get the food, water and services they need. Stock up before winter, when nothing grows. Later, raiders come to set the town on fire, and you build towers to stop them."
   },
   "5133900": {
     "developers": [
@@ -2176,6 +2330,22 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5275590/d94a07a1f6798bd0dfda188926617b9156889f25/header.jpg?t=1794604809",
     "type": "game",
     "shortDescriptionEn": "Use incredible physics to create roads by pushing dirt, felling trees, moving rocks, hauling gravel. Dig a pit for resources, build a race track for the dirt bike! Get paid and buy more machines. Multiplayer for up to four players"
+  },
+  "5277000": {
+    "developers": [
+      "hacktic"
+    ],
+    "publishers": [
+      "hacktic"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "Dejinochi is a tiny virtual pet that lives right on your desktop. Feed it, care for it, and see what it grows into. Eventually, you'll have to say goodbye as it heads out into the world, but old friends come back to visit.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5277000/a87e288fb6cc990466bbc14d2634ff677bdfbaba/header.jpg?t=1794080844",
+    "type": "game",
+    "shortDescriptionEn": "Dejinochi is a tiny virtual pet that lives right on your desktop. Feed it, care for it, and see what it grows into. Eventually, you'll have to say goodbye as it heads out into the world, but old friends come back to visit."
   },
   "5295330": {
     "developers": [
@@ -2521,6 +2691,23 @@
     "type": "game",
     "shortDescriptionEn": "SHRED A BILLION is a first-person incremental game about a mountain of money! Grab bills by hand, scoop them with a bucket, level up and feed a billion dollars to the shredder. Only 3,929,120,202 bills left to go!"
   },
+  "5472200": {
+    "developers": [
+      "TRANAZ"
+    ],
+    "publishers": [
+      "TRANAZ"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "A 3D aquarium game for watching bee shrimp. Zoom in to see them graze, groom and swim, or feed them and watch them gather. Choose from 12 aquascapes, change the lighting, and customize the shrimp's patterns, colors and sizes.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472200/dfb152c6f8cf52bd789de5627ad148db828c8d30/header.jpg?t=1794998561",
+    "type": "game",
+    "shortDescriptionEn": "A 3D aquarium game for watching bee shrimp. Zoom in to see them graze, groom and swim, or feed them and watch them gather. Choose from 12 aquascapes, change the lighting, and customize the shrimp's patterns, colors and sizes."
+  },
   "5482350": {
     "developers": [
       "Grandmaster Cirno"
@@ -2554,5 +2741,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/1f9ccfcf491164a2e58024b6bac5dc06a154ba74/header.jpg?t=1794419408",
     "type": "game",
     "shortDescriptionEn": "An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, sell the ore, and buy guns for your ship that fire while you dig."
+  },
+  "5533700": {
+    "developers": [
+      "程序员小灰"
+    ],
+    "publishers": [
+      "程序员小灰"
+    ],
+    "genres": [
+      "Acción",
+      "Casual",
+      "Indie",
+      "Rol"
+    ],
+    "shortDescription": "A Three Kingdoms pixel-art survival roguelite. Choose your hero, combine upgrades, and fight your way through enemy hordes.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5533700/d901053eaf5b3da37beff9d73354b921b70bf054/header.jpg?t=1794892447",
+    "type": "game",
+    "shortDescriptionEn": "A Three Kingdoms pixel-art survival roguelite. Choose your hero, combine upgrades, and fight your way through enemy hordes."
   }
 }
