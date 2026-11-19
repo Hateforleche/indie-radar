@@ -16,6 +16,23 @@
     "type": "game",
     "shortDescriptionEn": "Design, expand, and manage a network of space stations across Earth orbit and beyond. In Space Station Designer, you’ll take the lead of a private aerospace company, managing astronauts and logistics, unlocking advanced technologies, and shaping the future of humanity in space."
   },
+  "2121910": {
+    "developers": [
+      "Li Min"
+    ],
+    "publishers": [
+      "Li Min"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "A little island full of bunnies. Have them farm and build homes, or do nothing and just watch them eat, sleep and play. Now and then, visitors bring new stories, and the bunnies write you letters.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2121910/c38cff386ed534fc7ff03e086624fd4dc112d24f/header.jpg?t=1795069299",
+    "type": "game",
+    "shortDescriptionEn": "A little island full of bunnies. Have them farm and build homes, or do nothing and just watch them eat, sleep and play. Now and then, visitors bring new stories, and the bunnies write you letters."
+  },
   "2231090": {
     "developers": [
       "ARIELEK"
@@ -278,6 +295,22 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014860/db4b4d49fcf1c62dd43c227f1b36414fbb725630/header.jpg?t=1794314100",
     "type": "game",
     "shortDescriptionEn": "The legendary jumping game is back! Join Harold the Homeboy and friends as they jump up the Icy Tower. Make combo jumps to build up massive scores. How high can you get?"
+  },
+  "3046540": {
+    "developers": [
+      "Different Folks"
+    ],
+    "publishers": [
+      "Different Folks"
+    ],
+    "genres": [
+      "Indie",
+      "Free to Play"
+    ],
+    "shortDescription": "¡Crea minimúsica con otras personas por internet! Un juego creativo y relajado con cocreación asíncrona. Compón canciones únicas con instrumentos disparatados, o simplemente pasa el rato viendo cómo los grupos de otros jugadores se suben al escenario.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3046540/627068ae2aa3a7df5c1312d3d20c72acc4f44cb2/header.jpg?t=1794927689",
+    "type": "game",
+    "shortDescriptionEn": "Make mini music with other people online! A creative, low-stress game with async co-creation. Make unique songs with crazy instruments, or just hang out and watch other players' bands take the stage!"
   },
   "3218570": {
     "developers": [
@@ -1538,6 +1571,24 @@
     "type": "game",
     "shortDescriptionEn": "Fill out puzzles to reveal images, and complete your stamp collection in this casual nonogram game!"
   },
+  "4811080": {
+    "developers": [
+      "Second Guess"
+    ],
+    "publishers": [
+      "Second Guess"
+    ],
+    "genres": [
+      "Aventura",
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "Un juego de terror psicológico minimalista inspirado en The Exit 8, en el que los jugadores deben escapar de un pasillo de hospital abandonado de la era postsoviética, que se repite en bucle, detectando anomalías.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811080/ab006dbf06247bc3e6701e9ef3b7d912826eee37/header.jpg?t=1794324871",
+    "type": "game",
+    "shortDescriptionEn": "A psychological horror game inspired by the unsettling atmosphere of P.T. and the anomaly-detection gameplay of The Exit 8, where players must detect anomalies to escape a looping abandoned hospital."
+  },
   "4832970": {
     "developers": [
       "kohlgames"
@@ -1763,6 +1814,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960570/1d3527c02e3f6a188036909a5b41d653a1ff8065/header.jpg?t=1793928648",
     "type": "game",
     "shortDescriptionEn": "An idle cultivation game at the bottom of your desktop. While you work, your thief steals, sells fakes and auctions loot to ascend. When Heaven notices, can he still steal his way to the top?"
+  },
+  "4972050": {
+    "developers": [
+      "Lukas Osouch"
+    ],
+    "publishers": [
+      "Lukas Osouch"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Estrategia"
+    ],
+    "shortDescription": "Resettle es un juego incremental de construcción de ciudades con gran profundidad en el que desarrollas asentamientos en islas. Coloca edificios estratégicamente para maximizar la producción de recursos, explora 10 sistemas de mejoras diferentes y crea una próspera ciudad isleña.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4972050/6432494de86ae46546c59433b959786103f4adf8/header.jpg?t=1794248404",
+    "type": "game",
+    "shortDescriptionEn": "Resettle is a deep incremental city builder where you develop settlements on islands. Strategically place buildings to maximize resource production, explore 10 different upgrade systems, and create a thriving island city."
   },
   "4986050": {
     "developers": [
@@ -2262,6 +2330,24 @@
     "type": "game",
     "shortDescriptionEn": "Design the chip that powers AI. Start with a single logic gate and build a computer: wire circuits, cast designs into reusable chips, program tiny kernels, and scale your architecture into a working GPU."
   },
+  "5249670": {
+    "developers": [
+      "KEEPLR"
+    ],
+    "publishers": [
+      "HeadArrow"
+    ],
+    "genres": [
+      "Aventura",
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "A cozy first-person organizing simulator where you pair 3,500 wands with their matching cases and file them across a two-storey wand shop. Read each magical stave, restore every pigeon hole, unlock helpful skills, or race the clock in Hardcore mode.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5249670/0d06ea507fadf5e6a329c745885e5fc091ca9e14/header.jpg?t=1789835453",
+    "type": "game",
+    "shortDescriptionEn": "A cozy first-person organizing simulator where you pair 3,500 wands with their matching cases and file them across a two-storey wand shop. Read each magical stave, restore every pigeon hole, unlock helpful skills, or race the clock in Hardcore mode."
+  },
   "5256610": {
     "developers": [
       "Tycoon Games"
@@ -2397,6 +2483,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5318580/5c5b9c30dec06d49f81a289d9873d41bdb12285c/header.jpg?t=1794119389",
     "type": "game",
     "shortDescriptionEn": "\"Jyoka\" is a 16th-century Japanese castle town builder. Develop your territory with 190+ facilities and grant rice fields to retainers to secure loyalty. Defend against bandits and daimyos. Once stable, launch epic sieges against 70+ real-inspired castles to unify Japan!"
+  },
+  "5319020": {
+    "developers": [
+      "Bad Habit Games"
+    ],
+    "publishers": [
+      "Bad Habit Games"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "Un acogedor juego de orden en primera persona ambientado en una tienda de arte llena de objetos raros y bellos. Ordena 2942 materiales de bellas artes y piezas artesanales de decenas de formas, estante a estante, color a color, y desbloquea habilidades.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5319020/9a5e73f70a32144c817f2c0bc03f3daef0cec413/header.jpg?t=1794854101",
+    "type": "game",
+    "shortDescriptionEn": "A cozy first-person organizing game set in an art shop of rare and beautiful things. Sort 3022 fine art supplies and artisan pieces in dozens of distinct forms, shelf by shelf, color by color, and unlock skills as the shop becomes a gallery of perfect order."
   },
   "5325220": {
     "developers": [
@@ -2583,6 +2686,23 @@
     "type": "game",
     "shortDescriptionEn": "Lost Bitcoin is a digging and automation game set in a gigantic junkyard. Collect scrap, burn it for coins, buy upgrades and build a factory that works for you. Crack crates and safes, and check every USB stick to find your lost Bitcoin wallet."
   },
+  "5443350": {
+    "developers": [
+      "Monchii Studio"
+    ],
+    "publishers": [
+      "Monchii Studio"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "Chisel Me This es un juego de fiesta para 1-8 jugadores en el que compites con tus amigos creando esculturas a partir de distintos temas. ¡Talla enormes bloques de mármol, moldea arcilla y sabotea a tus rivales mientras creáis auténticas obras de arte!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5443350/b756acfbe411a3514778de6c84782808aab56762/header.jpg?t=1794781458",
+    "type": "game",
+    "shortDescriptionEn": "Chisel Me This is a 1-8 player party game where you and your friends compete to create statues of various prompts. Sculpt large marble blocks, mold clay, and sabotage competitors as you create artistic masterpieces!"
+  },
   "5450430": {
     "developers": [
       "Doublewide Supercomputer"
@@ -2725,6 +2845,24 @@
     "type": "game",
     "shortDescriptionEn": "Become Rinnosuke, owner of the Kourindou curio shop, and play chess with the Gensokyo regulars who drop by. Your guests laugh, panic and grumble as the game turns. Learn the rules in a 9-chapter story, then sharpen your play with puzzles and lessons."
   },
+  "5498410": {
+    "developers": [
+      "Reanim Games"
+    ],
+    "publishers": [
+      "STuNT"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "shortDescription": "New Capybara, 1933. Private investigator Sam Malone and his assistant, Tommy, take on a case to find a missing wooden leg that contains a secret ledger. A branching noir detective story infused with dark humor, where any choice could be your last.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5498410/ed9347e95af1b8a339a23c582ab516e5bb263ad0/header.jpg?t=1794856625",
+    "type": "game",
+    "shortDescriptionEn": "New Capybara, 1933. Private investigator Sam Malone and his assistant, Tommy, take on a case to find a missing wooden leg that contains a secret ledger. A branching noir detective story infused with dark humor, where any choice could be your last."
+  },
   "5527800": {
     "developers": [
       "Unruled Games"
@@ -2741,6 +2879,24 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/1f9ccfcf491164a2e58024b6bac5dc06a154ba74/header.jpg?t=1794419408",
     "type": "game",
     "shortDescriptionEn": "An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, sell the ore, and buy guns for your ship that fire while you dig."
+  },
+  "5532770": {
+    "developers": [
+      "NimbleBit"
+    ],
+    "publishers": [
+      "NimbleBit"
+    ],
+    "genres": [
+      "Casual",
+      "Multijugador masivo",
+      "Simuladores",
+      "Free to Play"
+    ],
+    "shortDescription": "Pick a job at a real airport, watch your plane fly it in real time, and get paid when it lands. A relaxed flight career over the real world, with live weather, thousands of airports and pilots from everywhere sharing one sky.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5532770/57111b0ab81afc2e15534cca8241fa58f1d1058a/header.jpg?t=1794964968",
+    "type": "game",
+    "shortDescriptionEn": "Pick a job at a real airport, watch your plane fly it in real time, and get paid when it lands. A relaxed flight career over the real world, with live weather, thousands of airports and pilots from everywhere sharing one sky."
   },
   "5533700": {
     "developers": [
