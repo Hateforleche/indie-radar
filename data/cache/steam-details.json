@@ -86,6 +86,23 @@
     "type": "game",
     "shortDescriptionEn": "HARMA is a retro dark fantasy roguelike deckbuilding game featuring a story-driven campaign. Uncover the truth behind the fallen knights, the burning kingdom, and your missing father. Harness the power of mighty artifacts to defeat demons and save a world on the brink of destruction."
   },
+  "2526880": {
+    "developers": [
+      "Lucky Dart"
+    ],
+    "publishers": [
+      "The Bueno Interactive"
+    ],
+    "genres": [
+      "Acción",
+      "Indie",
+      "Estrategia"
+    ],
+    "shortDescription": "Prepara tus defensas durante el día y sobrevive hasta el amanecer. Defender bros es un juego de Defensa de Torres Roguelike en el que juegas como un soldado que defiende su base. Elige entre varias habilidades aleatorias para ganar poderes especiales y sobrevivir a la noche.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2526880/9249ef20bf5d93f83137a7f0664267f8619110c5/header_alt_assets_1.jpg?t=1795119377",
+    "type": "game",
+    "shortDescriptionEn": "Prepare your defenses during the day and survive until dawn. Defender Bros is a Top-Down Tower Defense Roguelike where you play as a Soldier defending your Base. Pick between multiple abilities as you level up to increase your power, then after each run buy perks and get stronger"
+  },
   "2551970": {
     "developers": [
       "Hardlane Studio"
@@ -280,6 +297,23 @@
     "type": "game",
     "shortDescriptionEn": "Dawn is an animated film that plunges you into the heart of a dark story. A fighter pilot, ready to do anything for revenge. An explosive cocktail of dogfights, epic music and a gripping story."
   },
+  "3008180": {
+    "developers": [
+      "D-Nanoknife"
+    ],
+    "publishers": [
+      "D-Nanoknife"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Estrategia"
+    ],
+    "shortDescription": "¡La estrategia por turnos se une al Roguelike! Disfruta de suerte y táctica, crea tu propio conjunto de habilidades, enfrenta enemigos variados, descubre poderosos dispositivos y salva el mundo.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008180/header.jpg?t=1795147738",
+    "type": "game",
+    "shortDescriptionEn": "Turn-based strategy meets Roguelike adventure! Enjoy a mix of luck and tactics. Build a unique skill set, battle various enemies, discover powerful devices, and save the world!"
+  },
   "3014860": {
     "developers": [
       "Johan Peitz",
@@ -295,6 +329,22 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014860/db4b4d49fcf1c62dd43c227f1b36414fbb725630/header.jpg?t=1794314100",
     "type": "game",
     "shortDescriptionEn": "The legendary jumping game is back! Join Harold the Homeboy and friends as they jump up the Icy Tower. Make combo jumps to build up massive scores. How high can you get?"
+  },
+  "3024120": {
+    "developers": [
+      "ABGAST"
+    ],
+    "publishers": [
+      "ABGAST"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura"
+    ],
+    "shortDescription": "Eletta es un juego de acción y aventura travieso en el que conviertes el entorno en un arma, creando trampas ingeniosas y caóticas para burlar a los enemigos de formas tan hilarantes como ligeramente maliciosas.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3024120/header.jpg?t=1793727244",
+    "type": "game",
+    "shortDescriptionEn": "Eletta is a mischievous action-adventure where you turn the environment into a weapon, setting up clever and chaotic traps to outwit enemies in ways that are equal parts hilarious and slightly devious."
   },
   "3046540": {
     "developers": [
@@ -472,6 +522,23 @@
     "type": "game",
     "shortDescriptionEn": "Steal a face. Study a life. Survive the conversation."
   },
+  "3509380": {
+    "developers": [
+      "Resolution Games"
+    ],
+    "publishers": [
+      "Resolution Games"
+    ],
+    "genres": [
+      "Aventura",
+      "Indie",
+      "Rol"
+    ],
+    "shortDescription": "GrimKeep es un roguelite de composición de dados inspirado en un cuento de hadas de pesadilla. Encuentra objetos, tira los dados y optimiza tu build para desatar un daño brutal. Ábrete paso entre los horrores de la ciudad maldita hasta llegar a la Princesa. Y luego acaba con ella.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509380/279078e15a06e12b0065475534db7e94b0d2528c/header.jpg?t=1795172496",
+    "type": "game",
+    "shortDescriptionEn": "GrimKeep is a roguelite dice-builder in a nightmare fairytale. Find items, roll your dice, and optimize your build to fire off massive damage. Cut through the horrors in the cursed city to get to the Princess. Then end her."
+  },
   "3591900": {
     "developers": [
       "Regal Pigeon"
@@ -645,6 +712,23 @@
     "type": "game",
     "shortDescriptionEn": "Feed and raise your little baby. Watch it grow and feed on every and anything. In Full Bloom is a Tamagotchi inspired Katamari-like about a creature with never-ending hunger for the world around it. There is only one way."
   },
+  "3839890": {
+    "developers": [
+      "banjihagames"
+    ],
+    "publishers": [
+      "banjihagames"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Estrategia"
+    ],
+    "shortDescription": "¡Roba cartas, acumula poder y ataca con todo! Un encantador roguelike casual protagonizado por animales magos. Combina cartas de Agua, Fuego y Rayo, consigue más de 150 reliquias y salva un mundo corrompido mientras construyes tu mazo ideal y desarrollas tu propio estilo de juego.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839890/faf61d0d43197d63470bf910f534ba78389131bd/header.jpg?t=1795103996",
+    "type": "game",
+    "shortDescriptionEn": "Draw it, Store it, Strike hard! A charming casual deckbuilding roguelike with magical animal wizards! Strategically combine elemental cards—Water, Fire, and Lightning—and collect over 150 unique relics to build your deck, customize your playstyle, and save a world tainted by elemental corruption."
+  },
   "3842100": {
     "developers": [
       "スタジオツンエクゼ"
@@ -698,6 +782,22 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3917850/9577e00a9d38400e0e6472ff04b31280817f7624/header.jpg?t=1794174807",
     "type": "game",
     "shortDescriptionEn": "A realistic referee simulator! Show cards, use VAR, control matches, and rise through your referee career!"
+  },
+  "3934180": {
+    "developers": [
+      "Bear Sneeze",
+      "Colorblind Pixel"
+    ],
+    "publishers": [
+      "Bear Sneeze"
+    ],
+    "genres": [
+      "Aventura"
+    ],
+    "shortDescription": "Don Memo es un valiente toro que emprende un último viaje a través de Costa Rica para rescatar a su nieta y enfrentar al Pisuicas. Lucha contra leyendas y sombras del pasado en este pixel platformer 2D, mientras cargas con el legado de una familia destinada a proteger al mundo del mal.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934180/65c9a604d1be0f714c19b65db2f1341a4fd28a35/header.jpg?t=1795046440",
+    "type": "game",
+    "shortDescriptionEn": "Don Memo is a brave bull who embarks on one final journey across Costa Rica to rescue his granddaughter and confront Pisuicas. Fight against legends and shadows of the past in this 2D pixel platformer, while carrying the legacy of a family destined to protect the world from evil."
   },
   "3957770": {
     "developers": [
@@ -906,6 +1006,23 @@
     "type": "game",
     "shortDescriptionEn": "Celebrate love with Ellie and Lucien in MyDear.exe. A short and cute game that takes place in the folders of an old PC. In the shoes of Ellie, play the game offered by Lucien after a long life together. Humor, memories and love are on the menu of this short ~2 hours experience."
   },
+  "4255780": {
+    "developers": [
+      "HARDLINE"
+    ],
+    "publishers": [
+      "HARDLINE"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Indie"
+    ],
+    "shortDescription": "Un crudo shooter en primera persona de estilo Bodycam donde un golpe de Estado fallido sume la ciudad en el caos. Ábrete paso por calles controladas por bandas, descubre la verdad sobre la desaparición de tu esposa y recupera lo que te arrebataron, bala a bala.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4255780/8c161bc7abe5f64deb3aeea0f4a48d5bccdc9475/header.jpg?t=1795118020",
+    "type": "game",
+    "shortDescriptionEn": "A gritty bodycam-style first-person shooter where a failed coup throws the city into chaos. Fight through gang-controlled streets, uncover the truth behind your wife's disappearance, and take back what was stolen—one bullet at a time."
+  },
   "4268590": {
     "developers": [
       "One Bit Bean"
@@ -920,6 +1037,22 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268590/623ee45274d676f93a4587db44323f2f78de41ce/header.jpg?t=1794848457",
     "type": "game",
     "shortDescriptionEn": "Func Key is a word-spelling roguelike deckbuilder where your keyboard is your class: six boards, six different ways to play. Spell words, build your board, and bend the rules with mods, all to the soothing thock of the mechanical keyboard."
+  },
+  "4297050": {
+    "developers": [
+      "Radioactive Elephant"
+    ],
+    "publishers": [
+      "Radioactive Elephant"
+    ],
+    "genres": [
+      "Casual",
+      "Simuladores"
+    ],
+    "shortDescription": "¿Alguna vez te has preguntado qué siente tu aspiradora robótica cuando deambula por tu casa? Recogiendo tus desórdenes, dejando tus suelos impolutos de nuevo. ¡No te preguntes más! Experimenta las alegrías de limpiar varias casas a través de los LIDARs de varias aspiradoras robóticas sentenciosas.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297050/f1f3ed0b62f457cfef41c6fdf06d5be23b8694a2/header.jpg?t=1793780365",
+    "type": "game",
+    "shortDescriptionEn": "Have you ever wondered what your robotic vacuum feels when it's wandering through your house? Picking up your messes, leaving your floors pristine again. Wonder no more! Experience the joys of cleaning various houses through the LIDARs of several judgemental robotic vacuums."
   },
   "4301730": {
     "developers": [
@@ -1031,6 +1164,23 @@
     "type": "game",
     "shortDescriptionEn": "Run a men's hair removal salon! Zap body hair with a laser, watch the pain meter, and pitch aftercare packages for every budget. Earn good reviews to bring in new clients, then use your profits to upgrade your gear, hire staff, and make your shop the go-to spot for hairy hunks."
   },
+  "4370210": {
+    "developers": [
+      "Kusa Games"
+    ],
+    "publishers": [
+      "Kusa Games"
+    ],
+    "genres": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "shortDescription": "Tu amigo y tú están atrapados en el mismo cuerpo. En esta aventura cooperativa, aprende a controlar el mismo personaje, aventúrate en el plano espiritual y revela la conspiración de la megaestructura Samsara. ¡La comunicación es la clave!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370210/e50aa4e8bbe598a9f5b8d9c8890dbf4ddbb5e078/header.jpg?t=1794308715",
+    "type": "game",
+    "shortDescriptionEn": "You and your friend are locked in the same body! In this co-op adventure, learn to control the same character, venture into your spiritual realm, and unravel the machinations of the Samsara megastructure! Communication will be key!"
+  },
   "4386400": {
     "developers": [
       "Andgo Games"
@@ -1082,6 +1232,22 @@
     "type": "game",
     "shortDescriptionEn": "A cozy horse ranch that lives on your desktop while you work, or in full screen when you don't. Breed one-of-a-kind horses, send them running together, race for coins, hire ranch helpers and grow your ranch."
   },
+  "4414620": {
+    "developers": [
+      "Malapata Studio"
+    ],
+    "publishers": [
+      "Malapata Studio",
+      "Wings"
+    ],
+    "genres": [
+      "Casual"
+    ],
+    "shortDescription": "Construye dioramas en miniatura, pieza a pieza. Coloca muebles, decoraciones y pequeños detalles hasta completar cada rincón. Relájate, disfruta de ver cada pieza encajar y descubre la historia que esconde cada Book Nook.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414620/1110511aa5a8e7a369a617220f0d384fc3d06154/header.jpg?t=1794842889",
+    "type": "game",
+    "shortDescriptionEn": "Build miniature diorama scenes, piece by piece. Complete beautiful book nooks as you place furniture, decorations, and small details. Relax and enjoy the peaceful satisfaction of every detail falling into place, as you discover more about each moment in time."
+  },
   "4450600": {
     "developers": [
       "ODale Studios"
@@ -1118,6 +1284,22 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463520/c4e85af3552b33fc849be844e50efc50d751d9c3/header.jpg?t=1793358659",
     "type": "game",
     "shortDescriptionEn": "Midsummer is right around the corner in Moominvalley, when a sudden flood sets the Moomins adrift! Join Tove Jansson’s beloved Moominfamily and friends on an adventure of mirth and mischief aboard a mysterious floating theatre."
+  },
+  "4469080": {
+    "developers": [
+      "Nobody Games"
+    ],
+    "publishers": [
+      "Nobody Games"
+    ],
+    "genres": [
+      "Indie",
+      "Rol"
+    ],
+    "shortDescription": "Disfrázate de diablillos y ayúdales a cumplir su sueño: viajar al Oeste, conseguir las escrituras sagradas y convertirse en Buda. Un RPG de grupo relajado, con arte dibujado a mano y combate automático para luchar, mejorar y superar pruebas con unos monstruitos muy graciosos.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4469080/8bff357b86623df076eadd5048b35b2f3ef88f93/header.jpg?t=1795099951",
+    "type": "game",
+    "shortDescriptionEn": "Disguise yourself as little demons on a pilgrimage West to become Buddha! A cozy, hand-drawn party-based RPG with auto-battle, so you can easily fight, upgrade, and clear trials with a cast of funny misfit monsters."
   },
   "4481330": {
     "developers": [
@@ -1344,6 +1526,24 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4633120/ddac3656d68a257db94b27cf282aa8f48ff0f347/header.jpg?t=1794045098",
     "type": "game",
     "shortDescriptionEn": "A psychedelic hyper-speed racer with no speed limit and no brakes. Dodge, graze, and boost around a rotating cosmic cylinder where runs last 30 seconds and death is instant. Chase world records, race ghost replays, or play with up to 7 friends."
+  },
+  "4642320": {
+    "developers": [
+      "Dom2D ",
+      "Fáyer"
+    ],
+    "publishers": [
+      "Fáyer"
+    ],
+    "genres": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "shortDescription": "Dig Dig Dino! is a game about digging... For dinosaurs bones and other treasure!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642320/4f09237a9c07e5deb3a8f0d3f3737ddc2efbe45b/header_alt_assets_0.jpg?t=1795022648",
+    "type": "game",
+    "shortDescriptionEn": "Dig Dig Dino! is a game about digging... For dinosaurs bones and other treasure!"
   },
   "4644170": {
     "developers": [
@@ -1798,6 +1998,23 @@
     "type": "game",
     "shortDescriptionEn": "A physics sandbox about Murray, who didn't let a witch merge onto the highway. She sent him to The Granule, and something already lives there. You. Burn, freeze, shock, slice, and mend him. None of it is scripted, and the room is not all there is."
   },
+  "4948940": {
+    "developers": [
+      "Paracorn"
+    ],
+    "publishers": [
+      "Paracorn"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "Swarmbreaker es un juego de defensa de torres incremental en el que debes defender tu base de una gigantesca ola viviente de insectos alienígenas. ¡Construye defensas para bloquear su camino, despliega armamento pesado, mejora tu arsenal y aplasta al enjambre!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948940/9ca398a9595a2161d1178c2a34e235b86ecca845/header.jpg?t=1795024857",
+    "type": "game",
+    "shortDescriptionEn": "Swarmbreaker is an incremental tower defense game where you must defend your base from a giant living wave of alien bugs. Build defenses to block their path, deploy heavy weapons, upgrade your arsenal, and break the swarm!"
+  },
   "4960570": {
     "developers": [
       "Lighthouse Game Studio"
@@ -1866,6 +2083,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990840/03ef494199385e3ca78da1fecd7563483c52877e/header.jpg?t=1793712981",
     "type": "game",
     "shortDescriptionEn": "Model, paint, and blend in! FAKE ME is an online multiplayer hide-and-seek game where you create your own disguise. Use simple 3D modeling tools to build the object you’ll hide as. You can also create your own costume by modeling. Hide from the Seekers or find every Faker before time runs out!"
+  },
+  "4990940": {
+    "developers": [
+      "Sykes Games",
+      "Nightmare Studios"
+    ],
+    "publishers": [
+      "Sykes Games",
+      "Nightmare Studios"
+    ],
+    "genres": [
+      "Indie"
+    ],
+    "shortDescription": "Run your own PC shop with friends! Build and repair computers, diagnose faulty parts, stock shelves, set prices, sell hardware and custom PCs, serve customers, manage orders, upgrade your store, unlock new components and grow your business together.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990940/ed4ad9ac6b819d4ea1a94ea3cbfdc919713ab0da/header.jpg?t=1794958049",
+    "type": "game",
+    "shortDescriptionEn": "Run your own PC shop with friends! Build and repair computers, diagnose faulty parts, stock shelves, set prices, sell hardware and custom PCs, serve customers, manage orders, upgrade your store, unlock new components and grow your business together."
   },
   "5015590": {
     "developers": [
@@ -2262,6 +2496,23 @@
     "type": "game",
     "shortDescriptionEn": "Way Too Many Eggs is an incremental game about turning a tiny chicken farm into egg-filled chaos. Collect eggs, grow your flock, hire helpers, crack giant eggs and unlock permanent upgrades in the skill tree!"
   },
+  "5185210": {
+    "developers": [
+      "Copperbolt"
+    ],
+    "publishers": [
+      "Copperbolt"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Free to Play"
+    ],
+    "shortDescription": "Unravel the dark secrets of Reverend Lawrence, known for his appearance in The Happyhills Homicide 2: Out For Blood. Prior to his death, Reverend Lawrence was a devout Christian and an example for the community of Happyhills. Everyone has skeletons in their closets, but some more than others...",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185210/ff3c114b41da4853c18ceefa1ca7b0e9a5d327e3/header.jpg?t=1794984797",
+    "type": "game",
+    "shortDescriptionEn": "Unravel the dark secrets of Reverend Lawrence, known for his appearance in The Happyhills Homicide 2: Out For Blood. Prior to his death, Reverend Lawrence was a devout Christian and an example for the community of Happyhills. Everyone has skeletons in their closets, but some more than others..."
+  },
   "5185750": {
     "developers": [
       "Onramp Games"
@@ -2651,6 +2902,22 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5395920/1e09e7f11932b2fe9f6ab9c7ad89ffd72ef20025/header.jpg?t=1794557951",
     "type": "game",
     "shortDescriptionEn": "Bring order to a shop overflowing with collectible frogs. Pick up and sort colorful figures, fill themed shelves, unlock helpful upgrades, and search for hidden eggs. Build your collection one frog at a time."
+  },
+  "5419140": {
+    "developers": [
+      "Pavlovi"
+    ],
+    "publishers": [
+      "TXC"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "**Ludoman** es un simulador de vida ambientado en una Rusia cubierta de nieve. Paga una hipoteca de 250.000 rublos, trabaja, apuesta tu dinero y explora un mundo abierto. Una sola vida, libertad total y múltiples finales. ¡Tu destino está en tus manos!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5419140/881a4dfa4ebd71c8f02066661818c7eafb807ebb/header.jpg?t=1795041235",
+    "type": "game",
+    "shortDescriptionEn": "**Ludoman** is a life simulator set in snowy Russia. Pay off a 250,000-ruble mortgage, work, gamble your money, and explore an open world. One life, complete freedom, and multiple endings. Your fate is in your hands!"
   },
   "5420970": {
     "developers": [
