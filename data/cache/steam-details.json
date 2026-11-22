@@ -713,6 +713,23 @@
     "type": "game",
     "shortDescriptionEn": "Fight off hordes of demons in this unforgiving gates shooter! Slay monsters, pick up upgrades, and create overpowered builds to annihilate bosses while listening to heavy metal tracks. Many foes and secrets await you in the catacombs..."
   },
+  "3788110": {
+    "developers": [
+      "Foxtail Games LLC"
+    ],
+    "publishers": [
+      "Foxtail Games LLC"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Rol"
+    ],
+    "shortDescription": "Un juego de fiesta de fantasía para hasta 8 jugadores, en el que todos participan desde su móvil. ¡Escribe lo que quieres hacer, vota la mejor idea y tira los dados para ver si sale bien!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3788110/058085a00bdcd2ab4bc9ccda5ca880d086dae2f4/header.jpg?t=1794705191",
+    "type": "game",
+    "shortDescriptionEn": "A fantasy party game for up to 8 players, where everyone joins in from their phones. Type what you want to do, vote for the best idea, and roll dice to see if it works!"
+  },
   "3810240": {
     "developers": [
       "obleak games"
@@ -1391,6 +1408,24 @@
     "type": "game",
     "shortDescriptionEn": "Grow fresh ingredients and run your own little restaurant. Enjoy a peaceful day that stretches from the field to the table. Plan a fresh menu for a delightful day, keep your pantry full, and make your customers happy. Earn your own money and build your little world step by step."
   },
+  "4526450": {
+    "developers": [
+      "Dyrkabes Games"
+    ],
+    "publishers": [
+      "Dyrkabes Games"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "Semi-idle incremental RTS. You don’t micro units. You build factories, pick upgrades and let your army flood the battlefield. Start with nothing, research tanks, artillery, flankers and mega units. Scale and survive enemy surges. Pure auto-battle chaos.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526450/b4d171bb8b996bde40897a159b41ba01050aa4fb/header.jpg?t=1794852984",
+    "type": "game",
+    "shortDescriptionEn": "Semi-idle incremental RTS. You don’t micro units. You build factories, pick upgrades and let your army flood the battlefield. Start with nothing, research tanks, artillery, flankers and mega units. Scale and survive enemy surges. Pure auto-battle chaos."
+  },
   "4528040": {
     "developers": [
       "yeetgench"
@@ -1896,6 +1931,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4852570/bb466754208c98e0f08abed6f5c411680124ccd9/header.jpg?t=1794239228",
     "type": "game",
     "shortDescriptionEn": "A cozy incremental with beautiful pixel art and a flock of adorable pigeons. Aim at a busy park, bring the coins home and spend them on upgrades. Every pigeon gets its own superpower. Swoop, collect, upgrade."
+  },
+  "4860910": {
+    "developers": [
+      "DESCARGAS DIGITALES, S.L."
+    ],
+    "publishers": [
+      "DESCARGAS DIGITALES, S.L."
+    ],
+    "genres": [
+      "Indie",
+      "Multijugador masivo",
+      "Rol"
+    ],
+    "shortDescription": "La prisión nunca duerme. Conspira, comercia, roba y construye tu reputación en un MMORPG social donde cada preso puede convertirse en tu mejor aliado... o en tu peor enemigo. Elige tu delito entre 12 clases únicas, forma clanes y colecciona las chapas de tus rivales. ¿Y tú por qué entrarás?",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860910/3b24e3e549bdd3bd123d89862cb96f1409f693fb/header.jpg?t=1795273586",
+    "type": "game",
+    "shortDescriptionEn": "What are you in for? Prison Legacy is a social MMORPG set inside a mixed-gender maximum-security prison. Choose one of 12 criminal classes, then fight turn-based battles, craft contraband, trade, steal, chat, and build a clan strong enough to outlast the hilarious darkness rising behind bars."
   },
   "4863540": {
     "developers": [
