@@ -480,6 +480,23 @@
     "type": "game",
     "shortDescriptionEn": "Start with nothing but a ticket booth in the mountains. Clear snow, chop wood, crack ice off rooftops, all by hand, all in first person. Serve drinks, cook meals, repair ski gear, and turn a rundown mountain stop into a full-blown resort with a hotel, restaurant, bar, and shop."
   },
+  "3309160": {
+    "developers": [
+      "Regolite"
+    ],
+    "publishers": [
+      "HeroCraft PC"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "¡Construye una civilización única en un mundo plano! Explora, extrae recursos, expándete y combate enemigos. Usa tus habilidades de gestión del tiempo para defenderte de los ataques y acaba con una amenaza misteriosa. ¿Podrás crear un mundo capaz de sobrevivir?",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3309160/5a83f43ebba0e84d81998179b48a4239f621cf98/header.jpg?t=1795182855",
+    "type": "game",
+    "shortDescriptionEn": "Build a unique civilization in a flat world! Explore, extract resources, expand, and battle enemies. Use your time management skills to fend off attacks and face a mysterious threat. Are you ready to create a world that can survive?"
+  },
   "3318210": {
     "developers": [
       "KiwiSaurus"
@@ -1456,6 +1473,22 @@
     "type": "game",
     "shortDescriptionEn": "You're the Ski-E-O - build the cozy ski resort of your dreams in this management tycoon game. Adapt to ever-changing weather, paint trails, build lifts, and place the lodges and après bars that keep thousands of skiers warm, fed, and happy."
   },
+  "4504940": {
+    "developers": [
+      "BrightWave"
+    ],
+    "publishers": [
+      "BrightWave"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "shortDescription": "Explora el Antiguo Egipto en busca de sus tesoros perdidos. Un relajante juego de buscar diferencias con estilo low poly 3D ambientado en preciosos escenarios hechos a mano.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504940/4a2664c6932cbcd9c01a00fdce9b603308a3e366/header.jpg?t=1795183936",
+    "type": "game",
+    "shortDescriptionEn": "Explore Ancient Egypt in search of its lost treasures. A relaxing low poly 3D spot-the-difference game set across beautiful, hand-crafted scenes."
+  },
   "4521650": {
     "developers": [
       "dummy dino"
@@ -1770,6 +1803,24 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672030/2a48de38188ea6095251866d65344f6429399f44/header.jpg?t=1793933634",
     "type": "game",
     "shortDescriptionEn": "A dungeon colony sim where you play the dungeon itself: its Boss, its minions and the beasts in its caves. Dig out halls, wire deadly traps, and raid the world above for treasure. Then hold your hoard against the heroes who come to take it back. Play alone or in 2–4 player co-op."
+  },
+  "4672980": {
+    "developers": [
+      "Crazy Rooster Games"
+    ],
+    "publishers": [
+      "Crazy Rooster Games"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "Bienvenido a CoreMine Corp. Como empleado, debe establecer cadenas de producción, gestionar su electricidad, hacer malabarismos entre contratos y stock mientras mejora su fábrica. Demuestre su valía.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672980/58db8727e8796c6d0f3a8694c3810fa0ef7363e8/header.jpg?t=1795177877",
+    "type": "game",
+    "shortDescriptionEn": "Welcome to CoreMine Corp. Your job here is to set up production chains, manage your electricity, juggle contracts and stock-up while upgrading your factory. Time to prove your worth."
   },
   "4704000": {
     "developers": [
@@ -2711,6 +2762,23 @@
     "type": "game",
     "shortDescriptionEn": "Snow of Penglai is a yuri-themed visual novel set in ancient China. Players will step into the shoes of Xuanhua, a puppet girl, and confront everything about the witch Zhu Hanchuan. This is a story of rebirth. A lotus rising, bleeding, blooming anew."
   },
+  "5164110": {
+    "developers": [
+      "DryGin Studios"
+    ],
+    "publishers": [
+      "DryGin Studios"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "Bio Inc. Total Defense es un tower defense incremental ambientado dentro de tu cuerpo. Dirige tu sistema inmunitario contra hordas masivas de virus, bacterias y otros patógenos. Mejora tus defensas, colócalas con astucia y lucha por cada centímetro de tu cuerpo.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5164110/eb6e58c451b24b729216e694fcd2e8c12a3b84e8/header.jpg?t=1794506206",
+    "type": "game",
+    "shortDescriptionEn": "Bio Inc. Total Defense is an incremental tower defense game set inside your body. Command your immune system against massive hordes of viruses, bacteria, and other pathogens. Upgrade your defenses, place them wisely, and fight for every inch of your body."
+  },
   "5168960": {
     "developers": [
       "Studio Miley"
@@ -2828,6 +2896,24 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5196330/ed45431af68043229060b5328738f834e020cbff/header.jpg?t=1794825358",
     "type": "game",
     "shortDescriptionEn": "Design the chip that powers AI. Start with a single logic gate and build a computer: wire circuits, cast designs into reusable chips, program tiny kernels, and scale your architecture into a working GPU."
+  },
+  "5239830": {
+    "developers": [
+      "cnsgames"
+    ],
+    "publishers": [
+      "cnsgames"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Indie",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Lucha contra zombis, saquea ciudades, explora la naturaleza, caza, fabrica y construye una base en un mundo nuevo en cada partida. Empieza sin nada y sobrevive con hasta 3 amigos. Cada séptima noche, la Luna de Sangre trae a la horda hasta tus muros.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5239830/0e6e4a24c4c22cf215985bdce22293378ce97732/header.jpg?t=1795045482",
+    "type": "game",
+    "shortDescriptionEn": "Fight zombies, scavenge cities, explore the wild, hunt, craft and build a base in a world that is new every game. Start with nothing and survive with up to 3 friends. Every seventh night, the Blood Moon brings the horde to your walls."
   },
   "5249670": {
     "developers": [
@@ -3411,6 +3497,22 @@
     "type": "game",
     "shortDescriptionEn": "New Capybara, 1933. Private investigator Sam Malone and his assistant, Tommy, take on a case to find a missing wooden leg that contains a secret ledger. A branching noir detective story infused with dark humor, where any choice could be your last."
   },
+  "5508060": {
+    "developers": [
+      "Shorepause Studio"
+    ],
+    "publishers": [
+      "Shorepause Studio"
+    ],
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "shortDescription": "One Last Cast \"is a tabletop game. Place the scenery of lakes and mountains in a corner of the screen, and let your friends accompany you to leisurely fish and collect fish species from various places. Encounter rare and exotic fish, complete local commissions, and upgrade fishing equipment",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5508060/93c70056a9354aa34c1fd198e54fff54816f7f27/header.jpg?t=1795505963",
+    "type": "game",
+    "shortDescriptionEn": "One Last Cast \"is a tabletop game. Place the scenery of lakes and mountains in a corner of the screen, and let your friends accompany you to leisurely fish and collect fish species from various places. Encounter rare and exotic fish, complete local commissions, and upgrade fishing equipment"
+  },
   "5521600": {
     "developers": [
       "Kyh"
@@ -3445,6 +3547,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/1f9ccfcf491164a2e58024b6bac5dc06a154ba74/header.jpg?t=1794419408",
     "type": "game",
     "shortDescriptionEn": "An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m³ in first person, sell the ore, and buy guns for your ship that fire while you dig."
+  },
+  "5529210": {
+    "developers": [
+      "Tovarishch Games"
+    ],
+    "publishers": [
+      "PlayWay S.A."
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "¡Pon en orden el taller mecánico! Clasifica las herramientas y las piezas de repuesto, coloca cada cosa en su sitio, limpia la suciedad y monta un coche pieza a pieza.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5529210/f67d54b6863efd5318e90207289ff44676f22321/header.jpg?t=1795529342",
+    "type": "game",
+    "shortDescriptionEn": "Tidy up the auto repair shop! Sort the tools and spare parts, put everything in its place, clean off the dirt, and build a car piece by piece!"
   },
   "5532770": {
     "developers": [
