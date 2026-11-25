@@ -138,6 +138,27 @@
     "type": "game",
     "shortDescriptionEn": "The game is not Free-to-Play, it's genuinely free. It's a challenging post-apocalyptic roguelite turn-based RPG about the psychological stresses of adventuring with complete idiots. Lead a crew of flawed heroes against the consequences of their own terrible decisions."
   },
+  "2594620": {
+    "developers": [
+      "Josh O'Caoimh"
+    ],
+    "publishers": [
+      "Josh O'Caoimh"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Animación y modelado",
+      "Diseño e ilustración",
+      "Educación",
+      "Utilidades"
+    ],
+    "shortDescription": "Coge tu cuaderno de bocetos, relájate, explora y dibuja en tu propio Figure Drawing Garden: un jardín virtual inmersivo diseñado para que practiques y mejores el dibujo de la figura humana.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2594620/header.jpg?t=1795361823",
+    "type": "game",
+    "shortDescriptionEn": "Grab your sketchbook, relax, explore, and draw in your very own Figure Drawing Garden - an immersive virtual garden designed for you to practice and improve at figure drawing."
+  },
   "2660460": {
     "developers": [
       "Jelle Booij"
@@ -588,6 +609,22 @@
     "type": "game",
     "shortDescriptionEn": "Steal a face. Study a life. Survive the conversation."
   },
+  "3498700": {
+    "developers": [
+      "Le Rado"
+    ],
+    "publishers": [
+      "Raw Fury"
+    ],
+    "genres": [
+      "Acción",
+      "Indie"
+    ],
+    "shortDescription": "Un intenso «roguelite» de disparos cenital con mecánicas de «pinball». Domina tu arma, usa el retroceso para controlar la bola y protege a la nave nodriza de los robots invasores. ¡Mejora tu equipo y tus habilidades para ganar la guerra!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3498700/5551d6ea2d075752c744830204eb47a5376817ed/header.jpg?t=1795434153",
+    "type": "game",
+    "shortDescriptionEn": "A thrilling top-down shooter inspired by pinball mechanics. Master your weapon and use the recoil to control your ball, while protecting your mothership from waves of invading robots. Upgrade your equipment, polish your skills, and win the war!"
+  },
   "3509380": {
     "developers": [
       "Resolution Games"
@@ -604,6 +641,22 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509380/279078e15a06e12b0065475534db7e94b0d2528c/header.jpg?t=1795172496",
     "type": "game",
     "shortDescriptionEn": "GrimKeep is a roguelite dice-builder in a nightmare fairytale. Find items, roll your dice, and optimize your build to fire off massive damage. Cut through the horrors in the cursed city to get to the Princess. Then end her."
+  },
+  "3536530": {
+    "developers": [
+      "penusbmic"
+    ],
+    "publishers": [
+      "penusbmic"
+    ],
+    "genres": [
+      "Acción",
+      "Indie"
+    ],
+    "shortDescription": "Embark on a magical adventure in Örnöga! Master powerful spells, collect epic loot, and hire mercenaries as you grow from a novice mage to an archwizard. Upgrade your abilities, automate your spellcasting, and watch your power grow... even while you're away. ",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536530/5dcb604cce124fa1bdc9a61d6a139f296152859b/header.jpg?t=1795621365",
+    "type": "game",
+    "shortDescriptionEn": "Embark on a magical adventure in Örnöga! Master powerful spells, collect epic loot, and hire mercenaries as you grow from a novice mage to an archwizard. Upgrade your abilities, automate your spellcasting, and watch your power grow... even while you're away. "
   },
   "3582690": {
     "developers": [
@@ -846,6 +899,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3842100/b66a8e3c628cfe1a1e29e0d336d373a8c0e74140/header.jpg?t=1794464213",
     "type": "game",
     "shortDescriptionEn": "Chigusa was just an everyday schoolgirl, but once she began to notice the boys, her life gradually started to change in unexpected ways..."
+  },
+  "3861740": {
+    "developers": [
+      "3-50"
+    ],
+    "publishers": [
+      "3-50"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "A chill, exploration-based incremental game about harvesting and cleansing an alien planet of its radiation with a swarm of high-tech toasters.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/599556ebe82d9151bf1036e1ff6c4ff95a206873/header.jpg?t=1795467383",
+    "type": "game",
+    "shortDescriptionEn": "A chill, exploration-based incremental game about harvesting and cleansing an alien planet of its radiation with a swarm of high-tech toasters."
   },
   "3901850": {
     "developers": [
@@ -1109,6 +1179,21 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225280/a96bcb969fbcb316f2fe19ed67b1ad5c27c123f1/header.jpg?t=1793889773",
     "type": "game",
     "shortDescriptionEn": "Corpus et Spiritus is an alchemy deckbuilder, where you must break free of a demonic pact... before your partner kills you. Gather rare metals, then use your workshop to transform them into powerful cards and magical talismans, forming combos that will save your body, spirit and soul!"
+  },
+  "4244180": {
+    "developers": [
+      "seto_itchy"
+    ],
+    "publishers": [
+      "seto_itchy"
+    ],
+    "genres": [
+      "Casual"
+    ],
+    "shortDescription": "Train your timing skills to stop the clock close to zero, collect shards, and spend them on a massive skill tree in this short arcade-ish incremental game. Struggle with glitching displays, hidden timers, chaotic multi-stops, and other hazards as you improve your accuracy.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244180/c37ae61a223e39b42af053c98871000a0eb2d780/header.jpg?t=1795533454",
+    "type": "game",
+    "shortDescriptionEn": "Train your timing skills to stop the clock close to zero, collect shards, and spend them on a massive skill tree in this short arcade-ish incremental game. Struggle with glitching displays, hidden timers, chaotic multi-stops, and other hazards as you improve your accuracy."
   },
   "4253570": {
     "developers": [
@@ -2359,6 +2444,23 @@
     "type": "game",
     "shortDescriptionEn": "Run your own PC shop with friends! Build and repair computers, diagnose faulty parts, stock shelves, set prices, sell hardware and custom PCs, serve customers, manage orders, upgrade your store, unlock new components and grow your business together."
   },
+  "5000170": {
+    "developers": [
+      "BavelGG"
+    ],
+    "publishers": [
+      "BavelGG"
+    ],
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Indie"
+    ],
+    "shortDescription": "Un juego de terror y supervivencia para 1–4 jugadores. Maneja una perforadora gigante. Explora cuevas, recoge objetos valiosos y huye de las criaturas. Vuelve a la superficie para vender y comprar mejoras y equipo. Juega en solitario o en cooperativo online.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5000170/63cdcf736f9ce1f3995ee56e2673db929235206b/header.jpg?t=1795539003",
+    "type": "game",
+    "shortDescriptionEn": "A survival horror game for 1–4 players. Operate a giant drilling machine. Explore caves, collect valuables, and escape the creatures below. Return to the surface to sell what you found and buy upgrades and equipment. Play solo or in online co-op."
+  },
   "5015590": {
     "developers": [
       "BT Games"
@@ -3237,6 +3339,22 @@
     "type": "game",
     "shortDescriptionEn": "Mow lawns in first person on a beat-up riding mower, solo or online co-op up to 6 players. You're a grumpy old man who smokes, drinks cheap beer and doesn't care, but leaves perfect stripes. A picky neighbor, an abandoned golf course, an island wedding."
   },
+  "5390670": {
+    "developers": [
+      "Horror Shop Games"
+    ],
+    "publishers": [
+      "Horror Shop Games"
+    ],
+    "genres": [
+      "Indie",
+      "Free to Play"
+    ],
+    "shortDescription": "\"Deeper...\" is a short game about an obsessed diver. Diving accumulates DEEP, which you can spend to enhance your next dive. Your wife will faithfully wait and assist you but how long will you keep her worrying?",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5390670/61de00a6a19c8186b2651cc264cdc09416e314ba/header.jpg?t=1795511426",
+    "type": "game",
+    "shortDescriptionEn": "\"Deeper...\" is a short game about an obsessed diver. Diving accumulates DEEP, which you can spend to enhance your next dive. Your wife will faithfully wait and assist you but how long will you keep her worrying?"
+  },
   "5395920": {
     "developers": [
       "TidyMage"
@@ -3565,6 +3683,23 @@
     "type": "game",
     "shortDescriptionEn": "Tidy up the auto repair shop! Sort the tools and spare parts, put everything in its place, clean off the dirt, and build a car piece by piece!"
   },
+  "5531790": {
+    "developers": [
+      "Zaaif Games Studio"
+    ],
+    "publishers": [
+      "Zaaif Games Studio"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "¡Limpia el oasis! Echa el desierto en tu mochila, convierte la arena en oro y mejora desde un guante de algodón hasta una auténtica tormenta de arena. Descubre un oasis verde, tesoros ocultos y robots ayudantes, solo o con hasta 3 amigos en cooperativo en línea.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5531790/aa2ef96404633e29ea54ee6790b7bbf6a98600c9/header.jpg?t=1795588613",
+    "type": "game",
+    "shortDescriptionEn": "Tidy up the oasis! Scoop the desert into your backpack, turn sand into gold and upgrade from a cotton glove to a full-blown sandstorm. Uncover a green oasis, hidden treasure and helpful robots, alone or with up to 3 friends in online co-op."
+  },
   "5532770": {
     "developers": [
       "NimbleBit"
@@ -3600,5 +3735,39 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5533700/d901053eaf5b3da37beff9d73354b921b70bf054/header.jpg?t=1794892447",
     "type": "game",
     "shortDescriptionEn": "A Three Kingdoms pixel-art survival roguelite. Choose your hero, combine upgrades, and fight your way through enemy hordes."
+  },
+  "5558370": {
+    "developers": [
+      "KIRA LLC"
+    ],
+    "publishers": [
+      "KIRA LLC"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Free to Play"
+    ],
+    "shortDescription": "A small cutesy game where you provide magical potions to a variety of strange characters.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5558370/67ca6f470dd3b269287467a691ed67a659343862/header.jpg?t=1795527971",
+    "type": "game",
+    "shortDescriptionEn": "A small cutesy game where you provide magical potions to a variety of strange characters."
+  },
+  "5568320": {
+    "developers": [
+      "Style Studio"
+    ],
+    "publishers": [
+      "Style Studio"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores"
+    ],
+    "shortDescription": "¿Cuánto recuerdas del colegio? En este simulador de exámenes para un jugador, empieza con el pinyin y la aritmética y llega hasta la prueba de acceso a la universidad en China. Escribe redacciones, muestra tus cálculos y repasa los exámenes corregidos para ver dónde has ganado o perdido puntos.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568320/de2592113bea917475570564cc3658646150b20b/header_spanish.jpg?t=1795530424",
+    "type": "game",
+    "shortDescriptionEn": "How much do you remember from school? Start with pinyin and arithmetic, then work your way up to China's university entrance exam in this single-player exam simulator. Write essays, show your work in math, and open your marked papers to see where you earned or lost points."
   }
 }
