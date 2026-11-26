@@ -1,4 +1,24 @@
 {
+  "1320170": {
+    "developers": [
+      "FreeMind S.A."
+    ],
+    "publishers": [
+      "FreeMind S.A.",
+      "PlayWay S.A."
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Free to Play",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Vigila la playa, reacciona rápido y salva vidas usando quads, motos de agua y drones. Patrulla la bahía, ayuda a quienes lo necesitan y descubre una intriga criminal oculta bajo las olas.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1320170/7fdf80e2222da738c76d7c4daab23e33a7b96fde/header_alt_assets_3.jpg?t=1795693942",
+    "type": "game",
+    "shortDescriptionEn": "Guard the beach, react fast, and save lives using quad bikes, jet skis, and drones. Patrol the bay, help those in need, and uncover a hidden criminal intrigue beneath the waves."
+  },
   "1447650": {
     "developers": [
       "Polar Motion"
@@ -315,6 +335,24 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/25cd77fbd2add6f77ec6e1b62429b416254d02c1/header.jpg?t=1792995452",
     "type": "game",
     "shortDescriptionEn": "【Village-Building Action RPG】Reincarnated into a ravaged world ruled by the Demon King. Gather resources, build your village, and swap hats to change classes! But when the Idol Demon King throws a live concert, a massive wave of hyped-up monsters stampedes straight toward your village!"
+  },
+  "2938980": {
+    "developers": [
+      "betetiro"
+    ],
+    "publishers": [
+      "betetiro"
+    ],
+    "genres": [
+      "Aventura",
+      "Indie",
+      "Rol",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Tus decisiones tienen consecuencias, y pueden hacer daño a mucha gente. ¿Podrás salvar a tus amigos... o al menos salvarte del horror que te espera?",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938980/header.jpg?t=1795526281",
+    "type": "game",
+    "shortDescriptionEn": "Go on an adventure with your friends to the abandoned St. Mercy Hospital and uncover its secrets. Can you save your friends or at least save yourself from the horror that awaits?"
   },
   "2991650": {
     "developers": [
@@ -1057,6 +1095,23 @@
     "type": "game",
     "shortDescriptionEn": "Resequence: The Orchard is an occult-horror adventure game in which school counselor Saito approaches an inexplicable phenomena through his counseling sessions with students."
   },
+  "4110770": {
+    "developers": [
+      "Happy Broccoli Games"
+    ],
+    "publishers": [
+      "Happy Broccoli Games"
+    ],
+    "genres": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "shortDescription": "It’s your grandma’s 84th birthday party and nobody is trying to murder her. Stop suspecting your family members, and don’t worry about the strange man in your bedroom. A new creepy-cozy mystery thriller from the creators of Duck Detective.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110770/9f65f0646561c2f9ff2ab0564e9ef73ec171123d/header.jpg?t=1794417564",
+    "type": "game",
+    "shortDescriptionEn": "It’s your grandma’s 84th birthday party and nobody is trying to murder her. Stop suspecting your family members, and don’t worry about the strange man in your bedroom. A new creepy-cozy mystery thriller from the creators of Duck Detective."
+  },
   "4139890": {
     "developers": [
       "Trollheim ",
@@ -1295,6 +1350,23 @@
     "type": "game",
     "shortDescriptionEn": "You are blind and trapped in an infinite hospital corridor. Use your guide cane and other senses to detect anomalies, question illusions, and find a way out."
   },
+  "4302300": {
+    "developers": [
+      "Harman Motor Works"
+    ],
+    "publishers": [
+      "Harman Motor Works"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "A steam engine simulator based in a water pumping station. Operate and maintain your pumping station day and night, maintain city water pressure and fulfill contracts. Interact with realistic steam, coal-firing, and audio simulation in a vintage setting.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4302300/31d981fb5e3b751c8da6bbb2c771f1c2bf8c9ab0/header.jpg?t=1795491088",
+    "type": "game",
+    "shortDescriptionEn": "A steam engine simulator based in a water pumping station. Operate and maintain your pumping station day and night, maintain city water pressure and fulfill contracts. Interact with realistic steam, coal-firing, and audio simulation in a vintage setting."
+  },
   "4304060": {
     "developers": [
       "TECOPARK"
@@ -1472,6 +1544,25 @@
     "type": "game",
     "shortDescriptionEn": "Build miniature diorama scenes, piece by piece. Complete beautiful book nooks as you place furniture, decorations, and small details. Relax and enjoy the peaceful satisfaction of every detail falling into place, as you discover more about each moment in time."
   },
+  "4443690": {
+    "developers": [
+      "AramiGames"
+    ],
+    "publishers": [
+      "AramiGames"
+    ],
+    "genres": [
+      "Aventura",
+      "Casual",
+      "Indie",
+      "Rol",
+      "Simuladores"
+    ],
+    "shortDescription": "Cornerwitch es un juego idle acogedor que ocupa una esquina de tu pantalla. Estudia nuevos hechizos y emprende un viaje mágico. Desbloquea objetos cosméticos para vestir a tu pequeña bruja, sube de nivel y hazte más fuerte.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443690/e72ab07b8d53a25ea9cebcdf6bc01570c26cfdbe/header.jpg?t=1795636577",
+    "type": "game",
+    "shortDescriptionEn": "Cornerwitch is a cozy idler game that sits on the corner of your screen. Study new spells and advance through a magical journey. Unlock cosmetics to dress up your little witch, level up and become stronger."
+  },
   "4450600": {
     "developers": [
       "ODale Studios"
@@ -1573,6 +1664,24 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504940/4a2664c6932cbcd9c01a00fdce9b603308a3e366/header.jpg?t=1795183936",
     "type": "game",
     "shortDescriptionEn": "Explore Ancient Egypt in search of its lost treasures. A relaxing low poly 3D spot-the-difference game set across beautiful, hand-crafted scenes."
+  },
+  "4516210": {
+    "developers": [
+      "PrattDesign"
+    ],
+    "publishers": [
+      "PrattDesign"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "Build a film and television empire in a living entertainment industry beginning in the 1980s. Create and manage productions, cast unique talent, outmaneuver rival studios, climb the box office and grab television ratings in this immersive, old-school tycoon sim.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516210/90ff9f7c15a0ae6b96c0d847bb65a21ff2c1da50/header.jpg?t=1795382428",
+    "type": "game",
+    "shortDescriptionEn": "Build a film and television empire in a living entertainment industry beginning in the 1980s. Create and manage productions, cast unique talent, outmaneuver rival studios, climb the box office and grab television ratings in this immersive, old-school tycoon sim."
   },
   "4521650": {
     "developers": [
@@ -2444,6 +2553,23 @@
     "type": "game",
     "shortDescriptionEn": "Run your own PC shop with friends! Build and repair computers, diagnose faulty parts, stock shelves, set prices, sell hardware and custom PCs, serve customers, manage orders, upgrade your store, unlock new components and grow your business together."
   },
+  "4997480": {
+    "developers": [
+      "MappingCreator"
+    ],
+    "publishers": [
+      "MappingCreator"
+    ],
+    "genres": [
+      "Indie",
+      "Simuladores",
+      "Estrategia"
+    ],
+    "shortDescription": "¡Dibuja mapas, haz que las naciones se enfrenten y crea timelapses históricos o de fantasía con Mapping Creator: una herramienta para dar rienda suelta a tu creatividad!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4997480/5bbebc401f07caa452b1b90889f74e697c803f5d/header.jpg?t=1795454663",
+    "type": "game",
+    "shortDescriptionEn": "Draw maps, make nations fight and create historical or fantasy timelapses with Mapping Creator: a tool to unleash creativity!"
+  },
   "5000170": {
     "developers": [
       "BavelGG"
@@ -2546,6 +2672,22 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1793764414",
     "type": "game",
     "shortDescriptionEn": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s & 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!"
+  },
+  "5049560": {
+    "developers": [
+      "ZV GAMES"
+    ],
+    "publishers": [
+      "ZV GAMES"
+    ],
+    "genres": [
+      "Aventura",
+      "Indie"
+    ],
+    "shortDescription": "Alone at School: Christmas is an atmospheric horror walking simulator. Arriving at school before everyone else on Christmas morning, you soon realize that someone, or something, is already waiting for you in the empty halls.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049560/292997186662e219ac70b82b2742b46f85365add/header.jpg?t=1795603005",
+    "type": "game",
+    "shortDescriptionEn": "Alone at School: Christmas is an atmospheric horror walking simulator. Arriving at school before everyone else on Christmas morning, you soon realize that someone, or something, is already waiting for you in the empty halls."
   },
   "5051080": {
     "developers": [
@@ -2898,6 +3040,23 @@
     "type": "game",
     "shortDescriptionEn": "A medieval siege-defence strategy game where a rival crown comes for your city. Command your troops on the walls and in the field, and between rounds light beacons to choose which allies will march to your aid. Win or lose, every battle earns renown to make Aldmark stronger."
   },
+  "5170520": {
+    "developers": [
+      "Gaister Studios"
+    ],
+    "publishers": [
+      "Farmando XP"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Estrategia"
+    ],
+    "shortDescription": "Forma tu equipo de monstruos, elige contra qué enemigos luchar, recluta a los que derrotes y haz evolucionar a tu equipo en un autobattler roguelite con mejoras permanentes. ¡Adapta tu estrategia y enfréntate a jefes cada vez más poderosos!",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5170520/6d3440c64b935181f874418e3568d03d25f9a03d/header.jpg?t=1795520009",
+    "type": "game",
+    "shortDescriptionEn": "Build your team of monsters, choose which enemies to fight, recruit the ones you defeat, and evolve your team in a roguelite autobattler with permanent buffs. Adapt your strategy and face increasingly powerful Bosses!"
+  },
   "5182840": {
     "developers": [
       "Luvineva Games"
@@ -3154,6 +3313,22 @@
     "type": "game",
     "shortDescriptionEn": "Sort Them Fish is a cozy organizing simulator where you return 2538 fish to their proper aquariums in a cluttered aquatics store. Fill the tanks, learn abilities and turn the chaos into a beautifully organized fish collection."
   },
+  "5303440": {
+    "developers": [
+      "Klems"
+    ],
+    "publishers": [
+      "Klems"
+    ],
+    "genres": [
+      "Indie",
+      "Free to Play"
+    ],
+    "shortDescription": "In the far future, explore an abandoned planet aboard three distinct vehicles. Drive deep beneath the sea, glide high amongst the clouds, and fly even higher in orbit. Immerse in the atmosphere, avoid eldritch dangers and figure out the truth in this two hours long cosmic horror adventure.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303440/02e1267ab16ff58063e2fcf7fd477c8f379bf744/header.jpg?t=1795521652",
+    "type": "game",
+    "shortDescriptionEn": "In the far future, explore an abandoned planet aboard three distinct vehicles. Drive deep beneath the sea, glide high amongst the clouds, and fly even higher in orbit. Immerse in the atmosphere, avoid eldritch dangers and figure out the truth in this two hours long cosmic horror adventure."
+  },
   "5303520": {
     "developers": [
       "Doksa"
@@ -3255,6 +3430,23 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5345040/c645c3bbc12d473bc96963aabe376e7016894166/header.jpg?t=1793880942",
     "type": "game",
     "shortDescriptionEn": "A cute incremental game packed with dopamine! Just hover. Stab forks into giant fruit for gold, buy more forks, and pick Boons that stack into big synergies. Smash the fruit into jam and spend it on powerful skills!"
+  },
+  "5347650": {
+    "developers": [
+      "Praeambulus"
+    ],
+    "publishers": [
+      "Praeambulus"
+    ],
+    "genres": [
+      "Indie",
+      "Estrategia",
+      "Acceso anticipado"
+    ],
+    "shortDescription": "Defend real cities from night raids on a satellite map of the Earth. Build launchers, nets and radar by day. At night, hunt drones and missiles in the dark before they hit.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5347650/fbf003df9a8d0c65a12fe6caf42486c0c87e385a/header.jpg?t=1795382352",
+    "type": "game",
+    "shortDescriptionEn": "Defend real cities from night raids on a satellite map of the Earth. Build launchers, nets and radar by day. At night, hunt drones and missiles in the dark before they hit."
   },
   "5354780": {
     "developers": [
@@ -3630,6 +3822,21 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5508060/93c70056a9354aa34c1fd198e54fff54816f7f27/header.jpg?t=1795505963",
     "type": "game",
     "shortDescriptionEn": "One Last Cast \"is a tabletop game. Place the scenery of lakes and mountains in a corner of the screen, and let your friends accompany you to leisurely fish and collect fish species from various places. Encounter rare and exotic fish, complete local commissions, and upgrade fishing equipment"
+  },
+  "5513980": {
+    "developers": [
+      "Yamoto"
+    ],
+    "publishers": [
+      "Yamoto"
+    ],
+    "genres": [
+      "Indie"
+    ],
+    "shortDescription": "Una noche, sin darle mucha importancia, empiezas un directo para enseñar tu habitación a los espectadores. A partir de esa noche, tu tranquila vida cotidiana empieza a desmoronarse...",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5513980/3b729e78cf25cad9d75ca470cb5e057212c6a04a/header.jpg?t=1795507235",
+    "type": "game",
+    "shortDescriptionEn": "One night, you casually start a livestream to show viewers around your room. From that night on, your peaceful everyday life begins to fall apart..."
   },
   "5521600": {
     "developers": [
