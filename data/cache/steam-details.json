@@ -1765,6 +1765,23 @@
     "type": "game",
     "shortDescriptionEn": "Explore Ancient Egypt in search of its lost treasures. A relaxing low poly 3D spot-the-difference game set across beautiful, hand-crafted scenes."
   },
+  "4515920": {
+    "developers": [
+      "ST Sinovar"
+    ],
+    "publishers": [
+      "ST Sinovar"
+    ],
+    "genres": [
+      "Aventura",
+      "Casual",
+      "Indie"
+    ],
+    "shortDescription": "Eres un agente inmobiliario que debe determinar cuál de las ancianas es una vendedora común y cuál es una estafadora.",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515920/a94d256904b3e2356ba88e89012d3029fc6170be/header.jpg?t=1795795238",
+    "type": "game",
+    "shortDescriptionEn": "You are a real estate agent whose job is to determine which elderly woman is an ordinary seller and which one is a scammer granny."
+  },
   "4516210": {
     "developers": [
       "PrattDesign"
@@ -2905,6 +2922,25 @@
     "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5051090/3cfb50537b0bf57ee89dc9a5ac4faafc62461ba9/header.jpg?t=1794112338",
     "type": "game",
     "shortDescriptionEn": "Take a well-deserved break before searching for your next job! Spend time doing all the things you've always wanted to: cook delicious meals, relax, collect cute figurines, chat with friends, and enjoy life at your own pace. Work can wait a little longer... you've earned this vacation."
+  },
+  "5052710": {
+    "developers": [
+      "Jilin miaomiao",
+      "Mountain&Sea Studio"
+    ],
+    "publishers": [
+      "Mountain&Sea Studio",
+      "Jilin miaomiao"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Rol"
+    ],
+    "shortDescription": "Un juego romántico interactivo con actores reales. Tras suspender un examen, Lin Yu es el único hombre de un programa de citas y viajes. Conoce a cuatro chicas en primera persona y decide tus relaciones y finales. ¿Creerás en el amor ante las cámaras o en los sentimientos fuera de ellas?",
+    "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052710/d4716158fa20176c0281dfb592a3913529aebbb7/header.jpg?t=1795835683",
+    "type": "game",
+    "shortDescriptionEn": "A live-action interactive romance. Lin Yu joins a travel dating show as its only male contestant after failing his exams. Meet four women in first person, shape relationships through dates and choices, and discover multiple endings. Is the love on camera real?"
   },
   "5066010": {
     "developers": [

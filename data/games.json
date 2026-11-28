@@ -1,10 +1,74 @@
 {
-  "generatedAt": "2026-11-27T15:46:11.852Z",
+  "generatedAt": "2026-11-28T14:41:55.678Z",
   "stats": {
-    "steamIndiesLast30Days": 3994
+    "steamIndiesLast30Days": 3875
   },
   "steam": {
     "newThisWeek": [
+      {
+        "id": "steam:5052710",
+        "appid": "5052710",
+        "source": "steam",
+        "name": "lucky me",
+        "url": "https://store.steampowered.com/app/5052710/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052710/d4716158fa20176c0281dfb592a3913529aebbb7/header.jpg?t=1795835683",
+        "releaseDate": "2026-11-27",
+        "releaseText": "27 Nov, 2026",
+        "price": "9,99€",
+        "discount": 20,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 99,
+        "reviewCount": 261,
+        "developers": [
+          "Jilin miaomiao",
+          "Mountain&Sea Studio"
+        ],
+        "publishers": [
+          "Mountain&Sea Studio",
+          "Jilin miaomiao"
+        ],
+        "genres": [
+          "Casual",
+          "Indie",
+          "Rol"
+        ],
+        "shortDescription": "Un juego romántico interactivo con actores reales. Tras suspender un examen, Lin Yu es el único hombre de un programa de citas y viajes. Conoce a cuatro chicas en primera persona y decide tus relaciones y finales. ¿Creerás en el amor ante las cámaras o en los sentimientos fuera de ellas?",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052710/d4716158fa20176c0281dfb592a3913529aebbb7/header.jpg?t=1795835683",
+        "type": "game",
+        "shortDescriptionEn": "A live-action interactive romance. Lin Yu joins a travel dating show as its only male contestant after failing his exams. Meet four women in first person, shape relationships through dates and choices, and discover multiple endings. Is the love on camera real?",
+        "score": 0.969
+      },
+      {
+        "id": "steam:3224600",
+        "appid": "3224600",
+        "source": "steam",
+        "name": "Am I Nima",
+        "url": "https://store.steampowered.com/app/3224600/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ec4c212665296bd88ee2cb506455d6b1ceeb2c30/header.jpg?t=1793672035",
+        "releaseDate": "2026-11-27",
+        "releaseText": "27 Nov, 2026",
+        "price": "15,74€",
+        "discount": 10,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 98,
+        "reviewCount": 362,
+        "developers": [
+          "HO! Games"
+        ],
+        "publishers": [
+          "HO! Games",
+          "Outersloth"
+        ],
+        "genres": [
+          "Aventura",
+          "Indie"
+        ],
+        "shortDescription": "Am I Nima es un juego de terror psicológico en el que tendrás que convencer a tu madre de que eres su hija de verdad. Junta palabras en tu cerebro para expresarlas y lograr que ella confíe en ti.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3224600/ec4c212665296bd88ee2cb506455d6b1ceeb2c30/header.jpg?t=1793672035",
+        "type": "game",
+        "shortDescriptionEn": "Am I Nima is a psychological-horror game where you must convince your mom that you really are her daughter. Combine words together in your brain and use them to talk. Get her to trust you.",
+        "score": 0.9598
+      },
       {
         "id": "steam:5568320",
         "appid": "5568320",
@@ -17,8 +81,8 @@
         "price": "0,79€",
         "discount": 20,
         "reviewSummary": "Very Positive",
-        "reviewPct": 99,
-        "reviewCount": 206,
+        "reviewPct": 98,
+        "reviewCount": 209,
         "developers": [
           "Style Studio"
         ],
@@ -33,7 +97,7 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568320/de2592113bea917475570564cc3658646150b20b/header_spanish.jpg?t=1795530424",
         "type": "game",
         "shortDescriptionEn": "How much do you remember from school? Start with pinyin and arithmetic, then work your way up to China's university entrance exam in this single-player exam simulator. Write essays, show your work in math, and open your marked papers to see where you earned or lost points.",
-        "score": 0.9649
+        "score": 0.9506
       },
       {
         "id": "steam:5472080",
@@ -47,8 +111,8 @@
         "price": "5,43€",
         "discount": 20,
         "reviewSummary": "Overwhelmingly Positive",
-        "reviewPct": 97,
-        "reviewCount": 1484,
+        "reviewPct": 96,
+        "reviewCount": 1197,
         "developers": [
           "ImSoTiredStudio"
         ],
@@ -64,7 +128,7 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5472080/c7008fc401199cb78bfa366a33cb4c029e922e02/header.jpg?t=1793736074",
         "type": "game",
         "shortDescriptionEn": "SHRED A BILLION is a first-person incremental game about a mountain of money! Grab bills by hand, scoop them with a bucket, level up and feed a billion dollars to the shredder. Only 3,929,120,202 bills left to go!",
-        "score": 0.96
+        "score": 0.9473
       },
       {
         "id": "steam:4253570",
@@ -77,9 +141,9 @@
         "releaseText": "26 Nov, 2026",
         "price": "7,19€",
         "discount": 20,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 95,
-        "reviewCount": 283,
+        "reviewSummary": "Overwhelmingly Positive",
+        "reviewPct": 96,
+        "reviewCount": 583,
         "developers": [
           "Quite OK Games"
         ],
@@ -95,7 +159,37 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/09f1d7876ba9b84e031efff07154f690851e9ce6/header_alt_assets_0.jpg?t=1793911859",
         "type": "game",
         "shortDescriptionEn": "Gently restore old objects by cleaning away layers of dust, rust, and time. Reshine is a minimalistic, relaxing experience: use a range of tools to watch years of grime disappear before your eyes. No management, no pressure - just you and the satisfaction of bringing vintage treasures back to life.",
-        "score": 0.918
+        "score": 0.9409
+      },
+      {
+        "id": "steam:4773720",
+        "appid": "4773720",
+        "source": "steam",
+        "name": "A Real Life Party",
+        "url": "https://store.steampowered.com/app/4773720/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773720/96ce1b1c0fec392d69634e2a3546ab077f692261/header.jpg?t=1795760102",
+        "releaseDate": "2026-11-26",
+        "releaseText": "26 Nov, 2026",
+        "price": "3,74€",
+        "discount": 25,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 98,
+        "reviewCount": 100,
+        "developers": [
+          "Anton Pätsi"
+        ],
+        "publishers": [
+          "Silakka Entertainment"
+        ],
+        "genres": [
+          "Indie",
+          "Simuladores"
+        ],
+        "shortDescription": "A 30 minute photographed social disaster. And you're invited!",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773720/96ce1b1c0fec392d69634e2a3546ab077f692261/header.jpg?t=1795760102",
+        "type": "game",
+        "shortDescriptionEn": "A 30 minute photographed social disaster. And you're invited!",
+        "score": 0.93
       },
       {
         "id": "steam:5558370",
@@ -110,7 +204,7 @@
         "discount": 0,
         "reviewSummary": "Positive",
         "reviewPct": 100,
-        "reviewCount": 42,
+        "reviewCount": 47,
         "developers": [
           "KIRA LLC"
         ],
@@ -127,68 +221,68 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5558370/67ca6f470dd3b269287467a691ed67a659343862/header.jpg?t=1795527971",
         "type": "game",
         "shortDescriptionEn": "A small cutesy game where you provide magical potions to a variety of strange characters.",
-        "score": 0.9162
+        "score": 0.9244
       },
       {
-        "id": "steam:4773720",
-        "appid": "4773720",
+        "id": "steam:3991790",
+        "appid": "3991790",
         "source": "steam",
-        "name": "A Real Life Party",
-        "url": "https://store.steampowered.com/app/4773720/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773720/96ce1b1c0fec392d69634e2a3546ab077f692261/header.jpg?t=1795760102",
+        "name": "Attack of the Astrals",
+        "url": "https://store.steampowered.com/app/3991790/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991790/35140118e5977a29e7c052485e55b0a0e09b174b/header.jpg?t=1795755595",
         "releaseDate": "2026-11-26",
         "releaseText": "26 Nov, 2026",
-        "price": "3,74€",
-        "discount": 25,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 98,
-        "reviewCount": 62,
+        "price": "9,59€",
+        "discount": 20,
+        "reviewSummary": "Positive",
+        "reviewPct": 100,
+        "reviewCount": 40,
         "developers": [
-          "Anton Pätsi"
+          "Hewer's Workshop"
         ],
         "publishers": [
-          "Silakka Entertainment"
+          "Goblinz Publishing",
+          "Gamirror Games"
         ],
         "genres": [
           "Indie",
-          "Simuladores"
+          "Estrategia"
         ],
-        "shortDescription": "A 30 minute photographed social disaster. And you're invited!",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773720/96ce1b1c0fec392d69634e2a3546ab077f692261/header.jpg?t=1795760102",
+        "shortDescription": "Heroes and villains fight the cosmos in this tactical roguelike! Every move unleashes an attack in quick battles that reward creative strategies. Combine necromancy, explosives, mimicry and more to thwart the evolving Astral threat!",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991790/35140118e5977a29e7c052485e55b0a0e09b174b/header.jpg?t=1795755595",
         "type": "game",
-        "shortDescriptionEn": "A 30 minute photographed social disaster. And you're invited!",
-        "score": 0.9081
+        "shortDescriptionEn": "Heroes and villains fight the cosmos in this tactical roguelike! Every move unleashes an attack in quick battles that reward creative strategies. Combine necromancy, explosives, mimicry and more to thwart the evolving Astral threat!",
+        "score": 0.9124
       },
       {
-        "id": "steam:3861740",
-        "appid": "3861740",
+        "id": "steam:5303440",
+        "appid": "5303440",
         "source": "steam",
-        "name": "A Thousand Cloys",
-        "url": "https://store.steampowered.com/app/3861740/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/599556ebe82d9151bf1036e1ff6c4ff95a206873/header.jpg?t=1795467383",
-        "releaseDate": "2026-11-23",
-        "releaseText": "23 Nov, 2026",
-        "price": "7,19€",
-        "discount": 10,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 94,
-        "reviewCount": 137,
+        "name": "The Temple",
+        "url": "https://store.steampowered.com/app/5303440/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303440/02e1267ab16ff58063e2fcf7fd477c8f379bf744/header.jpg?t=1795521652",
+        "releaseDate": "2026-11-24",
+        "releaseText": "24 Nov, 2026",
+        "price": "Gratis",
+        "discount": 0,
+        "reviewSummary": "Positive",
+        "reviewPct": 100,
+        "reviewCount": 40,
         "developers": [
-          "3-50"
+          "Klems"
         ],
         "publishers": [
-          "3-50"
+          "Klems"
         ],
         "genres": [
-          "Casual",
           "Indie",
-          "Simuladores"
+          "Free to Play"
         ],
-        "shortDescription": "A chill, exploration-based incremental game about harvesting and cleansing an alien planet of its radiation with a swarm of high-tech toasters.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/599556ebe82d9151bf1036e1ff6c4ff95a206873/header.jpg?t=1795467383",
+        "shortDescription": "In the far future, explore an abandoned planet aboard three distinct vehicles. Drive deep beneath the sea, glide high amongst the clouds, and fly even higher in orbit. Immerse in the atmosphere, avoid eldritch dangers and figure out the truth in this two hours long cosmic horror adventure.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303440/02e1267ab16ff58063e2fcf7fd477c8f379bf744/header.jpg?t=1795521652",
         "type": "game",
-        "shortDescriptionEn": "A chill, exploration-based incremental game about harvesting and cleansing an alien planet of its radiation with a swarm of high-tech toasters.",
-        "score": 0.887
+        "shortDescriptionEn": "In the far future, explore an abandoned planet aboard three distinct vehicles. Drive deep beneath the sea, glide high amongst the clouds, and fly even higher in orbit. Immerse in the atmosphere, avoid eldritch dangers and figure out the truth in this two hours long cosmic horror adventure.",
+        "score": 0.9124
       },
       {
         "id": "steam:5390670",
@@ -203,7 +297,7 @@
         "discount": 0,
         "reviewSummary": "Positive",
         "reviewPct": 100,
-        "reviewCount": 29,
+        "reviewCount": 38,
         "developers": [
           "Horror Shop Games"
         ],
@@ -218,38 +312,7 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5390670/61de00a6a19c8186b2651cc264cdc09416e314ba/header.jpg?t=1795511426",
         "type": "game",
         "shortDescriptionEn": "\"Deeper...\" is a short game about an obsessed diver. Diving accumulates DEEP, which you can spend to enhance your next dive. Your wife will faithfully wait and assist you but how long will you keep her worrying?",
-        "score": 0.883
-      },
-      {
-        "id": "steam:4933500",
-        "appid": "4933500",
-        "source": "steam",
-        "name": "Me and You",
-        "url": "https://store.steampowered.com/app/4933500/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933500/31fbf2a60a4bacd4061e64c06ff3cd6b108a4ba8/header.jpg?t=1794994082",
-        "releaseDate": "2026-11-25",
-        "releaseText": "25 Nov, 2026",
-        "price": "8,23€",
-        "discount": 15,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 96,
-        "reviewCount": 62,
-        "developers": [
-          "PMF Top Joy Games"
-        ],
-        "publishers": [
-          "PMF Top Joy Games"
-        ],
-        "genres": [
-          "Aventura",
-          "Casual",
-          "Indie"
-        ],
-        "shortDescription": "Me and You es un juego de puzles cooperativo inspirado en el aclamado “Baba Is You”. Crea, cambia y rompe las reglas de cada nivel para resolverlo juntos.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933500/31fbf2a60a4bacd4061e64c06ff3cd6b108a4ba8/header.jpg?t=1794994082",
-        "type": "game",
-        "shortDescriptionEn": "Me and You is a co-op puzzle game inspired by the acclaimed “Baba Is You”. Create, change and break the rules of each level to solve it together.",
-        "score": 0.8787
+        "score": 0.9082
       },
       {
         "id": "steam:4729050",
@@ -262,9 +325,9 @@
         "releaseText": "26 Nov, 2026",
         "price": "7,01€",
         "discount": 10,
-        "reviewSummary": "Positive",
-        "reviewPct": 100,
-        "reviewCount": 26,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 98,
+        "reviewCount": 50,
         "developers": [
           "IGNICORE GAMES"
         ],
@@ -281,37 +344,252 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729050/f2bc87dceea753a763fcb75e1174215f0f3366f7/header.jpg?t=1795742124",
         "type": "game",
         "shortDescriptionEn": "A cozy train-themed idle game. Build your own train at the bottom of your screen, trade goods, carry passengers, and grow crops as you enjoy a relaxing journey through a beautiful pixel-art world.",
-        "score": 0.8713
+        "score": 0.895
       },
       {
-        "id": "steam:5303440",
-        "appid": "5303440",
+        "id": "steam:3376860",
+        "appid": "3376860",
         "source": "steam",
-        "name": "The Temple",
-        "url": "https://store.steampowered.com/app/5303440/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303440/02e1267ab16ff58063e2fcf7fd477c8f379bf744/header.jpg?t=1795521652",
+        "name": "The Retrospection Of Tomorrow",
+        "url": "https://store.steampowered.com/app/3376860/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376860/9e050268ee3fad43e9ff20113aa0bddd7e99da97/header.jpg?t=1795693843",
+        "releaseDate": "2026-11-26",
+        "releaseText": "26 Nov, 2026",
+        "price": "12,39€",
+        "discount": 20,
+        "reviewSummary": "Positive",
+        "reviewPct": 100,
+        "reviewCount": 30,
+        "developers": [
+          "Cherish Fan"
+        ],
+        "publishers": [
+          "Cherish Fan"
+        ],
+        "genres": [
+          "Aventura",
+          "Indie",
+          "Rol"
+        ],
+        "shortDescription": "A time-travel romance visual novel where sweet dates quickly turn into a high-stakes mystery...as handsome boys around you start dying right before your eyes! Trapped between dreams and memories, fighting fate itself—can you find a way to save everyone? Dear time traveler, welcome home.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376860/9e050268ee3fad43e9ff20113aa0bddd7e99da97/header.jpg?t=1795693843",
+        "type": "game",
+        "shortDescriptionEn": "A time-travel romance visual novel where sweet dates quickly turn into a high-stakes mystery...as handsome boys around you start dying right before your eyes! Trapped between dreams and memories, fighting fate itself—can you find a way to save everyone? Dear time traveler, welcome home.",
+        "score": 0.8865
+      },
+      {
+        "id": "steam:3861740",
+        "appid": "3861740",
+        "source": "steam",
+        "name": "A Thousand Cloys",
+        "url": "https://store.steampowered.com/app/3861740/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/599556ebe82d9151bf1036e1ff6c4ff95a206873/header.jpg?t=1795467383",
+        "releaseDate": "2026-11-23",
+        "releaseText": "23 Nov, 2026",
+        "price": "7,19€",
+        "discount": 10,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 93,
+        "reviewCount": 178,
+        "developers": [
+          "3-50"
+        ],
+        "publishers": [
+          "3-50"
+        ],
+        "genres": [
+          "Casual",
+          "Indie",
+          "Simuladores"
+        ],
+        "shortDescription": "A chill, exploration-based incremental game about harvesting and cleansing an alien planet of its radiation with a swarm of high-tech toasters.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861740/599556ebe82d9151bf1036e1ff6c4ff95a206873/header.jpg?t=1795467383",
+        "type": "game",
+        "shortDescriptionEn": "A chill, exploration-based incremental game about harvesting and cleansing an alien planet of its radiation with a swarm of high-tech toasters.",
+        "score": 0.8827
+      },
+      {
+        "id": "steam:3498700",
+        "appid": "3498700",
+        "source": "steam",
+        "name": "Appulse",
+        "url": "https://store.steampowered.com/app/3498700/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3498700/5551d6ea2d075752c744830204eb47a5376817ed/header.jpg?t=1795434153",
+        "releaseDate": "2026-11-26",
+        "releaseText": "26 Nov, 2026",
+        "price": "10,39€",
+        "discount": 20,
+        "reviewSummary": "Positive",
+        "reviewPct": 97,
+        "reviewCount": 46,
+        "developers": [
+          "Le Rado"
+        ],
+        "publishers": [
+          "Raw Fury"
+        ],
+        "genres": [
+          "Acción",
+          "Indie"
+        ],
+        "shortDescription": "Un intenso «roguelite» de disparos cenital con mecánicas de «pinball». Domina tu arma, usa el retroceso para controlar la bola y protege a la nave nodriza de los robots invasores. ¡Mejora tu equipo y tus habilidades para ganar la guerra!",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3498700/5551d6ea2d075752c744830204eb47a5376817ed/header.jpg?t=1795434153",
+        "type": "game",
+        "shortDescriptionEn": "A thrilling top-down shooter inspired by pinball mechanics. Master your weapon and use the recoil to control your ball, while protecting your mothership from waves of invading robots. Upgrade your equipment, polish your skills, and win the war!",
+        "score": 0.8741
+      },
+      {
+        "id": "steam:4526450",
+        "appid": "4526450",
+        "source": "steam",
+        "name": "Incremental RTS",
+        "url": "https://store.steampowered.com/app/4526450/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526450/b4d171bb8b996bde40897a159b41ba01050aa4fb/header.jpg?t=1794852984",
+        "releaseDate": "2026-11-24",
+        "releaseText": "24 Nov, 2026",
+        "price": "4,92€",
+        "discount": 15,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 94,
+        "reviewCount": 90,
+        "developers": [
+          "Dyrkabes Games"
+        ],
+        "publishers": [
+          "Dyrkabes Games"
+        ],
+        "genres": [
+          "Casual",
+          "Indie",
+          "Simuladores",
+          "Estrategia"
+        ],
+        "shortDescription": "Semi-idle incremental RTS. You don’t micro units. You build factories, pick upgrades and let your army flood the battlefield. Start with nothing, research tanks, artillery, flankers and mega units. Scale and survive enemy surges. Pure auto-battle chaos.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526450/b4d171bb8b996bde40897a159b41ba01050aa4fb/header.jpg?t=1794852984",
+        "type": "game",
+        "shortDescriptionEn": "Semi-idle incremental RTS. You don’t micro units. You build factories, pick upgrades and let your army flood the battlefield. Start with nothing, research tanks, artillery, flankers and mega units. Scale and survive enemy surges. Pure auto-battle chaos.",
+        "score": 0.8707
+      },
+      {
+        "id": "steam:4933500",
+        "appid": "4933500",
+        "source": "steam",
+        "name": "Me and You",
+        "url": "https://store.steampowered.com/app/4933500/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933500/31fbf2a60a4bacd4061e64c06ff3cd6b108a4ba8/header.jpg?t=1794994082",
+        "releaseDate": "2026-11-25",
+        "releaseText": "25 Nov, 2026",
+        "price": "8,23€",
+        "discount": 15,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 94,
+        "reviewCount": 86,
+        "developers": [
+          "PMF Top Joy Games"
+        ],
+        "publishers": [
+          "PMF Top Joy Games"
+        ],
+        "genres": [
+          "Aventura",
+          "Casual",
+          "Indie"
+        ],
+        "shortDescription": "Me and You es un juego de puzles cooperativo inspirado en el aclamado “Baba Is You”. Crea, cambia y rompe las reglas de cada nivel para resolverlo juntos.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4933500/31fbf2a60a4bacd4061e64c06ff3cd6b108a4ba8/header.jpg?t=1794994082",
+        "type": "game",
+        "shortDescriptionEn": "Me and You is a co-op puzzle game inspired by the acclaimed “Baba Is You”. Create, change and break the rules of each level to solve it together.",
+        "score": 0.8686
+      },
+      {
+        "id": "steam:4244180",
+        "appid": "4244180",
+        "source": "steam",
+        "name": "No Blink Allowed",
+        "url": "https://store.steampowered.com/app/4244180/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244180/c37ae61a223e39b42af053c98871000a0eb2d780/header.jpg?t=1795533454",
+        "releaseDate": "2026-11-24",
+        "releaseText": "24 Nov, 2026",
+        "price": "4,49€",
+        "discount": 10,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 95,
+        "reviewCount": 65,
+        "developers": [
+          "seto_itchy"
+        ],
+        "publishers": [
+          "seto_itchy"
+        ],
+        "genres": [
+          "Casual"
+        ],
+        "shortDescription": "Train your timing skills to stop the clock close to zero, collect shards, and spend them on a massive skill tree in this short arcade-ish incremental game. Struggle with glitching displays, hidden timers, chaotic multi-stops, and other hazards as you improve your accuracy.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244180/c37ae61a223e39b42af053c98871000a0eb2d780/header.jpg?t=1795533454",
+        "type": "game",
+        "shortDescriptionEn": "Train your timing skills to stop the clock close to zero, collect shards, and spend them on a massive skill tree in this short arcade-ish incremental game. Struggle with glitching displays, hidden timers, chaotic multi-stops, and other hazards as you improve your accuracy.",
+        "score": 0.8676
+      },
+      {
+        "id": "steam:5049560",
+        "appid": "5049560",
+        "source": "steam",
+        "name": "Alone at  School:Christmas",
+        "url": "https://store.steampowered.com/app/5049560/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049560/292997186662e219ac70b82b2742b46f85365add/header.jpg?t=1795603005",
+        "releaseDate": "2026-11-25",
+        "releaseText": "25 Nov, 2026",
+        "price": "5,21€",
+        "discount": 10,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 96,
+        "reviewCount": 51,
+        "developers": [
+          "ZV GAMES"
+        ],
+        "publishers": [
+          "ZV GAMES"
+        ],
+        "genres": [
+          "Aventura",
+          "Indie"
+        ],
+        "shortDescription": "Alone at School: Christmas is an atmospheric horror walking simulator. Arriving at school before everyone else on Christmas morning, you soon realize that someone, or something, is already waiting for you in the empty halls.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049560/292997186662e219ac70b82b2742b46f85365add/header.jpg?t=1795603005",
+        "type": "game",
+        "shortDescriptionEn": "Alone at School: Christmas is an atmospheric horror walking simulator. Arriving at school before everyone else on Christmas morning, you soon realize that someone, or something, is already waiting for you in the empty halls.",
+        "score": 0.8667
+      },
+      {
+        "id": "steam:5303520",
+        "appid": "5303520",
+        "source": "steam",
+        "name": "Amber Eyes",
+        "url": "https://store.steampowered.com/app/5303520/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303520/6c95a076a88a22a9941214477b1c4cc97f949560/header.jpg?t=1794338801",
         "releaseDate": "2026-11-24",
         "releaseText": "24 Nov, 2026",
         "price": "Gratis",
         "discount": 0,
-        "reviewSummary": "Positive",
-        "reviewPct": 100,
-        "reviewCount": 26,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 94,
+        "reviewCount": 70,
         "developers": [
-          "Klems"
+          "Doksa"
         ],
         "publishers": [
-          "Klems"
+          "Doksa"
         ],
         "genres": [
+          "Aventura",
           "Indie",
           "Free to Play"
         ],
-        "shortDescription": "In the far future, explore an abandoned planet aboard three distinct vehicles. Drive deep beneath the sea, glide high amongst the clouds, and fly even higher in orbit. Immerse in the atmosphere, avoid eldritch dangers and figure out the truth in this two hours long cosmic horror adventure.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303440/02e1267ab16ff58063e2fcf7fd477c8f379bf744/header.jpg?t=1795521652",
+        "shortDescription": "A short kinetic visual novel about nationality, prejudice, and doomed love. Set in the Free City of Danzig in the 30s, Amber Eyes tells the story of a Polish taxi driver hopelessly in love with a German man.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303520/6c95a076a88a22a9941214477b1c4cc97f949560/header.jpg?t=1794338801",
         "type": "game",
-        "shortDescriptionEn": "In the far future, explore an abandoned planet aboard three distinct vehicles. Drive deep beneath the sea, glide high amongst the clouds, and fly even higher in orbit. Immerse in the atmosphere, avoid eldritch dangers and figure out the truth in this two hours long cosmic horror adventure.",
-        "score": 0.8713
+        "shortDescriptionEn": "A short kinetic visual novel about nationality, prejudice, and doomed love. Set in the Free City of Danzig in the 30s, Amber Eyes tells the story of a Polish taxi driver hopelessly in love with a German man.",
+        "score": 0.8583
       },
       {
         "id": "steam:5508060",
@@ -342,36 +620,6 @@
         "type": "game",
         "shortDescriptionEn": "One Last Cast \"is a tabletop game. Place the scenery of lakes and mountains in a corner of the screen, and let your friends accompany you to leisurely fish and collect fish species from various places. Encounter rare and exotic fish, complete local commissions, and upgrade fishing equipment",
         "score": 0.8579
-      },
-      {
-        "id": "steam:3479310",
-        "appid": "3479310",
-        "source": "steam",
-        "name": "The Pogo Witch",
-        "url": "https://store.steampowered.com/app/3479310/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479310/0a4766e9b71a7429a339e73cd854b94f198a2728/header.jpg?t=1795712420",
-        "releaseDate": "2026-11-26",
-        "releaseText": "26 Nov, 2026",
-        "price": "4,49€",
-        "discount": 10,
-        "reviewSummary": "Positive",
-        "reviewPct": 100,
-        "reviewCount": 23,
-        "developers": [
-          "VLaDOS"
-        ],
-        "publishers": [
-          "VLaDOS"
-        ],
-        "genres": [
-          "Aventura",
-          "Indie"
-        ],
-        "shortDescription": "Un exigente juego de plataformas 2D dibujado a mano. Domina la técnica del pogo y sube hasta la cima de la torre, donde su creadora espera. ",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479310/0a4766e9b71a7429a339e73cd854b94f198a2728/header.jpg?t=1795712420",
-        "type": "game",
-        "shortDescriptionEn": "A challenging hand-drawn 2D platform game. Master the pogo technique and climb to the top of the tower, where its creator awaits.",
-        "score": 0.8569
       },
       {
         "id": "steam:5000170",
@@ -405,341 +653,97 @@
         "score": 0.8551
       },
       {
-        "id": "steam:4526450",
-        "appid": "4526450",
+        "id": "steam:4515920",
+        "appid": "4515920",
         "source": "steam",
-        "name": "Incremental RTS",
-        "url": "https://store.steampowered.com/app/4526450/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526450/b4d171bb8b996bde40897a159b41ba01050aa4fb/header.jpg?t=1794852984",
-        "releaseDate": "2026-11-24",
-        "releaseText": "24 Nov, 2026",
-        "price": "4,92€",
-        "discount": 15,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 93,
-        "reviewCount": 75,
-        "developers": [
-          "Dyrkabes Games"
-        ],
-        "publishers": [
-          "Dyrkabes Games"
-        ],
-        "genres": [
-          "Casual",
-          "Indie",
-          "Simuladores",
-          "Estrategia"
-        ],
-        "shortDescription": "Semi-idle incremental RTS. You don’t micro units. You build factories, pick upgrades and let your army flood the battlefield. Start with nothing, research tanks, artillery, flankers and mega units. Scale and survive enemy surges. Pure auto-battle chaos.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4526450/b4d171bb8b996bde40897a159b41ba01050aa4fb/header.jpg?t=1794852984",
-        "type": "game",
-        "shortDescriptionEn": "Semi-idle incremental RTS. You don’t micro units. You build factories, pick upgrades and let your army flood the battlefield. Start with nothing, research tanks, artillery, flankers and mega units. Scale and survive enemy surges. Pure auto-battle chaos.",
-        "score": 0.849
-      },
-      {
-        "id": "steam:4244180",
-        "appid": "4244180",
-        "source": "steam",
-        "name": "No Blink Allowed",
-        "url": "https://store.steampowered.com/app/4244180/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244180/c37ae61a223e39b42af053c98871000a0eb2d780/header.jpg?t=1795533454",
-        "releaseDate": "2026-11-24",
-        "releaseText": "24 Nov, 2026",
-        "price": "4,49€",
-        "discount": 10,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 94,
-        "reviewCount": 58,
-        "developers": [
-          "seto_itchy"
-        ],
-        "publishers": [
-          "seto_itchy"
-        ],
-        "genres": [
-          "Casual"
-        ],
-        "shortDescription": "Train your timing skills to stop the clock close to zero, collect shards, and spend them on a massive skill tree in this short arcade-ish incremental game. Struggle with glitching displays, hidden timers, chaotic multi-stops, and other hazards as you improve your accuracy.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244180/c37ae61a223e39b42af053c98871000a0eb2d780/header.jpg?t=1795533454",
-        "type": "game",
-        "shortDescriptionEn": "Train your timing skills to stop the clock close to zero, collect shards, and spend them on a massive skill tree in this short arcade-ish incremental game. Struggle with glitching displays, hidden timers, chaotic multi-stops, and other hazards as you improve your accuracy.",
-        "score": 0.8475
-      },
-      {
-        "id": "steam:5303520",
-        "appid": "5303520",
-        "source": "steam",
-        "name": "Amber Eyes",
-        "url": "https://store.steampowered.com/app/5303520/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303520/6c95a076a88a22a9941214477b1c4cc97f949560/header.jpg?t=1794338801",
-        "releaseDate": "2026-11-24",
-        "releaseText": "24 Nov, 2026",
-        "price": "Gratis",
-        "discount": 0,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 94,
-        "reviewCount": 56,
-        "developers": [
-          "Doksa"
-        ],
-        "publishers": [
-          "Doksa"
-        ],
-        "genres": [
-          "Aventura",
-          "Indie",
-          "Free to Play"
-        ],
-        "shortDescription": "A short kinetic visual novel about nationality, prejudice, and doomed love. Set in the Free City of Danzig in the 30s, Amber Eyes tells the story of a Polish taxi driver hopelessly in love with a German man.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5303520/6c95a076a88a22a9941214477b1c4cc97f949560/header.jpg?t=1794338801",
-        "type": "game",
-        "shortDescriptionEn": "A short kinetic visual novel about nationality, prejudice, and doomed love. Set in the Free City of Danzig in the 30s, Amber Eyes tells the story of a Polish taxi driver hopelessly in love with a German man.",
-        "score": 0.8453
-      },
-      {
-        "id": "steam:3991790",
-        "appid": "3991790",
-        "source": "steam",
-        "name": "Attack of the Astrals",
-        "url": "https://store.steampowered.com/app/3991790/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991790/35140118e5977a29e7c052485e55b0a0e09b174b/header.jpg?t=1795755595",
-        "releaseDate": "2026-11-26",
-        "releaseText": "26 Nov, 2026",
-        "price": "9,59€",
+        "name": "BABKA-TERROR",
+        "url": "https://store.steampowered.com/app/4515920/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515920/a94d256904b3e2356ba88e89012d3029fc6170be/header.jpg?t=1795795238",
+        "releaseDate": "2026-11-27",
+        "releaseText": "27 Nov, 2026",
+        "price": "6,23€",
         "discount": 20,
         "reviewSummary": "Positive",
         "reviewPct": 100,
-        "reviewCount": 20,
+        "reviewCount": 22,
         "developers": [
-          "Hewer's Workshop"
+          "ST Sinovar"
         ],
         "publishers": [
-          "Goblinz Publishing",
-          "Gamirror Games"
+          "ST Sinovar"
         ],
         "genres": [
-          "Indie",
-          "Estrategia"
+          "Aventura",
+          "Casual",
+          "Indie"
         ],
-        "shortDescription": "Heroes and villains fight the cosmos in this tactical roguelike! Every move unleashes an attack in quick battles that reward creative strategies. Combine necromancy, explosives, mimicry and more to thwart the evolving Astral threat!",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991790/35140118e5977a29e7c052485e55b0a0e09b174b/header.jpg?t=1795755595",
+        "shortDescription": "Eres un agente inmobiliario que debe determinar cuál de las ancianas es una vendedora común y cuál es una estafadora.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515920/a94d256904b3e2356ba88e89012d3029fc6170be/header.jpg?t=1795795238",
         "type": "game",
-        "shortDescriptionEn": "Heroes and villains fight the cosmos in this tactical roguelike! Every move unleashes an attack in quick battles that reward creative strategies. Combine necromancy, explosives, mimicry and more to thwart the evolving Astral threat!",
-        "score": 0.8389
+        "shortDescriptionEn": "You are a real estate agent whose job is to determine which elderly woman is an ordinary seller and which one is a scammer granny.",
+        "score": 0.8513
       },
       {
-        "id": "steam:5049560",
-        "appid": "5049560",
+        "id": "steam:4370210",
+        "appid": "4370210",
         "source": "steam",
-        "name": "Alone at  School:Christmas",
-        "url": "https://store.steampowered.com/app/5049560/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049560/292997186662e219ac70b82b2742b46f85365add/header.jpg?t=1795603005",
-        "releaseDate": "2026-11-25",
-        "releaseText": "25 Nov, 2026",
-        "price": "5,21€",
+        "name": "Split Brain Samsara",
+        "url": "https://store.steampowered.com/app/4370210/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370210/e50aa4e8bbe598a9f5b8d9c8890dbf4ddbb5e078/header.jpg?t=1794308715",
+        "releaseDate": "2026-11-26",
+        "releaseText": "26 Nov, 2026",
+        "price": "7,19€",
         "discount": 10,
         "reviewSummary": "Positive",
         "reviewPct": 95,
         "reviewCount": 42,
         "developers": [
-          "ZV GAMES"
+          "Kusa Games"
         ],
         "publishers": [
-          "ZV GAMES"
+          "Kusa Games"
         ],
         "genres": [
           "Aventura",
+          "Casual",
           "Indie"
         ],
-        "shortDescription": "Alone at School: Christmas is an atmospheric horror walking simulator. Arriving at school before everyone else on Christmas morning, you soon realize that someone, or something, is already waiting for you in the empty halls.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049560/292997186662e219ac70b82b2742b46f85365add/header.jpg?t=1795603005",
+        "shortDescription": "Tu amigo y tú están atrapados en el mismo cuerpo. En esta aventura cooperativa, aprende a controlar el mismo personaje, aventúrate en el plano espiritual y revela la conspiración de la megaestructura Samsara. ¡La comunicación es la clave!",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370210/e50aa4e8bbe598a9f5b8d9c8890dbf4ddbb5e078/header.jpg?t=1794308715",
         "type": "game",
-        "shortDescriptionEn": "Alone at School: Christmas is an atmospheric horror walking simulator. Arriving at school before everyone else on Christmas morning, you soon realize that someone, or something, is already waiting for you in the empty halls.",
+        "shortDescriptionEn": "You and your friend are locked in the same body! In this co-op adventure, learn to control the same character, venture into your spiritual realm, and unravel the machinations of the Samsara megastructure! Communication will be key!",
         "score": 0.8388
       },
       {
-        "id": "steam:3376860",
-        "appid": "3376860",
+        "id": "steam:5529210",
+        "appid": "5529210",
         "source": "steam",
-        "name": "The Retrospection Of Tomorrow",
-        "url": "https://store.steampowered.com/app/3376860/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376860/9e050268ee3fad43e9ff20113aa0bddd7e99da97/header.jpg?t=1795693843",
+        "name": "Auto Mechanic Tidy Up",
+        "url": "https://store.steampowered.com/app/5529210/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5529210/f67d54b6863efd5318e90207289ff44676f22321/header.jpg?t=1795529342",
         "releaseDate": "2026-11-26",
         "releaseText": "26 Nov, 2026",
-        "price": "12,39€",
+        "price": "3,91€",
         "discount": 20,
-        "reviewSummary": "Positive",
-        "reviewPct": 100,
-        "reviewCount": 19,
-        "developers": [
-          "Cherish Fan"
-        ],
-        "publishers": [
-          "Cherish Fan"
-        ],
-        "genres": [
-          "Aventura",
-          "Indie",
-          "Rol"
-        ],
-        "shortDescription": "A time-travel romance visual novel where sweet dates quickly turn into a high-stakes mystery...as handsome boys around you start dying right before your eyes! Trapped between dreams and memories, fighting fate itself—can you find a way to save everyone? Dear time traveler, welcome home.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3376860/9e050268ee3fad43e9ff20113aa0bddd7e99da97/header.jpg?t=1795693843",
-        "type": "game",
-        "shortDescriptionEn": "A time-travel romance visual novel where sweet dates quickly turn into a high-stakes mystery...as handsome boys around you start dying right before your eyes! Trapped between dreams and memories, fighting fate itself—can you find a way to save everyone? Dear time traveler, welcome home.",
-        "score": 0.8318
-      },
-      {
-        "id": "steam:5513980",
-        "appid": "5513980",
-        "source": "steam",
-        "name": "Haishin",
-        "url": "https://store.steampowered.com/app/5513980/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5513980/3b729e78cf25cad9d75ca470cb5e057212c6a04a/header.jpg?t=1795507235",
-        "releaseDate": "2026-11-24",
-        "releaseText": "24 Nov, 2026",
-        "price": "2,45€",
-        "discount": 15,
-        "reviewSummary": "Positive",
-        "reviewPct": 96,
-        "reviewCount": 32,
-        "developers": [
-          "Yamoto"
-        ],
-        "publishers": [
-          "Yamoto"
-        ],
-        "genres": [
-          "Indie"
-        ],
-        "shortDescription": "Una noche, sin darle mucha importancia, empiezas un directo para enseñar tu habitación a los espectadores. A partir de esa noche, tu tranquila vida cotidiana empieza a desmoronarse...",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5513980/3b729e78cf25cad9d75ca470cb5e057212c6a04a/header.jpg?t=1795507235",
-        "type": "game",
-        "shortDescriptionEn": "One night, you casually start a livestream to show viewers around your room. From that night on, your peaceful everyday life begins to fall apart...",
-        "score": 0.8298
-      },
-      {
-        "id": "steam:3309160",
-        "appid": "3309160",
-        "source": "steam",
-        "name": "Chronocracy",
-        "url": "https://store.steampowered.com/app/3309160/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3309160/5a83f43ebba0e84d81998179b48a4239f621cf98/header.jpg?t=1795182855",
-        "releaseDate": "2026-11-26",
-        "releaseText": "26 Nov, 2026",
-        "price": "13,04€",
-        "discount": 10,
         "reviewSummary": "Very Positive",
-        "reviewPct": 91,
-        "reviewCount": 62,
+        "reviewPct": 94,
+        "reviewCount": 50,
         "developers": [
-          "Regolite"
+          "Tovarishch Games"
         ],
         "publishers": [
-          "HeroCraft PC"
+          "PlayWay S.A."
         ],
         "genres": [
-          "Indie",
-          "Simuladores",
-          "Estrategia"
-        ],
-        "shortDescription": "¡Construye una civilización única en un mundo plano! Explora, extrae recursos, expándete y combate enemigos. Usa tus habilidades de gestión del tiempo para defenderte de los ataques y acaba con una amenaza misteriosa. ¿Podrás crear un mundo capaz de sobrevivir?",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3309160/5a83f43ebba0e84d81998179b48a4239f621cf98/header.jpg?t=1795182855",
-        "type": "game",
-        "shortDescriptionEn": "Build a unique civilization in a flat world! Explore, extract resources, expand, and battle enemies. Use your time management skills to fend off attacks and face a mysterious threat. Are you ready to create a world that can survive?",
-        "score": 0.8129
-      },
-      {
-        "id": "steam:3498700",
-        "appid": "3498700",
-        "source": "steam",
-        "name": "Appulse",
-        "url": "https://store.steampowered.com/app/3498700/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3498700/5551d6ea2d075752c744830204eb47a5376817ed/header.jpg?t=1795434153",
-        "releaseDate": "2026-11-26",
-        "releaseText": "26 Nov, 2026",
-        "price": "10,39€",
-        "discount": 20,
-        "reviewSummary": "Positive",
-        "reviewPct": 95,
-        "reviewCount": 23,
-        "developers": [
-          "Le Rado"
-        ],
-        "publishers": [
-          "Raw Fury"
-        ],
-        "genres": [
-          "Acción",
-          "Indie"
-        ],
-        "shortDescription": "Un intenso «roguelite» de disparos cenital con mecánicas de «pinball». Domina tu arma, usa el retroceso para controlar la bola y protege a la nave nodriza de los robots invasores. ¡Mejora tu equipo y tus habilidades para ganar la guerra!",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3498700/5551d6ea2d075752c744830204eb47a5376817ed/header.jpg?t=1795434153",
-        "type": "game",
-        "shortDescriptionEn": "A thrilling top-down shooter inspired by pinball mechanics. Master your weapon and use the recoil to control your ball, while protecting your mothership from waves of invading robots. Upgrade your equipment, polish your skills, and win the war!",
-        "score": 0.781
-      },
-      {
-        "id": "steam:4443690",
-        "appid": "4443690",
-        "source": "steam",
-        "name": "Cornerwitch",
-        "url": "https://store.steampowered.com/app/4443690/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443690/e72ab07b8d53a25ea9cebcdf6bc01570c26cfdbe/header.jpg?t=1795636577",
-        "releaseDate": "2026-11-23",
-        "releaseText": "23 Nov, 2026",
-        "price": "2,93€",
-        "discount": 40,
-        "reviewSummary": "Positive",
-        "reviewPct": 93,
-        "reviewCount": 29,
-        "developers": [
-          "AramiGames"
-        ],
-        "publishers": [
-          "AramiGames"
-        ],
-        "genres": [
-          "Aventura",
           "Casual",
           "Indie",
-          "Rol",
           "Simuladores"
         ],
-        "shortDescription": "Cornerwitch es un juego idle acogedor que ocupa una esquina de tu pantalla. Estudia nuevos hechizos y emprende un viaje mágico. Desbloquea objetos cosméticos para vestir a tu pequeña bruja, sube de nivel y hazte más fuerte.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443690/e72ab07b8d53a25ea9cebcdf6bc01570c26cfdbe/header.jpg?t=1795636577",
+        "shortDescription": "¡Pon en orden el taller mecánico! Clasifica las herramientas y las piezas de repuesto, coloca cada cosa en su sitio, limpia la suciedad y monta un coche pieza a pieza.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5529210/f67d54b6863efd5318e90207289ff44676f22321/header.jpg?t=1795529342",
         "type": "game",
-        "shortDescriptionEn": "Cornerwitch is a cozy idler game that sits on the corner of your screen. Study new spells and advance through a magical journey. Unlock cosmetics to dress up your little witch, level up and become stronger.",
-        "score": 0.779
-      },
-      {
-        "id": "steam:4537400",
-        "appid": "4537400",
-        "source": "steam",
-        "name": "Paper2Galgame",
-        "url": "https://store.steampowered.com/app/4537400/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537400/3797d8847558bace6d55b501dd9997987ed982b4/header.jpg?t=1795738944",
-        "releaseDate": "2026-11-26",
-        "releaseText": "26 Nov, 2026",
-        "price": "6,15€",
-        "discount": 0,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 85,
-        "reviewCount": 125,
-        "developers": [
-          "TamikiP"
-        ],
-        "publishers": [
-          "Mirako"
-        ],
-        "genres": [
-          "Casual",
-          "Indie"
-        ],
-        "shortDescription": "Turn any PDF, TXT or DOCX into an interactive visual novel. Pick an anime companion, upload a paper or any text you want to understand, and let AI turn it into a 5–10 minute story — with quizzes, voice narration, a blackboard for formulas, and full character customization via Steam Workshop.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537400/3797d8847558bace6d55b501dd9997987ed982b4/header.jpg?t=1795738944",
-        "type": "game",
-        "shortDescriptionEn": "Turn any PDF, TXT or DOCX into an interactive visual novel. Pick an anime companion, upload a paper or any text you want to understand, and let AI turn it into a 5–10 minute story — with quizzes, voice narration, a blackboard for formulas, and full character customization via Steam Workshop.",
-        "score": 0.777
+        "shortDescriptionEn": "Tidy up the auto repair shop! Sort the tools and spare parts, put everything in its place, clean off the dirt, and build a car piece by piece!",
+        "score": 0.8378
       }
     ],
     "topMonth": [
@@ -790,7 +794,7 @@
         "discount": 0,
         "reviewSummary": "Overwhelmingly Positive",
         "reviewPct": 99,
-        "reviewCount": 825,
+        "reviewCount": 852,
         "developers": [
           "Nicolás G. Cid Delgado"
         ],
@@ -805,7 +809,7 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4088360/d4c7dd041535d756aa2bf81c31b0448969875b3d/header_spanish.jpg?t=1794225623",
         "type": "game",
         "shortDescriptionEn": "Search the ashes of an abandoned Latin American town and uncover 400 years of secrets. An epic non-linear mystery where you travel back in time and untangle the history of a community cursed by generations of supernatural forces.",
-        "score": 0.9806
+        "score": 0.9808
       },
       {
         "id": "steam:5037200",
@@ -820,7 +824,7 @@
         "discount": 0,
         "reviewSummary": "Overwhelmingly Positive",
         "reviewPct": 98,
-        "reviewCount": 3357,
+        "reviewCount": 3505,
         "developers": [
           "temkosoft"
         ],
@@ -837,7 +841,7 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1793764414",
         "type": "game",
         "shortDescriptionEn": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s & 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
-        "score": 0.9747
+        "score": 0.9748
       },
       {
         "id": "steam:5365570",
@@ -852,7 +856,7 @@
         "discount": 0,
         "reviewSummary": "Very Positive",
         "reviewPct": 99,
-        "reviewCount": 281,
+        "reviewCount": 287,
         "developers": [
           "Nappa Studio",
           "Unicornio"
@@ -869,7 +873,7 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365570/5045bca95b8856af6788df93a78febcbf484b95e/header.jpg?t=1794610784",
         "type": "game",
         "shortDescriptionEn": "MATE, This Place is a MESS! is a cozy organizing game where you sort 5,000 yerba mate packages in a messy museum. Fill the shelves, brew your mate, unlock abilities and kick packages into place. At the end of the hall, a huge curtain hides the truth about the museum. What could it be?",
-        "score": 0.9701
+        "score": 0.9704
       },
       {
         "id": "steam:4390080",
@@ -884,7 +888,7 @@
         "discount": 0,
         "reviewSummary": "Very Positive",
         "reviewPct": 99,
-        "reviewCount": 271,
+        "reviewCount": 277,
         "developers": [
           "monoii studio"
         ],
@@ -900,37 +904,40 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4390080/2d72fb041335f66b827b1ec3db8191c70aab4642/header.jpg?t=1793622391",
         "type": "game",
         "shortDescriptionEn": "Join a family of bears and run the buzziest little honey farm! Collect and discover rare bees, bottle honey jars, expand your farm, and watch your flowery field bloom in this cozy idle management game.",
-        "score": 0.9695
+        "score": 0.9699
       },
       {
-        "id": "steam:5568320",
-        "appid": "5568320",
+        "id": "steam:5052710",
+        "appid": "5052710",
         "source": "steam",
-        "name": "Chinese-Style Exams",
-        "url": "https://store.steampowered.com/app/5568320/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568320/de2592113bea917475570564cc3658646150b20b/header_spanish.jpg?t=1795530424",
-        "releaseDate": "2026-11-24",
-        "releaseText": "24 Nov, 2026",
-        "price": "0,79€",
+        "name": "lucky me",
+        "url": "https://store.steampowered.com/app/5052710/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052710/d4716158fa20176c0281dfb592a3913529aebbb7/header.jpg?t=1795835683",
+        "releaseDate": "2026-11-27",
+        "releaseText": "27 Nov, 2026",
+        "price": "9,99€",
         "discount": 20,
         "reviewSummary": "Very Positive",
         "reviewPct": 99,
-        "reviewCount": 206,
+        "reviewCount": 261,
         "developers": [
-          "Style Studio"
+          "Jilin miaomiao",
+          "Mountain&Sea Studio"
         ],
         "publishers": [
-          "Style Studio"
+          "Mountain&Sea Studio",
+          "Jilin miaomiao"
         ],
         "genres": [
+          "Casual",
           "Indie",
-          "Simuladores"
+          "Rol"
         ],
-        "shortDescription": "¿Cuánto recuerdas del colegio? En este simulador de exámenes para un jugador, empieza con el pinyin y la aritmética y llega hasta la prueba de acceso a la universidad en China. Escribe redacciones, muestra tus cálculos y repasa los exámenes corregidos para ver dónde has ganado o perdido puntos.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568320/de2592113bea917475570564cc3658646150b20b/header_spanish.jpg?t=1795530424",
+        "shortDescription": "Un juego romántico interactivo con actores reales. Tras suspender un examen, Lin Yu es el único hombre de un programa de citas y viajes. Conoce a cuatro chicas en primera persona y decide tus relaciones y finales. ¿Creerás en el amor ante las cámaras o en los sentimientos fuera de ellas?",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052710/d4716158fa20176c0281dfb592a3913529aebbb7/header.jpg?t=1795835683",
         "type": "game",
-        "shortDescriptionEn": "How much do you remember from school? Start with pinyin and arithmetic, then work your way up to China's university entrance exam in this single-player exam simulator. Write essays, show your work in math, and open your marked papers to see where you earned or lost points.",
-        "score": 0.9649
+        "shortDescriptionEn": "A live-action interactive romance. Lin Yu joins a travel dating show as its only male contestant after failing his exams. Meet four women in first person, shape relationships through dates and choices, and discover multiple endings. Is the love on camera real?",
+        "score": 0.969
       },
       {
         "id": "steam:4767430",
@@ -945,7 +952,7 @@
         "discount": 0,
         "reviewSummary": "Overwhelmingly Positive",
         "reviewPct": 98,
-        "reviewCount": 563,
+        "reviewCount": 566,
         "developers": [
           "RainbowGame"
         ],
@@ -977,7 +984,7 @@
         "discount": 0,
         "reviewSummary": "Overwhelmingly Positive",
         "reviewPct": 97,
-        "reviewCount": 2879,
+        "reviewCount": 2942,
         "developers": [
           "LuisDev"
         ],
@@ -994,7 +1001,7 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133900/19aa14ebe3720e02f7f8c720abbf9749cf36967f/header.jpg?t=1794160548",
         "type": "game",
         "shortDescriptionEn": "A juicy first-person incremental game about turning cute creatures into cans. Kill them, collect their bodies, can them, and sell them. Make money, upgrade your weapons and machines, and produce more and more.",
-        "score": 0.9631
+        "score": 0.9632
       },
       {
         "id": "steam:3687090",
@@ -1009,7 +1016,7 @@
         "discount": 0,
         "reviewSummary": "Overwhelmingly Positive",
         "reviewPct": 97,
-        "reviewCount": 1811,
+        "reviewCount": 1888,
         "developers": [
           "DieCorp Games"
         ],
@@ -1024,7 +1031,7 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3687090/af03fa8cadd860459554ac85a2e47c47190c9f90/header.jpg?t=1793219730",
         "type": "game",
         "shortDescriptionEn": "Dice Hoarder is a cozy organizing game where you restock a mysterious dice shop. Sort every die in the shop, match them into complete seven-piece sets, and uncover what is hidden behind your new job.",
-        "score": 0.9611
+        "score": 0.9613
       },
       {
         "id": "steam:5378110",
@@ -1039,7 +1046,7 @@
         "discount": 0,
         "reviewSummary": "Overwhelmingly Positive",
         "reviewPct": 97,
-        "reviewCount": 1614,
+        "reviewCount": 1728,
         "developers": [
           "Superdou"
         ],
@@ -1055,10 +1062,40 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5378110/9ac5251c1c2fd82c9b6fc5205e71dc94f65ec583/header.jpg?t=1793980608",
         "type": "game",
         "shortDescriptionEn": "Mow lawns in first person on a beat-up riding mower, solo or online co-op up to 6 players. You're a grumpy old man who smokes, drinks cheap beer and doesn't care, but leaves perfect stripes. A picky neighbor, an abandoned golf course, an island wedding.",
-        "score": 0.9605
+        "score": 0.9609
       }
     ],
     "hiddenGems": [
+      {
+        "id": "steam:5568320",
+        "appid": "5568320",
+        "source": "steam",
+        "name": "Chinese-Style Exams",
+        "url": "https://store.steampowered.com/app/5568320/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568320/de2592113bea917475570564cc3658646150b20b/header_spanish.jpg?t=1795530424",
+        "releaseDate": "2026-11-24",
+        "releaseText": "24 Nov, 2026",
+        "price": "0,79€",
+        "discount": 20,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 98,
+        "reviewCount": 209,
+        "developers": [
+          "Style Studio"
+        ],
+        "publishers": [
+          "Style Studio"
+        ],
+        "genres": [
+          "Indie",
+          "Simuladores"
+        ],
+        "shortDescription": "¿Cuánto recuerdas del colegio? En este simulador de exámenes para un jugador, empieza con el pinyin y la aritmética y llega hasta la prueba de acceso a la universidad en China. Escribe redacciones, muestra tus cálculos y repasa los exámenes corregidos para ver dónde has ganado o perdido puntos.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5568320/de2592113bea917475570564cc3658646150b20b/header_spanish.jpg?t=1795530424",
+        "type": "game",
+        "shortDescriptionEn": "How much do you remember from school? Start with pinyin and arithmetic, then work your way up to China's university entrance exam in this single-player exam simulator. Write essays, show your work in math, and open your marked papers to see where you earned or lost points.",
+        "score": 0.9506
+      },
       {
         "id": "steam:3412560",
         "appid": "3412560",
@@ -1107,7 +1144,7 @@
         "discount": 0,
         "reviewSummary": "Very Positive",
         "reviewPct": 98,
-        "reviewCount": 192,
+        "reviewCount": 196,
         "developers": [
           "Panello Games"
         ],
@@ -1123,7 +1160,7 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555040/192bba964fd44411120b9a812eac0b4addf4952d/header.jpg?t=1793886345",
         "type": "game",
         "shortDescriptionEn": "Sushiamo is a roguelike deck-builder where you make sushi to reach absurd scores. Discover unique ingredients, sauces, game-changing tools, and navigate the map to break the game with insane combos!",
-        "score": 0.9488
+        "score": 0.9493
       },
       {
         "id": "steam:4960570",
@@ -1138,7 +1175,7 @@
         "discount": 0,
         "reviewSummary": "Very Positive",
         "reviewPct": 99,
-        "reviewCount": 105,
+        "reviewCount": 106,
         "developers": [
           "Lighthouse Game Studio"
         ],
@@ -1154,7 +1191,7 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960570/1d3527c02e3f6a188036909a5b41d653a1ff8065/header.jpg?t=1793928648",
         "type": "game",
         "shortDescriptionEn": "An idle cultivation game at the bottom of your desktop. While you work, your thief steals, sells fakes and auctions loot to ascend. When Heaven notices, can he still steal his way to the top?",
-        "score": 0.9472
+        "score": 0.9476
       },
       {
         "id": "steam:5019170",
@@ -1187,99 +1224,6 @@
         "score": 0.943
       },
       {
-        "id": "steam:4946440",
-        "appid": "4946440",
-        "source": "steam",
-        "name": "Granule",
-        "url": "https://store.steampowered.com/app/4946440/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4946440/d4fb44826f084a1a23fa3dd08cb4c46c18583daa/header.jpg?t=1794255272",
-        "releaseDate": "2026-11-18",
-        "releaseText": "18 Nov, 2026",
-        "price": "8,69€",
-        "discount": 0,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 98,
-        "reviewCount": 150,
-        "developers": [
-          "Tevark"
-        ],
-        "publishers": [
-          "Tevark"
-        ],
-        "genres": [
-          "Acción",
-          "Indie",
-          "Simuladores",
-          "Acceso anticipado"
-        ],
-        "shortDescription": "A physics sandbox about Murray, who didn't let a witch merge onto the highway. She sent him to The Granule, and something already lives there. You. Burn, freeze, shock, slice, and mend him. None of it is scripted, and the room is not all there is.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4946440/d4fb44826f084a1a23fa3dd08cb4c46c18583daa/header.jpg?t=1794255272",
-        "type": "game",
-        "shortDescriptionEn": "A physics sandbox about Murray, who didn't let a witch merge onto the highway. She sent him to The Granule, and something already lives there. You. Burn, freeze, shock, slice, and mend him. None of it is scripted, and the room is not all there is.",
-        "score": 0.9429
-      },
-      {
-        "id": "steam:2483700",
-        "appid": "2483700",
-        "source": "steam",
-        "name": "HARMA",
-        "url": "https://store.steampowered.com/app/2483700/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/16ef2cf7570d03f263f6df2b2e3ea01c199a0566/header.jpg?t=1793780638",
-        "releaseDate": "2026-11-16",
-        "releaseText": "16 Nov, 2026",
-        "price": "12,49€",
-        "discount": 0,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 97,
-        "reviewCount": 259,
-        "developers": [
-          "IndirectShine"
-        ],
-        "publishers": [
-          "Astrolabe Games"
-        ],
-        "genres": [
-          "Indie",
-          "Estrategia",
-          "Acceso anticipado"
-        ],
-        "shortDescription": "HARMA es un juego de construcción de mazos roguelike de alta dificultad que combina una historia dura con una experiencia de juego extremadamente desafiante. Los demonios están destruyendo este mundo. Lucha contra los males del mundo en un destino irracional. Y demuestra que estuviste aquí.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/16ef2cf7570d03f263f6df2b2e3ea01c199a0566/header.jpg?t=1793780638",
-        "type": "game",
-        "shortDescriptionEn": "HARMA is a retro dark fantasy roguelike deckbuilding game featuring a story-driven campaign. Uncover the truth behind the fallen knights, the burning kingdom, and your missing father. Harness the power of mighty artifacts to defeat demons and save a world on the brink of destruction.",
-        "score": 0.9414
-      },
-      {
-        "id": "steam:3934180",
-        "appid": "3934180",
-        "source": "steam",
-        "name": "Don Memo",
-        "url": "https://store.steampowered.com/app/3934180/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934180/65c9a604d1be0f714c19b65db2f1341a4fd28a35/header.jpg?t=1795046440",
-        "releaseDate": "2026-11-18",
-        "releaseText": "18 Nov, 2026",
-        "price": "15,50€",
-        "discount": 0,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 100,
-        "reviewCount": 56,
-        "developers": [
-          "Bear Sneeze",
-          "Colorblind Pixel"
-        ],
-        "publishers": [
-          "Bear Sneeze"
-        ],
-        "genres": [
-          "Aventura"
-        ],
-        "shortDescription": "Don Memo es un valiente toro que emprende un último viaje a través de Costa Rica para rescatar a su nieta y enfrentar al Pisuicas. Lucha contra leyendas y sombras del pasado en este pixel platformer 2D, mientras cargas con el legado de una familia destinada a proteger al mundo del mal.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934180/65c9a604d1be0f714c19b65db2f1341a4fd28a35/header.jpg?t=1795046440",
-        "type": "game",
-        "shortDescriptionEn": "Don Memo is a brave bull who embarks on one final journey across Costa Rica to rescue his granddaughter and confront Pisuicas. Fight against legends and shadows of the past in this 2D pixel platformer, while carrying the legacy of a family destined to protect the world from evil.",
-        "score": 0.9358
-      },
-      {
         "id": "steam:3582690",
         "appid": "3582690",
         "source": "steam",
@@ -1292,7 +1236,7 @@
         "discount": 10,
         "reviewSummary": "Very Positive",
         "reviewPct": 100,
-        "reviewCount": 56,
+        "reviewCount": 62,
         "developers": [
           "Upstart Games"
         ],
@@ -1309,70 +1253,37 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3582690/c470f8dc4be2e0d18321ef9c8605a672ac33bcd5/header.jpg?t=1795246078",
         "type": "game",
         "shortDescriptionEn": "A co-op horror game where you and up to 5 friends clean, fix and survive, in a lo-fi mall with high-key problems. Welcome to the Night Crew - you are NOT paid enough for this!",
-        "score": 0.9358
+        "score": 0.9417
       },
       {
-        "id": "steam:5190580",
-        "appid": "5190580",
+        "id": "steam:3934180",
+        "appid": "3934180",
         "source": "steam",
-        "name": "HELENA : Cloud District",
-        "url": "https://store.steampowered.com/app/5190580/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190580/1f274f8282617700a1da4fd43b33d17e7fee7218/header.jpg?t=1793300989",
-        "releaseDate": "2026-10-29",
-        "releaseText": "29 Oct, 2026",
-        "price": "Gratis",
+        "name": "Don Memo",
+        "url": "https://store.steampowered.com/app/3934180/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934180/65c9a604d1be0f714c19b65db2f1341a4fd28a35/header.jpg?t=1795046440",
+        "releaseDate": "2026-11-18",
+        "releaseText": "18 Nov, 2026",
+        "price": "15,50€",
         "discount": 0,
         "reviewSummary": "Very Positive",
-        "reviewPct": 97,
-        "reviewCount": 192,
+        "reviewPct": 100,
+        "reviewCount": 61,
         "developers": [
-          "Helena : Cloud District"
+          "Bear Sneeze",
+          "Colorblind Pixel"
         ],
         "publishers": [
-          "Helena : Cloud District"
+          "Bear Sneeze"
         ],
         "genres": [
-          "Aventura",
-          "Indie",
-          "Free to Play"
+          "Aventura"
         ],
-        "shortDescription": "HELENA: Cloud District is an atmospheric first-person exploration game where you explore a decaying mega-structure to photograph strange plants and uncover fragments of melancholic memories.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190580/1f274f8282617700a1da4fd43b33d17e7fee7218/header.jpg?t=1793300989",
+        "shortDescription": "Don Memo es un valiente toro que emprende un último viaje a través de Costa Rica para rescatar a su nieta y enfrentar al Pisuicas. Lucha contra leyendas y sombras del pasado en este pixel platformer 2D, mientras cargas con el legado de una familia destinada a proteger al mundo del mal.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934180/65c9a604d1be0f714c19b65db2f1341a4fd28a35/header.jpg?t=1795046440",
         "type": "game",
-        "shortDescriptionEn": "HELENA: Cloud District is an atmospheric first-person exploration game where you explore a decaying mega-structure to photograph strange plants and uncover fragments of melancholic memories.",
-        "score": 0.9352
-      },
-      {
-        "id": "steam:4593380",
-        "appid": "4593380",
-        "source": "steam",
-        "name": "Ikemen Big Bang: A Dating Game About Potentially Hot Guys",
-        "url": "https://store.steampowered.com/app/4593380/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/44c06a5ea580c81cf1c57255377cdec8cca235c6/header.jpg?t=1794282611",
-        "releaseDate": "2026-11-16",
-        "releaseText": "16 Nov, 2026",
-        "price": "3,99€",
-        "discount": 20,
-        "reviewSummary": "Very Positive",
-        "reviewPct": 97,
-        "reviewCount": 167,
-        "developers": [
-          "Mikimaki"
-        ],
-        "publishers": [
-          "Mikimaki",
-          "346lab Localization"
-        ],
-        "genres": [
-          "Aventura",
-          "Casual",
-          "Indie"
-        ],
-        "shortDescription": "“That customer today might turn hot! Maybe you should trust your gut and try dating him!” Encouraged by your pet chinchilla, you start a trial relationship on a hunch! Will he actually turn hot… or not!? A romantic comedy Otome game. Fully voiced (except for the protagonist).",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593380/44c06a5ea580c81cf1c57255377cdec8cca235c6/header.jpg?t=1794282611",
-        "type": "game",
-        "shortDescriptionEn": "“That customer today might turn hot! Maybe you should trust your gut and try dating him!” Encouraged by your pet chinchilla, you start a trial relationship on a hunch! Will he actually turn hot… or not!? A romantic comedy Otome game. Fully voiced (except for the protagonist).",
-        "score": 0.9318
+        "shortDescriptionEn": "Don Memo is a brave bull who embarks on one final journey across Costa Rica to rescue his granddaughter and confront Pisuicas. Fight against legends and shadows of the past in this 2D pixel platformer, while carrying the legacy of a family destined to protect the world from evil.",
+        "score": 0.9408
       },
       {
         "id": "steam:2742720",
@@ -1387,7 +1298,7 @@
         "discount": 0,
         "reviewSummary": "Very Positive",
         "reviewPct": 100,
-        "reviewCount": 50,
+        "reviewCount": 53,
         "developers": [
           "Nova-box"
         ],
@@ -1401,36 +1312,132 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742720/13deec50f0602e7b93499503505d7fe6e3cb197c/header.jpg?t=1794420301",
         "type": "game",
         "shortDescriptionEn": "Lena wants to step into the limelight, but the voice in her head has other plans. Between artistic ambitions, romance, family mysteries and the call of the occult, the ways toward your destiny are multiple and tortuous. Lena, Magdalena ou Madeleine… Who will you be when the curtain falls?",
-        "score": 0.9286
+        "score": 0.9324
       },
       {
-        "id": "steam:4602120",
-        "appid": "4602120",
+        "id": "steam:4946440",
+        "appid": "4946440",
         "source": "steam",
-        "name": "500 FINGER FILLET",
-        "url": "https://store.steampowered.com/app/4602120/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4602120/2cdb600c19c89e4883e235fa9108708ede0a26c0/header.jpg?t=1794495489",
-        "releaseDate": "2026-11-12",
-        "releaseText": "12 Nov, 2026",
-        "price": "5,19€",
+        "name": "Granule",
+        "url": "https://store.steampowered.com/app/4946440/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4946440/d4fb44826f084a1a23fa3dd08cb4c46c18583daa/header.jpg?t=1794255272",
+        "releaseDate": "2026-11-18",
+        "releaseText": "18 Nov, 2026",
+        "price": "8,69€",
         "discount": 0,
         "reviewSummary": "Very Positive",
         "reviewPct": 97,
-        "reviewCount": 145,
+        "reviewCount": 157,
         "developers": [
-          "DEADBODY Games"
+          "Tevark"
         ],
         "publishers": [
-          "DEADBODY Games"
+          "Tevark"
         ],
         "genres": [
+          "Acción",
+          "Indie",
+          "Simuladores",
+          "Acceso anticipado"
+        ],
+        "shortDescription": "A physics sandbox about Murray, who didn't let a witch merge onto the highway. She sent him to The Granule, and something already lives there. You. Burn, freeze, shock, slice, and mend him. None of it is scripted, and the room is not all there is.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4946440/d4fb44826f084a1a23fa3dd08cb4c46c18583daa/header.jpg?t=1794255272",
+        "type": "game",
+        "shortDescriptionEn": "A physics sandbox about Murray, who didn't let a witch merge onto the highway. She sent him to The Granule, and something already lives there. You. Burn, freeze, shock, slice, and mend him. None of it is scripted, and the room is not all there is.",
+        "score": 0.9301
+      },
+      {
+        "id": "steam:4773720",
+        "appid": "4773720",
+        "source": "steam",
+        "name": "A Real Life Party",
+        "url": "https://store.steampowered.com/app/4773720/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773720/96ce1b1c0fec392d69634e2a3546ab077f692261/header.jpg?t=1795760102",
+        "releaseDate": "2026-11-26",
+        "releaseText": "26 Nov, 2026",
+        "price": "3,74€",
+        "discount": 25,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 98,
+        "reviewCount": 100,
+        "developers": [
+          "Anton Pätsi"
+        ],
+        "publishers": [
+          "Silakka Entertainment"
+        ],
+        "genres": [
+          "Indie",
+          "Simuladores"
+        ],
+        "shortDescription": "A 30 minute photographed social disaster. And you're invited!",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773720/96ce1b1c0fec392d69634e2a3546ab077f692261/header.jpg?t=1795760102",
+        "type": "game",
+        "shortDescriptionEn": "A 30 minute photographed social disaster. And you're invited!",
+        "score": 0.93
+      },
+      {
+        "id": "steam:2483700",
+        "appid": "2483700",
+        "source": "steam",
+        "name": "HARMA",
+        "url": "https://store.steampowered.com/app/2483700/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/16ef2cf7570d03f263f6df2b2e3ea01c199a0566/header.jpg?t=1793780638",
+        "releaseDate": "2026-11-16",
+        "releaseText": "16 Nov, 2026",
+        "price": "12,49€",
+        "discount": 0,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 96,
+        "reviewCount": 265,
+        "developers": [
+          "IndirectShine"
+        ],
+        "publishers": [
+          "Astrolabe Games"
+        ],
+        "genres": [
+          "Indie",
+          "Estrategia",
+          "Acceso anticipado"
+        ],
+        "shortDescription": "HARMA es un juego de construcción de mazos roguelike de alta dificultad que combina una historia dura con una experiencia de juego extremadamente desafiante. Los demonios están destruyendo este mundo. Lucha contra los males del mundo en un destino irracional. Y demuestra que estuviste aquí.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483700/16ef2cf7570d03f263f6df2b2e3ea01c199a0566/header.jpg?t=1793780638",
+        "type": "game",
+        "shortDescriptionEn": "HARMA is a retro dark fantasy roguelike deckbuilding game featuring a story-driven campaign. Uncover the truth behind the fallen knights, the burning kingdom, and your missing father. Harness the power of mighty artifacts to defeat demons and save a world on the brink of destruction.",
+        "score": 0.9291
+      },
+      {
+        "id": "steam:4642320",
+        "appid": "4642320",
+        "source": "steam",
+        "name": "Dig! Dig! Dino!",
+        "url": "https://store.steampowered.com/app/4642320/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642320/4f09237a9c07e5deb3a8f0d3f3737ddc2efbe45b/header_alt_assets_0.jpg?t=1795022648",
+        "releaseDate": "2026-11-18",
+        "releaseText": "18 Nov, 2026",
+        "price": "5,19€",
+        "discount": 0,
+        "reviewSummary": "Very Positive",
+        "reviewPct": 100,
+        "reviewCount": 50,
+        "developers": [
+          "Dom2D ",
+          "Fáyer"
+        ],
+        "publishers": [
+          "Fáyer"
+        ],
+        "genres": [
+          "Aventura",
+          "Casual",
           "Indie"
         ],
-        "shortDescription": "500 STABS. 20 MINUTES TO ESCAPE. A horror roguelite about stabbing yourself in the hand 500 times to escape a deadly trap. Can you make it out with all your fingers? Or will you bleed out on the table?",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4602120/2cdb600c19c89e4883e235fa9108708ede0a26c0/header.jpg?t=1794495489",
+        "shortDescription": "Dig Dig Dino! is a game about digging... For dinosaurs bones and other treasure!",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642320/4f09237a9c07e5deb3a8f0d3f3737ddc2efbe45b/header_alt_assets_0.jpg?t=1795022648",
         "type": "game",
-        "shortDescriptionEn": "500 STABS. 20 MINUTES TO ESCAPE. A horror roguelite about stabbing yourself in the hand 500 times to escape a deadly trap. Can you make it out with all your fingers? Or will you bleed out on the table?",
-        "score": 0.9279
+        "shortDescriptionEn": "Dig Dig Dino! is a game about digging... For dinosaurs bones and other treasure!",
+        "score": 0.9286
       }
     ],
     "upcoming": [
@@ -1448,7 +1455,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 2,
+        "popularityRank": 1,
         "developers": [
           "Skyturns"
         ],
@@ -1480,7 +1487,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 3,
+        "popularityRank": 2,
         "developers": [
           "Alliance Arts",
           "WHO YOU"
@@ -1497,6 +1504,38 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150720/7d4ab50bd6073a912094cb2b17d0617415e002d3/header.jpg?t=1792768849",
         "type": "game",
         "shortDescriptionEn": "Face off in a Russian roulette drinking survival with a demon who'd kill for you—or kill you—where it's puke or be puked on for your soul. The more you drink, the more the rules break down, until it all spills into one hell of a night you'll never forget.",
+        "score": 0
+      },
+      {
+        "id": "steam:3509380",
+        "appid": "3509380",
+        "source": "steam",
+        "name": "GrimKeep",
+        "url": "https://store.steampowered.com/app/3509380/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509380/279078e15a06e12b0065475534db7e94b0d2528c/header.jpg?t=1795172496",
+        "releaseDate": "2026-11-30",
+        "releaseText": "30 Nov, 2026",
+        "price": null,
+        "discount": 0,
+        "reviewSummary": null,
+        "reviewPct": null,
+        "reviewCount": 0,
+        "popularityRank": 3,
+        "developers": [
+          "Resolution Games"
+        ],
+        "publishers": [
+          "Resolution Games"
+        ],
+        "genres": [
+          "Aventura",
+          "Indie",
+          "Rol"
+        ],
+        "shortDescription": "GrimKeep es un roguelite de composición de dados inspirado en un cuento de hadas de pesadilla. Encuentra objetos, tira los dados y optimiza tu build para desatar un daño brutal. Ábrete paso entre los horrores de la ciudad maldita hasta llegar a la Princesa. Y luego acaba con ella.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509380/279078e15a06e12b0065475534db7e94b0d2528c/header.jpg?t=1795172496",
+        "type": "game",
+        "shortDescriptionEn": "GrimKeep is a roguelite dice-builder in a nightmare fairytale. Find items, roll your dice, and optimize your build to fire off massive damage. Cut through the horrors in the cursed city to get to the Princess. Then end her.",
         "score": 0
       },
       {
@@ -1535,38 +1574,6 @@
         "score": 0
       },
       {
-        "id": "steam:3509380",
-        "appid": "3509380",
-        "source": "steam",
-        "name": "GrimKeep",
-        "url": "https://store.steampowered.com/app/3509380/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509380/279078e15a06e12b0065475534db7e94b0d2528c/header.jpg?t=1795172496",
-        "releaseDate": "2026-11-30",
-        "releaseText": "30 Nov, 2026",
-        "price": null,
-        "discount": 0,
-        "reviewSummary": null,
-        "reviewPct": null,
-        "reviewCount": 0,
-        "popularityRank": 5,
-        "developers": [
-          "Resolution Games"
-        ],
-        "publishers": [
-          "Resolution Games"
-        ],
-        "genres": [
-          "Aventura",
-          "Indie",
-          "Rol"
-        ],
-        "shortDescription": "GrimKeep es un roguelite de composición de dados inspirado en un cuento de hadas de pesadilla. Encuentra objetos, tira los dados y optimiza tu build para desatar un daño brutal. Ábrete paso entre los horrores de la ciudad maldita hasta llegar a la Princesa. Y luego acaba con ella.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509380/279078e15a06e12b0065475534db7e94b0d2528c/header.jpg?t=1795172496",
-        "type": "game",
-        "shortDescriptionEn": "GrimKeep is a roguelite dice-builder in a nightmare fairytale. Find items, roll your dice, and optimize your build to fire off massive damage. Cut through the horrors in the cursed city to get to the Princess. Then end her.",
-        "score": 0
-      },
-      {
         "id": "steam:5427110",
         "appid": "5427110",
         "source": "steam",
@@ -1580,7 +1587,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 6,
+        "popularityRank": 5,
         "developers": [
           "Velto Games"
         ],
@@ -1596,6 +1603,38 @@
         "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5427110/6ae17d67a62ca84579558904b4feda3d26ae5c49/header.jpg?t=1794403611",
         "type": "game",
         "shortDescriptionEn": "Lost Bitcoin is a digging and automation game set in a gigantic junkyard. Collect scrap, burn it for coins, buy upgrades and build a factory that works for you. Crack crates and safes, and check every USB stick to find your lost Bitcoin wallet.",
+        "score": 0
+      },
+      {
+        "id": "steam:3788110",
+        "appid": "3788110",
+        "source": "steam",
+        "name": "DungeonBox",
+        "url": "https://store.steampowered.com/app/3788110/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3788110/058085a00bdcd2ab4bc9ccda5ca880d086dae2f4/header.jpg?t=1794705191",
+        "releaseDate": "2026-12-01",
+        "releaseText": "1 Dec, 2026",
+        "price": null,
+        "discount": 0,
+        "reviewSummary": null,
+        "reviewPct": null,
+        "reviewCount": 0,
+        "popularityRank": 6,
+        "developers": [
+          "Foxtail Games LLC"
+        ],
+        "publishers": [
+          "Foxtail Games LLC"
+        ],
+        "genres": [
+          "Casual",
+          "Indie",
+          "Rol"
+        ],
+        "shortDescription": "Un juego de fiesta de fantasía para hasta 8 jugadores, en el que todos participan desde su móvil. ¡Escribe lo que quieres hacer, vota la mejor idea y tira los dados para ver si sale bien!",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3788110/058085a00bdcd2ab4bc9ccda5ca880d086dae2f4/header.jpg?t=1794705191",
+        "type": "game",
+        "shortDescriptionEn": "A fantasy party game for up to 8 players, where everyone joins in from their phones. Type what you want to do, vote for the best idea, and roll dice to see if it works!",
         "score": 0
       },
       {
@@ -1630,70 +1669,6 @@
         "score": 0
       },
       {
-        "id": "steam:3788110",
-        "appid": "3788110",
-        "source": "steam",
-        "name": "DungeonBox",
-        "url": "https://store.steampowered.com/app/3788110/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3788110/058085a00bdcd2ab4bc9ccda5ca880d086dae2f4/header.jpg?t=1794705191",
-        "releaseDate": "2026-12-01",
-        "releaseText": "1 Dec, 2026",
-        "price": null,
-        "discount": 0,
-        "reviewSummary": null,
-        "reviewPct": null,
-        "reviewCount": 0,
-        "popularityRank": 8,
-        "developers": [
-          "Foxtail Games LLC"
-        ],
-        "publishers": [
-          "Foxtail Games LLC"
-        ],
-        "genres": [
-          "Casual",
-          "Indie",
-          "Rol"
-        ],
-        "shortDescription": "Un juego de fiesta de fantasía para hasta 8 jugadores, en el que todos participan desde su móvil. ¡Escribe lo que quieres hacer, vota la mejor idea y tira los dados para ver si sale bien!",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3788110/058085a00bdcd2ab4bc9ccda5ca880d086dae2f4/header.jpg?t=1794705191",
-        "type": "game",
-        "shortDescriptionEn": "A fantasy party game for up to 8 players, where everyone joins in from their phones. Type what you want to do, vote for the best idea, and roll dice to see if it works!",
-        "score": 0
-      },
-      {
-        "id": "steam:4534960",
-        "appid": "4534960",
-        "source": "steam",
-        "name": "Dear Passengers",
-        "url": "https://store.steampowered.com/app/4534960/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1787132605",
-        "releaseDate": null,
-        "releaseText": "2026",
-        "price": null,
-        "discount": 0,
-        "reviewSummary": null,
-        "reviewPct": null,
-        "reviewCount": 0,
-        "popularityRank": 9,
-        "developers": [
-          "FLEXUS"
-        ],
-        "publishers": [
-          "FLEXUS"
-        ],
-        "genres": [
-          "Acción",
-          "Aventura",
-          "Indie"
-        ],
-        "shortDescription": "Juega en cooperativo como la tripulación de la peor aerolínea del mundo. Tu avión se cae a pedazos, tu carga es ilegal, y la seguridad de los pasajeros apenas entra en la lista de prioridades.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1787132605",
-        "type": "game",
-        "shortDescriptionEn": "Play in co-op as the crew of the world’s worst airline. Your plane is falling apart, your cargo is illegal, and passenger safety barely makes the list.",
-        "score": 0
-      },
-      {
         "id": "steam:2594620",
         "appid": "2594620",
         "source": "steam",
@@ -1707,7 +1682,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 10,
+        "popularityRank": 8,
         "developers": [
           "Josh O'Caoimh"
         ],
@@ -1743,7 +1718,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 11,
+        "popularityRank": 9,
         "developers": [
           "Happy Broccoli Games"
         ],
@@ -1762,6 +1737,71 @@
         "score": 0
       },
       {
+        "id": "steam:4534960",
+        "appid": "4534960",
+        "source": "steam",
+        "name": "Dear Passengers",
+        "url": "https://store.steampowered.com/app/4534960/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1787132605",
+        "releaseDate": null,
+        "releaseText": "2026",
+        "price": null,
+        "discount": 0,
+        "reviewSummary": null,
+        "reviewPct": null,
+        "reviewCount": 0,
+        "popularityRank": 10,
+        "developers": [
+          "FLEXUS"
+        ],
+        "publishers": [
+          "FLEXUS"
+        ],
+        "genres": [
+          "Acción",
+          "Aventura",
+          "Indie"
+        ],
+        "shortDescription": "Juega en cooperativo como la tripulación de la peor aerolínea del mundo. Tu avión se cae a pedazos, tu carga es ilegal, y la seguridad de los pasajeros apenas entra en la lista de prioridades.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1787132605",
+        "type": "game",
+        "shortDescriptionEn": "Play in co-op as the crew of the world’s worst airline. Your plane is falling apart, your cargo is illegal, and passenger safety barely makes the list.",
+        "score": 0
+      },
+      {
+        "id": "steam:2938980",
+        "appid": "2938980",
+        "source": "steam",
+        "name": "Unfriendly Friend",
+        "url": "https://store.steampowered.com/app/2938980/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938980/header.jpg?t=1795526281",
+        "releaseDate": "2026-12-02",
+        "releaseText": "2 Dec, 2026",
+        "price": null,
+        "discount": 0,
+        "reviewSummary": null,
+        "reviewPct": null,
+        "reviewCount": 0,
+        "popularityRank": 11,
+        "developers": [
+          "betetiro"
+        ],
+        "publishers": [
+          "betetiro"
+        ],
+        "genres": [
+          "Aventura",
+          "Indie",
+          "Rol",
+          "Acceso anticipado"
+        ],
+        "shortDescription": "Tus decisiones tienen consecuencias, y pueden hacer daño a mucha gente. ¿Podrás salvar a tus amigos... o al menos salvarte del horror que te espera?",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938980/header.jpg?t=1795526281",
+        "type": "game",
+        "shortDescriptionEn": "Go on an adventure with your friends to the abandoned St. Mercy Hospital and uncover its secrets. Can you save your friends or at least save yourself from the horror that awaits?",
+        "score": 0
+      },
+      {
         "id": "steam:5138990",
         "appid": "5138990",
         "source": "steam",
@@ -1775,7 +1815,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 13,
+        "popularityRank": 12,
         "developers": [
           "SkorpionDev"
         ],
@@ -1793,14 +1833,46 @@
         "score": 0
       },
       {
-        "id": "steam:2938980",
-        "appid": "2938980",
+        "id": "steam:5347650",
+        "appid": "5347650",
         "source": "steam",
-        "name": "Unfriendly Friend",
-        "url": "https://store.steampowered.com/app/2938980/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938980/header.jpg?t=1795526281",
-        "releaseDate": "2026-12-02",
-        "releaseText": "2 Dec, 2026",
+        "name": "Steel Umbrella",
+        "url": "https://store.steampowered.com/app/5347650/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5347650/fbf003df9a8d0c65a12fe6caf42486c0c87e385a/header.jpg?t=1795382352",
+        "releaseDate": "2026-11-30",
+        "releaseText": "30 Nov, 2026",
+        "price": null,
+        "discount": 0,
+        "reviewSummary": null,
+        "reviewPct": null,
+        "reviewCount": 0,
+        "popularityRank": 13,
+        "developers": [
+          "Praeambulus"
+        ],
+        "publishers": [
+          "Praeambulus"
+        ],
+        "genres": [
+          "Indie",
+          "Estrategia",
+          "Acceso anticipado"
+        ],
+        "shortDescription": "Defend real cities from night raids on a satellite map of the Earth. Build launchers, nets and radar by day. At night, hunt drones and missiles in the dark before they hit.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5347650/fbf003df9a8d0c65a12fe6caf42486c0c87e385a/header.jpg?t=1795382352",
+        "type": "game",
+        "shortDescriptionEn": "Defend real cities from night raids on a satellite map of the Earth. Build launchers, nets and radar by day. At night, hunt drones and missiles in the dark before they hit.",
+        "score": 0
+      },
+      {
+        "id": "steam:4314170",
+        "appid": "4314170",
+        "source": "steam",
+        "name": "Jibbers",
+        "url": "https://store.steampowered.com/app/4314170/",
+        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314170/447da533993b3cc567b0101eedb90abb9edf827b/header.jpg?t=1795015412",
+        "releaseDate": "2026-12-01",
+        "releaseText": "1 Dec, 2026",
         "price": null,
         "discount": 0,
         "reviewSummary": null,
@@ -1808,21 +1880,20 @@
         "reviewCount": 0,
         "popularityRank": 14,
         "developers": [
-          "betetiro"
+          "Leander Edler-Golla"
         ],
         "publishers": [
-          "betetiro"
+          "GWorks"
         ],
         "genres": [
-          "Aventura",
           "Indie",
-          "Rol",
-          "Acceso anticipado"
+          "Simuladores",
+          "Deportes"
         ],
-        "shortDescription": "Tus decisiones tienen consecuencias, y pueden hacer daño a mucha gente. ¿Podrás salvar a tus amigos... o al menos salvarte del horror que te espera?",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2938980/header.jpg?t=1795526281",
+        "shortDescription": "Physics-driven ski game with fully simulated bodies and flexible skis. No trick buttons. Control, timing, and motion earn every move. Full customization, tunable physics, community maps, multiplayer.",
+        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314170/447da533993b3cc567b0101eedb90abb9edf827b/header.jpg?t=1795015412",
         "type": "game",
-        "shortDescriptionEn": "Go on an adventure with your friends to the abandoned St. Mercy Hospital and uncover its secrets. Can you save your friends or at least save yourself from the horror that awaits?",
+        "shortDescriptionEn": "Physics-driven ski game with fully simulated bodies and flexible skis. No trick buttons. Control, timing, and motion earn every move. Full customization, tunable physics, community maps, multiplayer.",
         "score": 0
       },
       {
@@ -1859,70 +1930,6 @@
         "score": 0
       },
       {
-        "id": "steam:5347650",
-        "appid": "5347650",
-        "source": "steam",
-        "name": "Steel Umbrella",
-        "url": "https://store.steampowered.com/app/5347650/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5347650/fbf003df9a8d0c65a12fe6caf42486c0c87e385a/header.jpg?t=1795382352",
-        "releaseDate": "2026-11-30",
-        "releaseText": "30 Nov, 2026",
-        "price": null,
-        "discount": 0,
-        "reviewSummary": null,
-        "reviewPct": null,
-        "reviewCount": 0,
-        "popularityRank": 16,
-        "developers": [
-          "Praeambulus"
-        ],
-        "publishers": [
-          "Praeambulus"
-        ],
-        "genres": [
-          "Indie",
-          "Estrategia",
-          "Acceso anticipado"
-        ],
-        "shortDescription": "Defend real cities from night raids on a satellite map of the Earth. Build launchers, nets and radar by day. At night, hunt drones and missiles in the dark before they hit.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5347650/fbf003df9a8d0c65a12fe6caf42486c0c87e385a/header.jpg?t=1795382352",
-        "type": "game",
-        "shortDescriptionEn": "Defend real cities from night raids on a satellite map of the Earth. Build launchers, nets and radar by day. At night, hunt drones and missiles in the dark before they hit.",
-        "score": 0
-      },
-      {
-        "id": "steam:4314170",
-        "appid": "4314170",
-        "source": "steam",
-        "name": "Jibbers",
-        "url": "https://store.steampowered.com/app/4314170/",
-        "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314170/447da533993b3cc567b0101eedb90abb9edf827b/header.jpg?t=1795015412",
-        "releaseDate": "2026-12-01",
-        "releaseText": "1 Dec, 2026",
-        "price": null,
-        "discount": 0,
-        "reviewSummary": null,
-        "reviewPct": null,
-        "reviewCount": 0,
-        "popularityRank": 19,
-        "developers": [
-          "Leander Edler-Golla"
-        ],
-        "publishers": [
-          "GWorks"
-        ],
-        "genres": [
-          "Indie",
-          "Simuladores",
-          "Deportes"
-        ],
-        "shortDescription": "Physics-driven ski game with fully simulated bodies and flexible skis. No trick buttons. Control, timing, and motion earn every move. Full customization, tunable physics, community maps, multiplayer.",
-        "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4314170/447da533993b3cc567b0101eedb90abb9edf827b/header.jpg?t=1795015412",
-        "type": "game",
-        "shortDescriptionEn": "Physics-driven ski game with fully simulated bodies and flexible skis. No trick buttons. Control, timing, and motion earn every move. Full customization, tunable physics, community maps, multiplayer.",
-        "score": 0
-      },
-      {
         "id": "steam:5535320",
         "appid": "5535320",
         "source": "steam",
@@ -1936,7 +1943,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 20,
+        "popularityRank": 16,
         "developers": [
           "NOTTY"
         ],
@@ -1968,7 +1975,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 24,
+        "popularityRank": 17,
         "developers": [
           "SSF Works"
         ],
@@ -2000,7 +2007,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 25,
+        "popularityRank": 18,
         "developers": [
           "Stefaaan06"
         ],
@@ -2032,7 +2039,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 26,
+        "popularityRank": 19,
         "developers": [
           "Jalex Studio"
         ],
@@ -2064,7 +2071,7 @@
         "reviewSummary": null,
         "reviewPct": null,
         "reviewCount": 0,
-        "popularityRank": 27,
+        "popularityRank": 20,
         "developers": [
           "Pixel Smile"
         ],
@@ -2086,6 +2093,20 @@
   "itch": {
     "newThisWeek": [
       {
+        "id": "itch:eduardscarpato.itch.io/kick-the-pinata",
+        "source": "itch",
+        "name": "Kick The Piñata!",
+        "url": "https://eduardscarpato.itch.io/kick-the-pinata",
+        "image": "https://img.itch.zone/aW1nLzI5NzYxNjU2LnBuZw==/315x250%23c/K0BjDf.png",
+        "releaseDate": null,
+        "createdDate": "2026-09-03",
+        "updatedDate": "2026-11-27",
+        "price": "$3.39",
+        "shortDescription": "Grab your trusty bat and smash piñatas in this colorful and completely normal incremental game",
+        "developer": "eduardscarpato",
+        "platforms": "yes yes"
+      },
+      {
         "id": "itch:frengoestudios.itch.io/nightbound",
         "source": "itch",
         "name": "Nightbound",
@@ -2098,20 +2119,6 @@
         "shortDescription": "Cansado de tu vida como cajero, te acercas a un extraño al salir del trabajo... ¿Mala idea? VN yandere de terror",
         "developer": "frengoestudios",
         "platforms": "yes yes yes yes"
-      },
-      {
-        "id": "itch:tuyoki.itch.io/of-the-world",
-        "source": "itch",
-        "name": "Of The World",
-        "url": "https://tuyoki.itch.io/of-the-world",
-        "image": "https://img.itch.zone/aW1nLzI5NzA1OTMzLnBuZw==/315x250%23c/sw9tvI.png",
-        "releaseDate": null,
-        "createdDate": "2026-08-27",
-        "updatedDate": "2026-11-27",
-        "price": "Gratis",
-        "shortDescription": "",
-        "developer": "tuyoki",
-        "platforms": "yes"
       },
       {
         "id": "itch:objetdiscret.itch.io/tai-fab-kitchen",
@@ -2128,20 +2135,6 @@
         "platforms": "yes"
       },
       {
-        "id": "itch:eduardscarpato.itch.io/kick-the-pinata",
-        "source": "itch",
-        "name": "Kick The Piñata!",
-        "url": "https://eduardscarpato.itch.io/kick-the-pinata",
-        "image": "https://img.itch.zone/aW1nLzI5NzYxNjU2LnBuZw==/315x250%23c/K0BjDf.png",
-        "releaseDate": null,
-        "createdDate": "2026-09-03",
-        "updatedDate": "2026-11-27",
-        "price": "$3.39",
-        "shortDescription": "Grab your trusty bat and smash piñatas in this colorful and completely normal incremental game",
-        "developer": "eduardscarpato",
-        "platforms": "yes yes"
-      },
-      {
         "id": "itch:breathlesswinds.itch.io/dark-knight-girlfriend",
         "source": "itch",
         "name": "taking my Dark Knight Girlfriend to the corner store",
@@ -2156,6 +2149,34 @@
         "platforms": ""
       },
       {
+        "id": "itch:tuyoki.itch.io/of-the-world",
+        "source": "itch",
+        "name": "Of The World",
+        "url": "https://tuyoki.itch.io/of-the-world",
+        "image": "https://img.itch.zone/aW1nLzI5NzA1OTMzLnBuZw==/315x250%23c/sw9tvI.png",
+        "releaseDate": null,
+        "createdDate": "2026-08-27",
+        "updatedDate": "2026-11-28",
+        "price": "Gratis",
+        "shortDescription": "",
+        "developer": "tuyoki",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:finn-truong.itch.io/life-and-lemon",
+        "source": "itch",
+        "name": "Life and Lemon",
+        "url": "https://finn-truong.itch.io/life-and-lemon",
+        "image": "https://img.itch.zone/aW1nLzMyNjA2MzA3LnBuZw==/315x250%23c/laxp%2B0.png",
+        "releaseDate": null,
+        "createdDate": "2025-06-22",
+        "updatedDate": "2026-11-27",
+        "price": "Gratis",
+        "shortDescription": "A cozy fruit farming deckbuilder",
+        "developer": "finn-truong",
+        "platforms": "yes"
+      },
+      {
         "id": "itch:miaomarue.itch.io/your-other-half",
         "source": "itch",
         "name": "Your Other Half [DAY 2]",
@@ -2167,20 +2188,6 @@
         "price": "Gratis",
         "shortDescription": "A kidnapping plagues your relationship.",
         "developer": "miaomarue",
-        "platforms": "yes"
-      },
-      {
-        "id": "itch:finn-truong.itch.io/life-and-lemon",
-        "source": "itch",
-        "name": "Life and Lemon",
-        "url": "https://finn-truong.itch.io/life-and-lemon",
-        "image": "https://img.itch.zone/aW1nLzMyNjA2MzA3LnBuZw==/315x250%23c/laxp%2B0.png",
-        "releaseDate": null,
-        "createdDate": "2025-06-22",
-        "updatedDate": "2026-11-26",
-        "price": "Gratis",
-        "shortDescription": "A cozy fruit farming deckbuilder",
-        "developer": "finn-truong",
         "platforms": "yes"
       },
       {
@@ -2198,20 +2205,6 @@
         "platforms": "yes"
       },
       {
-        "id": "itch:mokamwww.itch.io/fried-chicken-wings",
-        "source": "itch",
-        "name": "Fried chicken wings cause love fire",
-        "url": "https://mokamwww.itch.io/fried-chicken-wings",
-        "image": "https://img.itch.zone/aW1nLzE3NjMzOTk0LmpwZw==/315x250%23c/u1uxj%2F.jpg",
-        "releaseDate": null,
-        "createdDate": "2024-08-02",
-        "updatedDate": "2026-11-22",
-        "price": "$7.99",
-        "shortDescription": "Resurrected corpse ruined my perfect life!",
-        "developer": "mokamwww",
-        "platforms": "yes yes yes yes"
-      },
-      {
         "id": "itch:polycube2.itch.io/fih",
         "source": "itch",
         "name": "LSD:FIH",
@@ -2224,20 +2217,6 @@
         "shortDescription": "FISH WITH AN AWP",
         "developer": "polycube2",
         "platforms": "yes yes"
-      },
-      {
-        "id": "itch:doksa.itch.io/amber-eyes",
-        "source": "itch",
-        "name": "Amber Eyes",
-        "url": "https://doksa.itch.io/amber-eyes",
-        "image": "https://img.itch.zone/aW1nLzMwNjMxMzM1LnBuZw==/315x250%23c/Kg2O94.png",
-        "releaseDate": null,
-        "createdDate": "2026-08-30",
-        "updatedDate": "2026-11-24",
-        "price": "Gratis",
-        "shortDescription": "Dogs and Poles not permitted entry",
-        "developer": "doksa",
-        "platforms": "yes"
       },
       {
         "id": "itch:riftborne.itch.io/riftborne",
@@ -2268,18 +2247,32 @@
         "platforms": ""
       },
       {
-        "id": "itch:serhiy-andreiev.itch.io/deferral",
+        "id": "itch:doksa.itch.io/amber-eyes",
         "source": "itch",
-        "name": "Deferral",
-        "url": "https://serhiy-andreiev.itch.io/deferral",
-        "image": "https://img.itch.zone/aW1nLzMwNzk2NDg4LnBuZw==/315x250%23c/WFAC5s.png",
+        "name": "Amber Eyes",
+        "url": "https://doksa.itch.io/amber-eyes",
+        "image": "https://img.itch.zone/aW1nLzMwNjMxMzM1LnBuZw==/315x250%23c/Kg2O94.png",
         "releaseDate": null,
-        "createdDate": "2026-10-09",
-        "updatedDate": "2026-11-22",
-        "price": "$9.99",
-        "shortDescription": "A war cult runs the country. For one week you watch it take your neighbours.",
-        "developer": "serhiy-andreiev",
+        "createdDate": "2026-08-30",
+        "updatedDate": "2026-11-24",
+        "price": "Gratis",
+        "shortDescription": "Dogs and Poles not permitted entry",
+        "developer": "doksa",
         "platforms": "yes"
+      },
+      {
+        "id": "itch:mokamwww.itch.io/fried-chicken-wings",
+        "source": "itch",
+        "name": "Fried chicken wings cause love fire",
+        "url": "https://mokamwww.itch.io/fried-chicken-wings",
+        "image": "https://img.itch.zone/aW1nLzE3NjMzOTk0LmpwZw==/315x250%23c/u1uxj%2F.jpg",
+        "releaseDate": null,
+        "createdDate": "2024-08-02",
+        "updatedDate": "2026-11-22",
+        "price": "$7.99",
+        "shortDescription": "Resurrected corpse ruined my perfect life!",
+        "developer": "mokamwww",
+        "platforms": "yes yes yes yes"
       },
       {
         "id": "itch:infinitestars.itch.io/game",
@@ -2296,6 +2289,20 @@
         "platforms": "yes yes yes yes"
       },
       {
+        "id": "itch:jeansenvaars.itch.io/pum-companion",
+        "source": "itch",
+        "name": "PUM Companion: RPG Storytelling App",
+        "url": "https://jeansenvaars.itch.io/pum-companion",
+        "image": "https://img.itch.zone/aW1nLzE2OTUwNjgzLnBuZw==/315x250%23c/s4s13q.png",
+        "releaseDate": null,
+        "createdDate": "2024-07-16",
+        "updatedDate": "2026-11-25",
+        "price": "14.99€",
+        "shortDescription": "Digital platform for storytelling using tabletop RPGs",
+        "developer": "jeansenvaars",
+        "platforms": "yes yes"
+      },
+      {
         "id": "itch:hofstudios.itch.io/doe",
         "source": "itch",
         "name": "Depth of Extinction",
@@ -2310,17 +2317,17 @@
         "platforms": "yes yes yes"
       },
       {
-        "id": "itch:poisonicestudios.itch.io/smiling-terror",
+        "id": "itch:serhiy-andreiev.itch.io/deferral",
         "source": "itch",
-        "name": "Smiling Terror",
-        "url": "https://poisonicestudios.itch.io/smiling-terror",
-        "image": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/original/hnoZTr.gif",
+        "name": "Deferral",
+        "url": "https://serhiy-andreiev.itch.io/deferral",
+        "image": "https://img.itch.zone/aW1nLzMwNzk2NDg4LnBuZw==/315x250%23c/WFAC5s.png",
         "releaseDate": null,
-        "createdDate": "2025-02-09",
-        "updatedDate": "2026-11-23",
-        "price": "Gratis",
-        "shortDescription": "90's Style Retro Survival Horror",
-        "developer": "poisonicestudios",
+        "createdDate": "2026-10-09",
+        "updatedDate": "2026-11-22",
+        "price": "$9.99",
+        "shortDescription": "A war cult runs the country. For one week you watch it take your neighbours.",
+        "developer": "serhiy-andreiev",
         "platforms": "yes"
       },
       {
@@ -2338,20 +2345,6 @@
         "platforms": "yes"
       },
       {
-        "id": "itch:jeansenvaars.itch.io/pum-companion",
-        "source": "itch",
-        "name": "PUM Companion: RPG Storytelling App",
-        "url": "https://jeansenvaars.itch.io/pum-companion",
-        "image": "https://img.itch.zone/aW1nLzE2OTUwNjgzLnBuZw==/315x250%23c/s4s13q.png",
-        "releaseDate": null,
-        "createdDate": "2024-07-16",
-        "updatedDate": "2026-11-25",
-        "price": "14.99€",
-        "shortDescription": "Digital platform for storytelling using tabletop RPGs",
-        "developer": "jeansenvaars",
-        "platforms": "yes yes"
-      },
-      {
         "id": "itch:emberhoard.itch.io/dragon-dynasty",
         "source": "itch",
         "name": "Dragon Dynasty",
@@ -2366,59 +2359,73 @@
         "platforms": "yes"
       },
       {
-        "id": "itch:bergice.itch.io/lurkers",
+        "id": "itch:kenki-fantasia.itch.io/boxing-heroines",
         "source": "itch",
-        "name": "lurkers.io",
-        "url": "https://bergice.itch.io/lurkers",
-        "image": "https://img.itch.zone/aW1nLzE0NzQ4NDU1LmdpZg==/original/PJUomq.gif",
+        "name": "BOXING HEROINES",
+        "url": "https://kenki-fantasia.itch.io/boxing-heroines",
+        "image": "https://img.itch.zone/aW1nLzMyODkyNjU4LnBuZw==/315x250%23c/e%2FfKgY.png",
         "releaseDate": null,
-        "createdDate": "2018-06-02",
-        "updatedDate": "2024-01-22",
-        "price": "Gratis",
-        "shortDescription": "Online zombie survival and other games such as open world survival!",
-        "developer": "bergice",
+        "createdDate": "2026-11-27",
+        "updatedDate": "2026-11-27",
+        "price": "$17.99",
+        "shortDescription": "First-person animated boxing against six heroines, featuring a wide variety of knockdown and KO scenes.",
+        "developer": "kenki-fantasia",
         "platforms": "yes"
       },
       {
-        "id": "itch:gfx47.itch.io/respect-the-horde",
+        "id": "itch:nordicgameslab.itch.io/ngl-biathlon",
         "source": "itch",
-        "name": "Respect The Horde (Demo)",
-        "url": "https://gfx47.itch.io/respect-the-horde",
-        "image": "https://img.itch.zone/aW1nLzMwOTAyNzEyLmdpZg==/original/Xo%2Biwy.gif",
+        "name": "NGL BIATHLON 2027",
+        "url": "https://nordicgameslab.itch.io/ngl-biathlon",
+        "image": "https://img.itch.zone/aW1nLzMyODM5OTkyLnBuZw==/315x250%23c/X4E7Zu.png",
         "releaseDate": null,
-        "createdDate": "2026-03-20",
-        "updatedDate": "2026-11-24",
+        "createdDate": "2018-11-25",
+        "updatedDate": "2026-11-27",
         "price": "Gratis",
-        "shortDescription": "You're outnumbered. Outsmart them!",
-        "developer": "gfx47",
+        "shortDescription": "Biathlon simulator with real athletes and World Cup tracks — free demo",
+        "developer": "nordicgameslab",
+        "platforms": "yes yes"
+      },
+      {
+        "id": "itch:maxteslia.itch.io/the-hollowing-demo",
+        "source": "itch",
+        "name": "The Hollowing incremental DEMO",
+        "url": "https://maxteslia.itch.io/the-hollowing-demo",
+        "image": "https://img.itch.zone/aW1nLzMxODE2OTIyLnBuZw==/315x250%23c/qT%2BiOq.png",
+        "releaseDate": null,
+        "createdDate": "2026-09-02",
+        "updatedDate": "2026-11-26",
+        "price": "Gratis",
+        "shortDescription": "Level a mountain in this incremental 3D game",
+        "developer": "maxteslia",
         "platforms": "yes"
       },
       {
-        "id": "itch:siactro.itch.io/dead-sight",
+        "id": "itch:pugsgames.itch.io/iwanttobeachild",
         "source": "itch",
-        "name": "Dead Sight",
-        "url": "https://siactro.itch.io/dead-sight",
-        "image": "https://img.itch.zone/aW1nLzIzODU1MDk3LnBuZw==/315x250%23c/w8%2Br9D.png",
+        "name": "I want to be a child (DEMO)",
+        "url": "https://pugsgames.itch.io/iwanttobeachild",
+        "image": "https://img.itch.zone/aW1nLzMyODc5NDczLnBuZw==/315x250%23c/%2BgcmzV.png",
         "releaseDate": null,
-        "createdDate": "2025-10-30",
-        "updatedDate": "2025-10-31",
+        "createdDate": "2026-11-05",
+        "updatedDate": "2026-11-27",
         "price": "Gratis",
-        "shortDescription": "Horror game based on mid 2000s dual screen handheld gaming.",
-        "developer": "siactro",
+        "shortDescription": "Family is the most precious thing you have. Whatever it is, right?",
+        "developer": "pugsgames",
         "platforms": "yes"
       },
       {
-        "id": "itch:qaqelol.itch.io/granny-problematic-hobby",
+        "id": "itch:poisonicestudios.itch.io/smiling-terror",
         "source": "itch",
-        "name": "Granny's Problematic Hobby",
-        "url": "https://qaqelol.itch.io/granny-problematic-hobby",
-        "image": "https://img.itch.zone/aW1nLzMyNjc4NjY4LnBuZw==/315x250%23c/k0x9TQ.png",
+        "name": "Smiling Terror",
+        "url": "https://poisonicestudios.itch.io/smiling-terror",
+        "image": "https://img.itch.zone/aW1nLzIyNjAzOTQzLmdpZg==/original/hnoZTr.gif",
         "releaseDate": null,
-        "createdDate": "2026-11-16",
-        "updatedDate": "2026-11-22",
+        "createdDate": "2025-02-09",
+        "updatedDate": "2026-11-28",
         "price": "Gratis",
-        "shortDescription": "Be the granny you always wanted to be!",
-        "developer": "qaqelol",
+        "shortDescription": "90's Style Retro Survival Horror",
+        "developer": "poisonicestudios",
         "platforms": "yes"
       },
       {
@@ -2436,73 +2443,73 @@
         "platforms": "yes yes yes"
       },
       {
-        "id": "itch:nordicgameslab.itch.io/ngl-biathlon",
+        "id": "itch:gfx47.itch.io/respect-the-horde",
         "source": "itch",
-        "name": "NGL BIATHLON 2027",
-        "url": "https://nordicgameslab.itch.io/ngl-biathlon",
-        "image": "https://img.itch.zone/aW1nLzMyODM5OTkyLnBuZw==/315x250%23c/X4E7Zu.png",
+        "name": "Respect The Horde (Demo)",
+        "url": "https://gfx47.itch.io/respect-the-horde",
+        "image": "https://img.itch.zone/aW1nLzMwOTAyNzEyLmdpZg==/original/Xo%2Biwy.gif",
         "releaseDate": null,
-        "createdDate": "2018-11-25",
+        "createdDate": "2026-03-20",
+        "updatedDate": "2026-11-24",
+        "price": "Gratis",
+        "shortDescription": "You're outnumbered. Outsmart them!",
+        "developer": "gfx47",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:qaqelol.itch.io/granny-problematic-hobby",
+        "source": "itch",
+        "name": "Granny's Problematic Hobby",
+        "url": "https://qaqelol.itch.io/granny-problematic-hobby",
+        "image": "https://img.itch.zone/aW1nLzMyNjc4NjY4LnBuZw==/315x250%23c/k0x9TQ.png",
+        "releaseDate": null,
+        "createdDate": "2026-11-16",
+        "updatedDate": "2026-11-22",
+        "price": "Gratis",
+        "shortDescription": "Be the granny you always wanted to be!",
+        "developer": "qaqelol",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:nikkonator5000.itch.io/malokyo",
+        "source": "itch",
+        "name": "Malokyo",
+        "url": "https://nikkonator5000.itch.io/malokyo",
+        "image": "https://img.itch.zone/aW1nLzMyODY2OTEwLnBuZw==/315x250%23c/lhLne8.png",
+        "releaseDate": null,
+        "createdDate": "2026-11-26",
         "updatedDate": "2026-11-27",
         "price": "Gratis",
-        "shortDescription": "Biathlon simulator with real athletes and World Cup tracks — free demo",
-        "developer": "nordicgameslab",
-        "platforms": "yes yes"
+        "shortDescription": "Don't look at me.",
+        "developer": "nikkonator5000",
+        "platforms": "yes yes yes"
       },
       {
-        "id": "itch:ahamuwu.itch.io/untitled-risk-of-rain-fighting-game",
+        "id": "itch:bergice.itch.io/lurkers",
         "source": "itch",
-        "name": "untitled risk of rain fighting game",
-        "url": "https://ahamuwu.itch.io/untitled-risk-of-rain-fighting-game",
-        "image": "https://img.itch.zone/aW1nLzI1OTY3Njg4LnBuZw==/315x250%23c/2f079E.png",
+        "name": "lurkers.io",
+        "url": "https://bergice.itch.io/lurkers",
+        "image": "https://img.itch.zone/aW1nLzE0NzQ4NDU1LmdpZg==/original/PJUomq.gif",
         "releaseDate": null,
-        "createdDate": "2024-04-07",
-        "updatedDate": "2026-11-24",
+        "createdDate": "2018-06-02",
+        "updatedDate": "2024-01-22",
         "price": "Gratis",
-        "shortDescription": "",
-        "developer": "ahamuwu",
+        "shortDescription": "Online zombie survival and other games such as open world survival!",
+        "developer": "bergice",
         "platforms": "yes"
       },
       {
-        "id": "itch:cyanidetimegames.itch.io/horsefield",
+        "id": "itch:househorse.itch.io/village-vs-rock",
         "source": "itch",
-        "name": "Horsefield",
-        "url": "https://cyanidetimegames.itch.io/horsefield",
-        "image": "https://img.itch.zone/aW1nLzMyNTk2NDQzLnBuZw==/315x250%23c/FlNFm1.png",
+        "name": "Village vs Rock",
+        "url": "https://househorse.itch.io/village-vs-rock",
+        "image": "https://img.itch.zone/aW1nLzMyODc5NTAxLnBuZw==/315x250%23c/wCp3zS.png",
         "releaseDate": null,
-        "createdDate": "2026-10-16",
-        "updatedDate": "2026-11-24",
-        "price": "Gratis",
-        "shortDescription": "Watch out for the horse.",
-        "developer": "cyanidetimegames",
-        "platforms": "yes"
-      },
-      {
-        "id": "itch:gyroscopik.itch.io/uma-blorbo-game",
-        "source": "itch",
-        "name": "Uma Blorbo Game",
-        "url": "https://gyroscopik.itch.io/uma-blorbo-game",
-        "image": "https://img.itch.zone/aW1nLzMyNjIzMjE1LnBuZw==/315x250%23c/ZO8He6.png",
-        "releaseDate": null,
-        "createdDate": "2026-10-25",
-        "updatedDate": "2026-11-21",
-        "price": "Gratis",
-        "shortDescription": "Make your own little uma blorbo shenanigans",
-        "developer": "gyroscopik",
-        "platforms": "yes"
-      },
-      {
-        "id": "itch:maxteslia.itch.io/the-hollowing-demo",
-        "source": "itch",
-        "name": "The Hollowing incremental DEMO",
-        "url": "https://maxteslia.itch.io/the-hollowing-demo",
-        "image": "https://img.itch.zone/aW1nLzMxODE2OTIyLnBuZw==/315x250%23c/qT%2BiOq.png",
-        "releaseDate": null,
-        "createdDate": "2026-09-02",
+        "createdDate": "2026-05-05",
         "updatedDate": "2026-11-26",
         "price": "Gratis",
-        "shortDescription": "Level a mountain in this incremental 3D game",
-        "developer": "maxteslia",
+        "shortDescription": "Raise an orc village to DESTROY ROCKS in this physics-based village-building incremental game.",
+        "developer": "househorse",
         "platforms": "yes"
       },
       {
@@ -2534,48 +2541,6 @@
         "platforms": "yes"
       },
       {
-        "id": "itch:master-linkuei.itch.io/karnov-for-the-sega-mega-drive",
-        "source": "itch",
-        "name": "Karnov For the SEGA Mega Drive",
-        "url": "https://master-linkuei.itch.io/karnov-for-the-sega-mega-drive",
-        "image": "https://img.itch.zone/aW1nLzMyNjczMTc1LmpwZw==/315x250%23c/uKgmP8.jpg",
-        "releaseDate": null,
-        "createdDate": "2026-11-22",
-        "updatedDate": "2026-11-23",
-        "price": "Gratis",
-        "shortDescription": "For the SEGA Mega Drive & Genesis",
-        "developer": "master-linkuei",
-        "platforms": ""
-      },
-      {
-        "id": "itch:milkyh3arts.itch.io/his-obsession",
-        "source": "itch",
-        "name": "His Obsession [DEMO]",
-        "url": "https://milkyh3arts.itch.io/his-obsession",
-        "image": "https://img.itch.zone/aW1nLzI5ODYzODgyLnBuZw==/315x250%23c/z7AAk0.png",
-        "releaseDate": null,
-        "createdDate": "2026-09-08",
-        "updatedDate": "2026-11-21",
-        "price": "Gratis",
-        "shortDescription": "A cannibalistic yandere becomes obsessed with you.",
-        "developer": "milkyh3arts",
-        "platforms": "yes yes"
-      },
-      {
-        "id": "itch:jzebra.itch.io/halv3d",
-        "source": "itch",
-        "name": "Halv3d",
-        "url": "https://jzebra.itch.io/halv3d",
-        "image": "https://img.itch.zone/aW1nLzMxOTU1OTE2LnBuZw==/315x250%23c/VuxB48.png",
-        "releaseDate": null,
-        "createdDate": "2026-11-07",
-        "updatedDate": "2026-11-20",
-        "price": "Gratis",
-        "shortDescription": "Cut things in half, precisely",
-        "developer": "jzebra",
-        "platforms": "yes"
-      },
-      {
         "id": "itch:glitchedlizard.itch.io/atonement-classic",
         "source": "itch",
         "name": "ATONEMENT",
@@ -2587,6 +2552,48 @@
         "price": "$3.99",
         "shortDescription": "Complete the Harbinger's trial and atone for what you've done.",
         "developer": "glitchedlizard",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:siactro.itch.io/dead-sight",
+        "source": "itch",
+        "name": "Dead Sight",
+        "url": "https://siactro.itch.io/dead-sight",
+        "image": "https://img.itch.zone/aW1nLzIzODU1MDk3LnBuZw==/315x250%23c/w8%2Br9D.png",
+        "releaseDate": null,
+        "createdDate": "2025-10-30",
+        "updatedDate": "2025-10-31",
+        "price": "Gratis",
+        "shortDescription": "Horror game based on mid 2000s dual screen handheld gaming.",
+        "developer": "siactro",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:cyanidetimegames.itch.io/horsefield",
+        "source": "itch",
+        "name": "Horsefield",
+        "url": "https://cyanidetimegames.itch.io/horsefield",
+        "image": "https://img.itch.zone/aW1nLzMyNTk2NDQzLnBuZw==/315x250%23c/FlNFm1.png",
+        "releaseDate": null,
+        "createdDate": "2026-10-16",
+        "updatedDate": "2026-11-24",
+        "price": "Gratis",
+        "shortDescription": "Watch out for the horse.",
+        "developer": "cyanidetimegames",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:ahamuwu.itch.io/untitled-risk-of-rain-fighting-game",
+        "source": "itch",
+        "name": "untitled risk of rain fighting game",
+        "url": "https://ahamuwu.itch.io/untitled-risk-of-rain-fighting-game",
+        "image": "https://img.itch.zone/aW1nLzI1OTY3Njg4LnBuZw==/315x250%23c/2f079E.png",
+        "releaseDate": null,
+        "createdDate": "2024-04-07",
+        "updatedDate": "2026-11-24",
+        "price": "Gratis",
+        "shortDescription": "",
+        "developer": "ahamuwu",
         "platforms": "yes"
       }
     ],
@@ -2605,7 +2612,7 @@
         "developer": "mrdrnose",
         "platforms": "yes",
         "rating": 4.9,
-        "ratingCount": 6071,
+        "ratingCount": 6076,
         "genres": [
           "Simulation"
         ],
@@ -2633,7 +2640,7 @@
         "developer": "coolom-games",
         "platforms": "yes",
         "rating": 4.8,
-        "ratingCount": 2137,
+        "ratingCount": 2143,
         "genres": [
           "Visual Novel",
           "Interactive Fiction"
@@ -2692,7 +2699,7 @@
         "developer": "firfireweed",
         "platforms": "yes",
         "rating": 4.9,
-        "ratingCount": 1062,
+        "ratingCount": 1063,
         "genres": [
           "Interactive Fiction"
         ],
@@ -2832,7 +2839,7 @@
         "developer": "polycube2",
         "platforms": "yes yes",
         "rating": 4.9,
-        "ratingCount": 442,
+        "ratingCount": 449,
         "genres": [
           "Shooter"
         ],
@@ -2859,7 +2866,7 @@
         "developer": "sh4dowsand",
         "platforms": "yes",
         "rating": 4.7,
-        "ratingCount": 737,
+        "ratingCount": 738,
         "genres": [
           "Survival",
           "Strategy"
@@ -2887,7 +2894,7 @@
         "developer": "quantumgames-studio",
         "platforms": "yes",
         "rating": 4.7,
-        "ratingCount": 663,
+        "ratingCount": 665,
         "genres": [
           "Simulation"
         ],
@@ -2915,7 +2922,7 @@
         "developer": "tomyself",
         "platforms": "yes",
         "rating": 4.7,
-        "ratingCount": 410,
+        "ratingCount": 413,
         "genres": [
           "Visual Novel",
           "Interactive Fiction"
@@ -2933,6 +2940,20 @@
     ],
     "newAndPopular": [
       {
+        "id": "itch:dawn-chorus.itch.io/dawn-chorus",
+        "source": "itch",
+        "name": "Dawn Chorus",
+        "url": "https://dawn-chorus.itch.io/dawn-chorus",
+        "image": "https://img.itch.zone/aW1nLzIyNjc4MTkwLmdpZg==/original/hWWLn3.gif",
+        "releaseDate": null,
+        "createdDate": "2020-07-22",
+        "updatedDate": "2026-11-28",
+        "price": "Gratis",
+        "shortDescription": "A queer romance visual novel",
+        "developer": "dawn-chorus",
+        "platforms": "yes yes yes yes"
+      },
+      {
         "id": "itch:hofstudios.itch.io/doe",
         "source": "itch",
         "name": "Depth of Extinction",
@@ -2945,6 +2966,20 @@
         "shortDescription": "Explore a flooded world in this tactical RPG",
         "developer": "hofstudios",
         "platforms": "yes yes yes"
+      },
+      {
+        "id": "itch:mixelslab.itch.io/wizonk",
+        "source": "itch",
+        "name": "Wizonk! Magic Arena",
+        "url": "https://mixelslab.itch.io/wizonk",
+        "image": "https://img.itch.zone/aW1nLzE5NDI2MDgzLnBuZw==/315x250%23c/ICpUWb.png",
+        "releaseDate": null,
+        "createdDate": "2024-01-18",
+        "updatedDate": "2026-11-28",
+        "price": "Gratis",
+        "shortDescription": "4 Player Wizard Battles for Amiga",
+        "developer": "mixelslab",
+        "platforms": ""
       },
       {
         "id": "itch:frengoestudios.itch.io/nightbound",
@@ -3003,20 +3038,6 @@
         "platforms": "yes"
       },
       {
-        "id": "itch:finn-truong.itch.io/life-and-lemon",
-        "source": "itch",
-        "name": "Life and Lemon",
-        "url": "https://finn-truong.itch.io/life-and-lemon",
-        "image": "https://img.itch.zone/aW1nLzMyNjA2MzA3LnBuZw==/315x250%23c/laxp%2B0.png",
-        "releaseDate": null,
-        "createdDate": "2025-06-22",
-        "updatedDate": "2026-11-26",
-        "price": "Gratis",
-        "shortDescription": "A cozy fruit farming deckbuilder",
-        "developer": "finn-truong",
-        "platforms": "yes"
-      },
-      {
         "id": "itch:onelevelstudio.itch.io/demonettes",
         "source": "itch",
         "name": "DEMONETTES",
@@ -3029,6 +3050,34 @@
         "shortDescription": "7 cute demon girls at the forgotten bar",
         "developer": "onelevelstudio",
         "platforms": "yes"
+      },
+      {
+        "id": "itch:finn-truong.itch.io/life-and-lemon",
+        "source": "itch",
+        "name": "Life and Lemon",
+        "url": "https://finn-truong.itch.io/life-and-lemon",
+        "image": "https://img.itch.zone/aW1nLzMyNjA2MzA3LnBuZw==/315x250%23c/laxp%2B0.png",
+        "releaseDate": null,
+        "createdDate": "2025-06-22",
+        "updatedDate": "2026-11-27",
+        "price": "Gratis",
+        "shortDescription": "A cozy fruit farming deckbuilder",
+        "developer": "finn-truong",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:shinh.itch.io/enter-the-nyangeon",
+        "source": "itch",
+        "name": "​Enter The Nyangeon",
+        "url": "https://shinh.itch.io/enter-the-nyangeon",
+        "image": "https://img.itch.zone/aW1nLzI2NTY3MjM0LmpwZw==/315x250%23c/UmTyml.jpg",
+        "releaseDate": null,
+        "createdDate": "2026-04-07",
+        "updatedDate": "2026-11-28",
+        "price": "Gratis",
+        "shortDescription": "A BlueArchive Roguelike fangame.",
+        "developer": "shinh",
+        "platforms": "yes yes"
       },
       {
         "id": "itch:nordicgameslab.itch.io/ngl-biathlon",
@@ -3052,11 +3101,39 @@
         "image": "https://img.itch.zone/aW1nLzI5NzA1OTMzLnBuZw==/315x250%23c/sw9tvI.png",
         "releaseDate": null,
         "createdDate": "2026-08-27",
-        "updatedDate": "2026-11-27",
+        "updatedDate": "2026-11-28",
         "price": "Gratis",
         "shortDescription": "",
         "developer": "tuyoki",
         "platforms": "yes"
+      },
+      {
+        "id": "itch:sundercroft.itch.io/envoy-the-kings-gambit",
+        "source": "itch",
+        "name": "ENVOY: The King's Gambit",
+        "url": "https://sundercroft.itch.io/envoy-the-kings-gambit",
+        "image": "https://img.itch.zone/aW1nLzMyOTQxODc4LnBuZw==/315x250%23c/yBmC%2Fl.png",
+        "releaseDate": null,
+        "createdDate": "2026-02-01",
+        "updatedDate": "2026-11-28",
+        "price": "Gratis",
+        "shortDescription": "A choice-driven gothic fantasy where every decision shapes your journey through a dying world.",
+        "developer": "sundercroft",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:stillnave-studio.itch.io/tales-after-dark-something-upstairs",
+        "source": "itch",
+        "name": "Tales After Dark: Something Upstairs",
+        "url": "https://stillnave-studio.itch.io/tales-after-dark-something-upstairs",
+        "image": "https://img.itch.zone/aW1nLzI5ODMyNjYzLmdpZg==/original/PuBEFc.gif",
+        "releaseDate": null,
+        "createdDate": "2026-07-08",
+        "updatedDate": "2026-09-07",
+        "price": "Gratis",
+        "shortDescription": "Don't look up. It already knows you heard it.",
+        "developer": "stillnave-studio",
+        "platforms": "yes yes"
       },
       {
         "id": "itch:deby-studio.itch.io/the-cursed-box",
@@ -3129,6 +3206,48 @@
         "platforms": "yes yes"
       },
       {
+        "id": "itch:newmediaxp.itch.io/shaolin-sudoku",
+        "source": "itch",
+        "name": "Shaolin Sudoku",
+        "url": "https://newmediaxp.itch.io/shaolin-sudoku",
+        "image": "https://img.itch.zone/aW1nLzMyOTUyNjc4LnBuZw==/315x250%23c/yecktB.png",
+        "releaseDate": null,
+        "createdDate": "2020-10-23",
+        "updatedDate": "2026-11-28",
+        "price": "Gratis",
+        "shortDescription": "Sharpen your mind by crunching numbers in a relaxing way.",
+        "developer": "newmediaxp",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:springasmr.itch.io/your-cat-girl-bully-hates-how-much-she-loves-your-head-pats",
+        "source": "itch",
+        "name": "Your Cat Girl Bully Hates How Much She Loves Your Head Pats",
+        "url": "https://springasmr.itch.io/your-cat-girl-bully-hates-how-much-she-loves-your-head-pats",
+        "image": "https://img.itch.zone/aW1nLzMyOTI5OTc0LnBuZw==/315x250%23c/oQ3f9a.png",
+        "releaseDate": null,
+        "createdDate": "2026-11-27",
+        "updatedDate": "2026-11-27",
+        "price": "Gratis",
+        "shortDescription": "A fully voiced romantic comedy visual novel. Your bully is a cat girl. You just found out what head pats do to her.",
+        "developer": "springasmr",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:lavabucket61.itch.io/huss-huss-huss",
+        "source": "itch",
+        "name": "huss huss huss android port",
+        "url": "https://lavabucket61.itch.io/huss-huss-huss",
+        "image": "",
+        "releaseDate": null,
+        "createdDate": "2026-11-27",
+        "updatedDate": "2026-11-28",
+        "price": "Gratis",
+        "shortDescription": "",
+        "developer": "lavabucket61",
+        "platforms": "yes"
+      },
+      {
         "id": "itch:bergice.itch.io/lurkers",
         "source": "itch",
         "name": "lurkers.io",
@@ -3185,6 +3304,20 @@
         "platforms": "yes"
       },
       {
+        "id": "itch:oriongame.itch.io/neo",
+        "source": "itch",
+        "name": "NEO: The Game",
+        "url": "https://oriongame.itch.io/neo",
+        "image": "https://img.itch.zone/aW1nLzE3OTc2NTUxLmpwZWc=/315x250%23c/Xc5cGg.jpeg",
+        "releaseDate": null,
+        "createdDate": "2017-06-28",
+        "updatedDate": "2026-08-23",
+        "price": "4.99€",
+        "shortDescription": "Evolves from Medieval age to the Spatial Age - Online!",
+        "developer": "oriongame",
+        "platforms": "yes yes yes"
+      },
+      {
         "id": "itch:simplestar-game.itch.io/cubeartworld",
         "source": "itch",
         "name": "CubeArtWorld",
@@ -3192,10 +3325,24 @@
         "image": "https://img.itch.zone/aW1nLzc4NDcyNzcucG5n/315x250%23c/Y3tbT0.png",
         "releaseDate": null,
         "createdDate": "2022-01-10",
-        "updatedDate": "2026-11-27",
+        "updatedDate": "2026-11-28",
         "price": "Gratis",
         "shortDescription": "A 3D sandbox world built by its players, now offline and free to explore and build in with your VRoid Hub avatar.",
         "developer": "simplestar-game",
+        "platforms": "yes"
+      },
+      {
+        "id": "itch:vainius.itch.io/eat-the-house",
+        "source": "itch",
+        "name": "Eat The House",
+        "url": "https://vainius.itch.io/eat-the-house",
+        "image": "https://img.itch.zone/aW1nLzMyODk0NjAyLnBuZw==/315x250%23c/FWYOXG.png",
+        "releaseDate": null,
+        "createdDate": "2026-11-27",
+        "updatedDate": "2026-11-28",
+        "price": "Gratis",
+        "shortDescription": "An idle game about feeding a house to a bug queen.",
+        "developer": "vainius",
         "platforms": "yes"
       },
       {
@@ -3213,6 +3360,20 @@
         "platforms": "yes yes yes yes"
       },
       {
+        "id": "itch:khiloo.itch.io/zelisracing",
+        "source": "itch",
+        "name": "ZelisRacing",
+        "url": "https://khiloo.itch.io/zelisracing",
+        "image": "https://img.itch.zone/aW1nLzMyOTE1Njc2LmpwZw==/315x250%23c/edgjiG.jpg",
+        "releaseDate": null,
+        "createdDate": "2026-11-26",
+        "updatedDate": "2026-11-28",
+        "price": "Gratis",
+        "shortDescription": "Work in progress ,some things might not work as intended ,let me know for improvements",
+        "developer": "khiloo",
+        "platforms": "yes yes"
+      },
+      {
         "id": "itch:riftborne.itch.io/riftborne",
         "source": "itch",
         "name": "Riftborne",
@@ -3225,48 +3386,6 @@
         "shortDescription": "A classic terminal based 4x space strategy!",
         "developer": "riftborne",
         "platforms": "yes yes"
-      },
-      {
-        "id": "itch:emberhoard.itch.io/dragon-dynasty",
-        "source": "itch",
-        "name": "Dragon Dynasty",
-        "url": "https://emberhoard.itch.io/dragon-dynasty",
-        "image": "https://img.itch.zone/aW1nLzMyODA2MzA5LnBuZw==/315x250%23c/TeRetG.png",
-        "releaseDate": null,
-        "createdDate": "2026-10-25",
-        "updatedDate": "2026-11-26",
-        "price": "Gratis",
-        "shortDescription": "Burn the kingdom's armies, guard your gold, and raise a dragon dynasty. New: Elder Tree hall, Trophy Hall.",
-        "developer": "emberhoard",
-        "platforms": "yes"
-      },
-      {
-        "id": "itch:glitchedlizard.itch.io/atonement-classic",
-        "source": "itch",
-        "name": "ATONEMENT",
-        "url": "https://glitchedlizard.itch.io/atonement-classic",
-        "image": "https://img.itch.zone/aW1nLzI2MjA1MDUyLnBuZw==/315x250%23c/cyN0mg.png",
-        "releaseDate": null,
-        "createdDate": "2026-02-19",
-        "updatedDate": "2026-11-22",
-        "price": "$3.99",
-        "shortDescription": "Complete the Harbinger's trial and atone for what you've done.",
-        "developer": "glitchedlizard",
-        "platforms": "yes"
-      },
-      {
-        "id": "itch:mokamwww.itch.io/fried-chicken-wings",
-        "source": "itch",
-        "name": "Fried chicken wings cause love fire",
-        "url": "https://mokamwww.itch.io/fried-chicken-wings",
-        "image": "https://img.itch.zone/aW1nLzE3NjMzOTk0LmpwZw==/315x250%23c/u1uxj%2F.jpg",
-        "releaseDate": null,
-        "createdDate": "2024-08-02",
-        "updatedDate": "2026-11-22",
-        "price": "$7.99",
-        "shortDescription": "Resurrected corpse ruined my perfect life!",
-        "developer": "mokamwww",
-        "platforms": "yes yes yes yes"
       },
       {
         "id": "itch:kenki-fantasia.itch.io/boxing-heroines",
@@ -3283,158 +3402,46 @@
         "platforms": "yes"
       },
       {
-        "id": "itch:khiloo.itch.io/street-legends",
+        "id": "itch:emberhoard.itch.io/dragon-dynasty",
         "source": "itch",
-        "name": "Street Legends",
-        "url": "https://khiloo.itch.io/street-legends",
-        "image": "https://img.itch.zone/aW1nLzMyODQ2OTk4LmpwZw==/315x250%23c/zDFNS%2F.jpg",
+        "name": "Dragon Dynasty",
+        "url": "https://emberhoard.itch.io/dragon-dynasty",
+        "image": "https://img.itch.zone/aW1nLzMyODA2MzA5LnBuZw==/315x250%23c/TeRetG.png",
         "releaseDate": null,
-        "createdDate": "2026-11-26",
-        "updatedDate": "2026-11-27",
+        "createdDate": "2026-10-25",
+        "updatedDate": "2026-11-26",
         "price": "Gratis",
-        "shortDescription": "Work in progress ,some things might not work as intended ,let me know for improvements",
-        "developer": "khiloo",
-        "platforms": ""
+        "shortDescription": "Burn the kingdom's armies, guard your gold, and raise a dragon dynasty. New: Elder Tree hall, Trophy Hall.",
+        "developer": "emberhoard",
+        "platforms": "yes"
       },
       {
-        "id": "itch:mxretrodev.itch.io/alone-in-the-dark-md",
+        "id": "itch:bncc-387.itch.io/welcome-to-youtube-short-mobile-port",
         "source": "itch",
-        "name": "Alone in the Dark MD",
-        "url": "https://mxretrodev.itch.io/alone-in-the-dark-md",
-        "image": "https://img.itch.zone/aW1nLzMyODc3MzA2LnBuZw==/315x250%23c/uftNTl.png",
+        "name": "WELCOME TO YOUTUBE SHORT MOBİLE PORT",
+        "url": "https://bncc-387.itch.io/welcome-to-youtube-short-mobile-port",
+        "image": "https://img.itch.zone/aW1nLzMyOTI0MDMzLmpwZw==/315x250%23c/vEAMf8.jpg",
         "releaseDate": null,
-        "createdDate": "2026-11-26",
+        "createdDate": "2026-11-27",
         "updatedDate": "2026-11-27",
         "price": "Gratis",
-        "shortDescription": "Alone in the Dark port for Mega Drive / SEGA Genesis",
-        "developer": "mxretrodev",
-        "platforms": ""
-      },
-      {
-        "id": "itch:marcosd.itch.io/a-slugs-dream",
-        "source": "itch",
-        "name": "A Slug's Dream",
-        "url": "https://marcosd.itch.io/a-slugs-dream",
-        "image": "https://img.itch.zone/aW1nLzEzMDEwMjU0LnBuZw==/315x250%23c/%2FlqOzw.png",
-        "releaseDate": null,
-        "createdDate": "2022-01-20",
-        "updatedDate": "2026-11-20",
-        "price": "$4.99",
         "shortDescription": "",
-        "developer": "marcosd",
-        "platforms": "yes yes yes"
-      },
-      {
-        "id": "itch:doksa.itch.io/amber-eyes",
-        "source": "itch",
-        "name": "Amber Eyes",
-        "url": "https://doksa.itch.io/amber-eyes",
-        "image": "https://img.itch.zone/aW1nLzMwNjMxMzM1LnBuZw==/315x250%23c/Kg2O94.png",
-        "releaseDate": null,
-        "createdDate": "2026-08-30",
-        "updatedDate": "2026-11-24",
-        "price": "Gratis",
-        "shortDescription": "Dogs and Poles not permitted entry",
-        "developer": "doksa",
-        "platforms": "yes"
-      },
-      {
-        "id": "itch:gfx47.itch.io/respect-the-horde",
-        "source": "itch",
-        "name": "Respect The Horde (Demo)",
-        "url": "https://gfx47.itch.io/respect-the-horde",
-        "image": "https://img.itch.zone/aW1nLzMwOTAyNzEyLmdpZg==/original/Xo%2Biwy.gif",
-        "releaseDate": null,
-        "createdDate": "2026-03-20",
-        "updatedDate": "2026-11-24",
-        "price": "Gratis",
-        "shortDescription": "You're outnumbered. Outsmart them!",
-        "developer": "gfx47",
-        "platforms": "yes"
-      },
-      {
-        "id": "itch:glazial.itch.io/holonoptic",
-        "source": "itch",
-        "name": "holonoptic",
-        "url": "https://glazial.itch.io/holonoptic",
-        "image": "https://img.itch.zone/aW1nLzI2MTk5OTQ0LnBuZw==/315x250%23c/fjwsEF.png",
-        "releaseDate": null,
-        "createdDate": "2019-09-10",
-        "updatedDate": "2026-09-19",
-        "price": "Gratis",
-        "shortDescription": "Become the CEO of our multinational conglomerate and expand it into the weakened Euro zone.",
-        "developer": "glazial",
-        "platforms": "yes yes yes"
-      },
-      {
-        "id": "itch:im-trishant.itch.io/subway-surfer-uno-reverse",
-        "source": "itch",
-        "name": "Subway Surfer Uno Reverse",
-        "url": "https://im-trishant.itch.io/subway-surfer-uno-reverse",
-        "image": "https://img.itch.zone/aW1nLzMyODUxODU3LnBuZw==/315x250%23c/47Z88W.png",
-        "releaseDate": null,
-        "createdDate": "2026-11-26",
-        "updatedDate": "2026-11-26",
-        "price": "Gratis",
-        "shortDescription": "What if you could fight back against the Subway Surfers Inspector instead of running away? Play the UNO Reverse!",
-        "developer": "im-trishant",
-        "platforms": "yes"
-      },
-      {
-        "id": "itch:emika-games.itch.io/pieces-of-me",
-        "source": "itch",
-        "name": "Pieces of me",
-        "url": "https://emika-games.itch.io/pieces-of-me",
-        "image": "https://img.itch.zone/aW1nLzIxMzAwMDI2LmpwZw==/315x250%23c/4UjN9k.jpg",
-        "releaseDate": null,
-        "createdDate": "2025-05-21",
-        "updatedDate": "2026-01-29",
-        "price": "$0.89",
-        "shortDescription": "Thriller-Drama... \"What is love?\"",
-        "developer": "emika-games",
-        "platforms": "yes"
-      },
-      {
-        "id": "itch:cuteanimegirls.itch.io/endless-dates-sakura",
-        "source": "itch",
-        "name": "Endless Dates: Sakura 🌸",
-        "url": "https://cuteanimegirls.itch.io/endless-dates-sakura",
-        "image": "https://img.itch.zone/aW1nLzMyNTc5NTg3LnBuZw==/315x250%23c/CAGvMY.png",
-        "releaseDate": null,
-        "createdDate": "2026-11-10",
-        "updatedDate": "2026-11-26",
-        "price": "Gratis",
-        "shortDescription": "A hot springs date with a catgirl! Clear Match-3 sushi puzzles, stack card combos, and unlock Sakura’s outfits. ♥",
-        "developer": "cuteanimegirls",
-        "platforms": "yes"
-      },
-      {
-        "id": "itch:arlagames.itch.io/arlasoft-soccer",
-        "source": "itch",
-        "name": "Arlasoft Soccer (C64/C128)",
-        "url": "https://arlagames.itch.io/arlasoft-soccer",
-        "image": "https://img.itch.zone/aW1nLzMwODQ0MDg5LnBuZw==/315x250%23c/Xqe72e.png",
-        "releaseDate": null,
-        "createdDate": "2026-10-13",
-        "updatedDate": "2026-11-27",
-        "price": "Gratis",
-        "shortDescription": "A football game for the Commodore 64, inspired by the classic Amiga/PC game Sensible Soccer",
-        "developer": "arlagames",
+        "developer": "bncc-387",
         "platforms": ""
       },
       {
-        "id": "itch:rollingcrown.itch.io/demonheart",
+        "id": "itch:lupa-lupa.itch.io/mini-luppya-world",
         "source": "itch",
-        "name": "Demonheart",
-        "url": "https://rollingcrown.itch.io/demonheart",
-        "image": "https://img.itch.zone/aW1hZ2UvMTI3NzE5LzU4ODA2My5qcGc=/315x250%23c/b1QFl4.jpg",
+        "name": "미니루뺘월드!",
+        "url": "https://lupa-lupa.itch.io/mini-luppya-world",
+        "image": "https://img.itch.zone/aW1nLzMyOTI0MTM3LnBuZw==/315x250%23c/qBgYAc.png",
         "releaseDate": null,
-        "createdDate": "2017-03-16",
-        "updatedDate": "2026-05-08",
-        "price": "$5.99",
-        "shortDescription": "Dark fantasy romance, lots of dialog choices.",
-        "developer": "rollingcrown",
-        "platforms": "yes yes yes"
+        "createdDate": "2026-11-18",
+        "updatedDate": "2026-11-28",
+        "price": "Gratis",
+        "shortDescription": "루뺘와 함께하는 미니게임월드",
+        "developer": "lupa-lupa",
+        "platforms": "yes"
       }
     ]
   }
